@@ -1,0 +1,1318 @@
+﻿
+به نام آنکه جان را فکرت آموخت
+وزارت بهداشت، درمان و آموزش پزشکی معاونت آموزشی
+دبیرخانه شورای آموزش علوم پایه پزشکی، بهداشت و تخصصی مرکز سنجش آموزش پزشکی
+
+سوالات آزمون ورودی دکتری تخصصی (Ph.D)
+سال تحصیلی 3041-3041
+رشته: انفورماتیک پزشکی
+
+
+130
+100 دقیقه
+00
+
+تعداد سوالات:
+زمان پاسخگویی: تعداد صفحات:
+
+
+مشخصات      داوطلب: نام.............................................:  نام خانوادگی............................:
+
+
+
+
+
+
+توجه: استفاده از ماشین حساب مجاز نمیباشد.
+
+
+انفورماتیک پزشکی
+-2   در کدامیک از روشهای کلاسهبندی، یادگیری انجام نمیشود؟
+
+د) ماشین بردار پشتیبان
+
+K-means )ج
+
+ب) درخت تصمیم
+
+الف) شبکه عصبی
+
+-1   فرض کنید قرار است الگوی تجویز داروی یک بیماری استخراج شود؛ در خصوص این بیماری، پزشک داروی A را به همراه داروی B تجویز میکند. الگوی مذکور را با کدام تکنیک میتوان استخراج نمود؟
+
+د) رگرسیون
+
+ج) کلاسهبندی
+
+ب) خوشهبندی
+
+الف) قواعد انجمنی
+
+-3   فرض کنید احتمال ابتلا به بیماری COVID-19، 04 درصد باشد. تست بیمااری COVID-19 بارای 04 نفار انجاام شاده و تست 34 نفر از آنان مثبت اعلام شده است. با در نظر گرفتن اینکه اگر فرد بیمار باشد، به احتمال 04 درصد تست وی مثبات خواهد بود، احتمال ابتلا به بیماری COVID-19 به شرط مثبت شدن تست را با استفاده از تئوری بیزین محاسبه کنید.
+
+04 )د
+
+84 )ج
+
+55 )ب
+
+الف) 84
+
+-0   کدام گزینه جز اصول اخلاقی در کاربرد سیستمهای پشتیبان تصمیم نیست؟
+الف) یک سیستم پشتیبان تصمیم بالینی تنها پس از ارزیابی مناسب از بعد کارآیی آن و مستتنداتی مبنتی بتر انجتاظ وهی ته مورد نظر با هزینه قابل قبول در عرصه بالینی است اده شود.
+ب) یکی از مهمترین اصول اخلاقی در به کارگیری سیستمهتای پشتتیبان تصتمیمر حرادتی درون ستازمانی آن بته منظتور مطابقت کامل با مساله مورد نظر و افزایش دقت در تصمیمگیری است.
+ج)  کاربران سیستمهای پشتیبان تصمیم بالینی باید متخصصان دوزه سلامت باشند که واجد شرایط پاستخوویی بته ستوال مورد نظر سیستم براساس دانشر آموزش بالینی و تجربه هستند.
+د)  است اده از سیستمهای پشتیبان تصمیم بالینیر به ویژه در مراقبتهای بستریر منوط به ارزیابیهای محصول بوده و باید به همراه آموزش کافی به کاربران ارائه شود.
+-5   در خصوص استفاده از ابزارهای فناوری اطلاعات سلامت (نرمافزارهای سلامت) چنانچه مسائل حقاوقی و اخلاقای ر   دهد، میتوان آن را در محاکم قضایی بررسی و پیگیری کرد. در این محاکم قضایی بین قوانین مرباوط باه محصاوتت )Product( و خدمات )Services( تفاوت وجود دارد. به نظر شما این ابزارها باید تحت قوانین کدامیک بررسی شوند؟
+الف) این امکان وجود دارد که برنامههای نرظافزاری بالینی تحت برخی شرایط به عنتوان محصتول و تحتت شترایط دیوتر بته عنوان خدمات تلقی شوند.
+ب) برنامههای نرظافزاری حرادیشدهر آزمایششدهر اشکالزداییشده و قرار داده شده بر روی DVD یا رسانههای دیوتر کته به شکل فیزیکی بین خریداران توزیع میشوندر باید در محاکم قضایی به عنوان محصول در نظر گرفته شوند.
+
+DVD یا رسانههای دیور با توجه به اینکته
+
+ج)  برنامههای نرظافزاری حرادی شدهر اشکالزداییشده و قرار داده شده بر روی
+
+نوعی از خدمات (گردآوریر تحلیل و ذخیره دادهها) را در نظاظ سلامت انجاظ میدهند باید در محاکم قضتایی بته عنتوان خدمت در نظر گرفته شوند.
+د)  در محاکم قضایی و در آسیبهایی که از جانب نرظافزار به دوزه سلامت و انسانها وارد شدهر قانونهتای مصتوبی توستط سازمانهای متولی قانونگذاری وجود ندارد.
+-0  در یک کارآزمایی بالینی چند مرکزی که محققان و شرکتکنندگان در مطالعه در فواصل جغرافیایی مختلفی قرار دارناد، به منظور گردآوری و مدیریت دادههای حاصل از مطالعه و انجام مداخلات کدام فناوری میتواند کاربردی باشد؟
+Statistical Packages )الف
+Electronic Data Capture )ب Publication Databases )ج Collaboration Platforms  )د
+
+
+-7  براساس کدام اصل در اخلاق پزشکی، اطلاعات شخصی هر فرد متعلق به اوست و دیگران نباید بدون رضاایت وی از آن مطلع گردند؟
+
+Privacy )د
+
+Autonomy )ج
+
+Confidentiality )ب
+
+Trust
+
+الف)
+
+-8  کدام استاندارد در خصوص ذخیره دادهها اعمال میگردد تا ساازمانهاا بتوانناد معیارهاای HIPAA را در ماورد حفاظت از دادهها در شرایط مفقودی و یا سرقت رعایت کنند؟
+
+ISO 20000/27000 )د
+
+FIPS 140-2 )ج
+
+PCI-DSS )ب
+
+FISMA )الف
+
+-9   کدام روشها برای استخراج اطلاعات در مورد نظرات و دیدگاههای شرکت کنندگان و شیوههای کاری آنها اساتفاده میشوند؟
+الف) مصادبه و فوکوس گروپ
+ب) ارزیابی هیوریستیک و پرسشنامه ج) ارزیابی شناختی و مشاهده
+د)  بیان افکار و تحلیل رفتار
+
+کدامیک از روشهای زیر مستلزم تعیین توالی اقدامات و اهداف برای انجام یک کار است؟
+Cognitive Walkthrough )الف
+
+-24
+
+Heuristic Evaluation  )ب
+Focus Group	)ج
+Task Analysis	)د
+
+مفهوم Efficiency به عنوان یکی از مولفههای کاربردپذیری چیست؟
+الف) کاربران مبتدی درک بالایی از کاربردهای سیستم داشته باشند.
+
+-22
+
+ب) کاربران تمامی اقدامات را به درستی انجاظ دهند. ج) کاربران بتوانند همه اقدامات را تکمیل نمایند.
+د)  کاربران با تجربه بتوانند به سطح بالایی از بهرهوری دست یابند.
+
+کدام روش ارزیابی گذشته نگر است؟
+Questionnaire )الف
+
+-21
+
+     Focus group )ب Document analysis	)ج User testing	)د
+
+روش aloud Think در تعامل انسان با رایانه معموت برای چه هدفی استفاده میشود؟
+الف) گردآوری نظرات حرادانر است ادهکنندگان و ذین عان سیستم
+
+-23
+
+ب) نیاز سنجی در مورد ویژگیهای مورد نیاز کاربران برای حرادی سیستم
+ج)  است اده از کاربران سیستم به عنوان ارزیاب جهت شناسایی مشکلات کاربردپذیری د)  شناسایی فرآیندهای شناختی کاربران مانند استدلالر دل مسئله و تصمیمگیری
+
+
+در کدام روش محصول تولید شده توسط تولیدکنندگان مورد استفاده و ارزیابی قرار میگیرد؟
+Peer critique )الف
+
+-20
+
+      Dogfooding )ب Expert panel	)ج Collaborative design	)د
+
+
+
+
+گروهی از توسعهدهندگان سیستمهای اطلاعات بالینی معتقدند که «نقص در یکی از الزامات )requirements( کاه تا زمان ساخت یا نگهداری سیستم شناسایی نشده باقی میماند، 54 تا 144 برابر هزینه زماانی بارای تارمیم نیااز خواهد داشت.» آنها معتقدند زمان صرف شده برای اطمینان از صحیح بودن الزامات و طراحی باعث صارفهجاویی قابل توجهی در زمان و تلاش میشود. به نظر شما رویکرد آنها برای توسعه سیستم کدام است؟
+
+-25
+
+Acquisition )د
+
+Prototype Model )ج
+
+Agile Models )ب
+
+Waterfall Model )الف
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                فرض کنید در سازمانی پس از بررسی جوانب مختلف این نتیجهگیری صورت گرفته است که به جاای توساعه یاک سیستم اطلاعاتی یک سیستم تجاری انتخاب و از فروشنده خریداری گردد. کدام عامل نمیتواند جز عوامل کلیدی سازمانها در هنگام انتخاب این سیستم اطلاعاتی باشد؟
+الف) عملکرد اصلی نرظ افزارر از جمله یکپارچهسازی با سیستمهای دیور
+
+-20
+
+ب) هزینه کل سیستم
+ج)  میزان مشارکت کاربران نهایی در توسعه آن سیستم تجاری د)  تجربه ارائه خدمات به مشتریان دیور
+
+
+کدام معماری نرم افزاری برای پیادهسازی بستر پزشکی شخصی medicine( )Personalized مناسب است؟
+الف) معماری سرویس دهنده/ سرویس گیرنده
+
+-27
+
+ب) معماری توزیع شده همراه با سرویسهای انتقال پیاظ ج) معماری مبتنی بر وب
+د)  معماری متمرکز بانک احلاعاتی و رابط کاربر
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                فرض کنید که یک شرکت خصوصی توسعه دهنده نرم افزار مدیریت اطلاعات بیمارستانی )HIS( بخواهد با استفاده از سرویسهای محاسبات ابری )Cloud( همه بانکهای اطلاعاتی سامانههای HIS را در اختیار مشتریان خاود قارار دهد.کدام سرویس محاسبات ابری برای این منظور استفاده میشود؟
+software as a service )الف
+
+-28
+
+                 Cloud clients )ب hardware as a service	)ج platform/infrastructure as a service	)د
+
+
+کدامیک از نمودارهای زیر جزء نمودار رفتاری UML است؟
+Use Case Diagram-Class Diagram )الف
+
+-29
+
+Activity Diagram-Use Case Diagram )ب Component Diagram-Class Diagram )ج Sequence Diagram-Package Diagram  )د
+
+
+ویژگی Learnability در سیستمها با کدامیک از علوم زیر در ارتباط است؟
+Computer science )الف
+
+-14
+
+Information science )ب Neuroscience	)ج Cognitive science	)د
+
+
+
+
+کدام گزینه در خصوص نمودار کوه یخ )Iceberg( صحیح نیست؟
+الف) لایه منطق کسبوکار و قوانین کسبوکار در وسط نمودار کوه یخ قرار دارند.
+
+-12
+
+ب) لایه دسترسی به دادهها در پایینترین سطح نمودار قرار دارد. ج)  لایه نمایش و تعامل با کاربر در بالاترین سطح نمودار قرار دارد.
+د)  نمودار کوه یخ نشان میدهد که بیشترین دجم کار در حرادی سیستمها در مشخص کردن منطق کسب و کار انجاظ میشود.
+
+
+.......... یک رویکرد میان رشتهای برای توسعه اصول، روشها و ابزارها جهت ارزیابی و هدایت طراحی سیستمها باه منظور پشتیبانی از عملکرد انسان است.
+Distributed cognition )الف
+
+-11
+
+   Evaluation Heuristic )ب Cognitive engineering	)ج Task Analysis Cognitive		)د
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                با فرض اینکه در یک بیمارستان جنرال با تعداد اتاق عملهای خیلی زیاد سامانهای تحت وب برای مشاهده لحظهای وضعیت بیماران حاضر در اتاق عمل برای همراهان آنها و نمایش اطلاعات بیماران بخاواهیم طراحای کنایم کاه باا سامانه HIS بیمارستان تبادل اطلاعات لحظهای داشته باشد.کدامیک از تکنولوژیهای زیر را برای برقراری ارتبااط بین این دو نرم افزار مناسبتر است؟
+Web Service )الف
+
+-13
+
+ب) تبادل احلاعات از حریق یک فایل متنی
+ج)  ارتباط از حریق XML و مبتنی بر تکنولوژی AJAX
+د)  ارتباط مستقیم بانکهای احلاعاتی دو نرظ افزار با یکدیور
+-10  خروجی قطعه برنامه زیر کدام گزینه است؟
+#define A(a,b) (a+b)*5+a*b Main
+{
+Printf(“%d”,A(2,3));
+}
+
+4 )د
+
+55 )ج
+
+18 )ب
+
+الف) 48
+
+
+
+
+int main()
+{
+
+مقدار متغیر p بر از اجرای برنامه مقابل کدام است؟
+
+-15
+
+int p;
+bool a = true; bool b = false; int x = 10;
+int y = 5;
+p = ((x | y) + (a + b)); cout << p;
+return 0;
+}
+
+80 )د
+
+1 )ج
+
+4 )ب
+
+الف) 81
+
+
+
+
+
+#include <iostream>
+int operate (int a, int b)
+{
+
+خروجی قطعه کد مقابل کدام گزینه است؟
+
+-10
+
+return (a * b);
+}
+float operate (float a, float b)
+{
+return (a / b);
+}
+int main()
+{
+int x = 5, y = 2;
+float n = 5.0, m = 2.0;
+cout << operate(x, y) <<"\t"; cout << operate (n, m); return 0;
+}
+
+5	1.5 )د
+
+84	5.4 )ج
+
+84	1.5 )ب
+
+الف) 4.5  84
+
+-17  خروجی کد مقابل کدام گزینه است؟
+#include <iostream> int main ()
+{
+int a, b, c;
+a = 2;
+b = 7;
+c = (a > b) ? a : b; cout << c;
+return 0;
+}
+
+7 )د
+
+0 )ج
+
+88 )ب
+
+الف) 81
+
+
+
+
+ #include <stdio.h> #include<iostream> int main ()
+{
+
+خروجی برنامه زیر کدام است؟
+
+-18
+
+int array[] = {0, 2, 4, 6, 7, 5, 3};
+int n, result = 0;
+for (n = 0; n < 8; n++)
+{
+result += array[n];
+}
+
+cout << result; return 0;
+}
+15 )د
+
+
+
+10 )ج
+
+
+
+17 )ب
+
+
+
+الف) 18
+
+
+
+
+
+#include <iostream> int main()
+{
+
+خروجی قطعه برنامه زیر کدام است؟
+
+-19
+
+int a = 5; float b;
+cout << sizeof(++a + b); cout << a;
+return 0;
+}
+
+5	8 )د
+
+0	1 )ج
+
+0	8 )ب
+
+الف) 1  5
+
+
+
+فشردهسازی، رمزگذاری و رمزگشایی پیامها عملیات مربوط به کدام تیه شبکه است؟
+Session layer )الف
+
+-34
+
+Presentation layer )ب Transport layer )ج Data link layer  )د
+
+کدام بخش از آدرس زیر اشاره به سروری دارد که درخواستHTTP به آن ارسال میشود؟
+https://sanjeshp.ir/sanjesh/about
+
+-32
+
+sanjesh/about )الف
+sanjeshp.ir/sanjesh/about  )ب
+sanjeshp.ir	)ج
+https://	)د
+
+
+فرض کنید لیستی از درسهای دانشجویان را در اختیار داریم که از ستونهای تعداد واحد، نام درس، کد درس، ناام دانشجو و شماره دانشجویی تشکیل شده است. اگر بخواهیم فرایند انتخااب واحاد دانشاجویان را در یاک باناک اطلاعاتی به گونهای ذخیره کنیم که حداقل تکرار اطلاعات را داشته باشیم، حداقل به چند جدول نیاز داریم؟
+
+-31
+
+8 )د
+
+1 )ج
+
+1 )ب
+
+الف) 8
+
+
+
+........... زبانی است که نیازی به کامپایلر ندارد بلکه کدهای آن در بطن صفحات وب جاسازی شده است و توسط یک مفسر که در مرورگر قرار دارد تفسیر و اجرا میشود.
+
+-33
+
+Java Script )د
+
+Apache )ج
+
+Java )ب
+
+الف) C#
+
+در معماری سه تیه انبار دادهها Warehouse( )Data تیه میانی کدام است؟
+
+-30
+
+Database server )د
+
+OLTP-Server )ج
+
+Front-End Tools )ب
+
+OLAP Server )الف
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                فرض کنید که دادههای مربوط به بیماران با فشار خون بات شامل پارامترهای سن و BMI و جنس و عدد فشار خون برای 2144 نفر موجود است. کدام دسته از الگوریتمهای تشخیص دادههای پرتDetection( )Outlier را برای اجارا در این مجوعه دادهها اولویت دارند؟
+الف) الووریتمهای مبتنی بر خوشهبندی
+
+-35
+
+ب) الووریتمهای مبتنی بر پارامترهای آماری ج) الووریتمهای مبتنی بر مجاورت
+د)  الووریتمهای مبتنی بر کلاسبندی
+
+
+
+
+-00  قوانین بیزین برای بیان کدامیک از موارد زیر کاربرد دارند؟
+
+د) عدظ قطعیت
+
+ج) ادتمال شرحی
+
+ب) قطعیت
+
+الف) ادتمال
+
+
+
+کدامیک از موارد زیر از ویژگیهای شبکه عصبی است؟
+الف) قوانین یک ساختار منطقی را دنبال میکنند.
+
+-05
+
+ب) قوانین از قبل برای سیستم تعریف میشود.
+ج)  ارتباط بین متغیرها درقالب یادگیری شناخته میشود.
+د)  بر اساس ادتمالات تعریف شده خروجی مشخص میشود.
+
+
+الگوریتم ژنتیک در کدامیک از موارد زیر کاربرد دارد؟
+الف) زمانی که تعداد متغیرها محدود باشد
+
+-00
+
+ب) زمانی که تعداد متغیرها زیاد باشد
+ج)  زمانی که چند خروجی مورد انتظار است
+د)  زمانی که هدف اصلی یافتن الووریتم بهینه است
+
+
+اگر مهاجم به طور مخفیانه و بدون اطلاع طرفین اطلاعات مشخص کاربران را شانود کارده و باه ترافیاک شابکه دسترسی پیدا کند کدام الزام امنیتی IoT نقض میشود؟
+
+-07
+
+Reliability )د
+
+Availability )ج
+
+Integrity )ب
+
+Confidentiality )الف
+
+-08  کدام جمله جعل هویت نیست؟
+
+Phishing )د
+
+Masquerade )ج
+
+Sleep denial )ب
+
+Camouflage )الف
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                توانایی سیستم برای تشخیص خرابی در برابر خطاها و بلایای طبیعی و تلاش برای بازگرداندن سیساتم باه حالات عادی کدام الزام امنیتی است؟
+
+-09
+
+Auditing )د
+
+Integrity )ج
+
+Accountability )ب
+
+Survivability )الف
+
+
+
+کدام جزء مزایای مدل نرم افزار به عنوان خدمت )SaaS( نیست؟
+الف) کاهش است اده از ابزارهای نرظافزاری
+
+-54
+
+
+
+مدیریت و فناوری اطلاعات سلامت
+
+ب) مدیریت متمرکز دادهها ج) راهدل چند مستاجری د) تعاملپذیری
+
+
+
+نمودار پرکاربرد UML که نحوه استفاده از سیستم را توضیح میدهد چه نام دارد؟
+Class diagrams )الف
+
+-52
+
+Sequence diagrams )ب Statechart diagrams )ج Use-Case diagram  )د
+
+کدامیک، از اهداف برنامه ریزی فناوری اطلاعات سلامت نیست؟
+الف) احمینان ازجامعیت هم راستایی
+
+-51
+
+ب) تضمین هم راستایی برنامههای HIT با برنامههای سازمان ج) تدوین راهبرد
+د)  تهیه برنامه عملیاتی توصیف
+
+
+
+
+کدام مفهوم به عبارت «توصیف عناصر سیستم، روابط آنها با یکدیگر و محیط پیرامون» در رابطه باا سیساتمهاای اطلاعات اشاره دارد؟
+
+-53
+
+Processing )د
+
+Management )ج
+
+Analysis )ب
+
+Architecture )الف
+
+
+
+کدامیک از موارد زیر جزو تمهیدات امنیتی مدیریتی به حساب نمیآید؟
+الف) کنترل دسترسی
+
+-50
+
+ب) امنیت ایستواههای کاری ج) ارزیابی خطر
+د)  رمزگذاری و رمز گشایی
+
+کدامیک از موارد زیر جزو مزایای مداخلات سلامت همراه است؟
+الف) مقیاسپذیری
+
+-55
+
+ب) به کارگیری فناوری پیشرفته ج) امنیت دادهها
+د)  ارزیابیهای مستمر
+
+کدام نوع خدمت Telemedicine را از Telecare متمایز میکند؟
+
+-50
+
+د) مشاورهای
+
+ج) مدیریتی
+
+ب) درمانی
+
+الف) آموزشی
+
+کدامیک به ترتیب وجه تمایز و اشتراک Health Electronic با Health Digital است؟
+الف) سلامت همراه – یادگیری ماشین
+
+-57
+
+ب) مطالعات اومیکس – هوش مصنوعی ج) هوش مصنوعی – پزشکی دقیق
+د)  پزشکی دقیق – سلامت همراه
+
+HL7-RIM جزو کدامیک از استانداردهای همکنش پذیری است؟
+
+-58
+
+د) پیاظ
+
+ج) ترمینولوژی
+
+ب) اسناد
+
+الف) م هومی
+
+
+
+کدامیک، استانداردهای سیستمهای اطلاعات مراقبت سلامت را اعتبارسنجی میکند؟
+الف) مؤسسه استانداردهای ملی آمریکا
+
+-59
+
+ISO  )ب
+ج)  سازمانهای توسعه دهنده استاندارد
+ASTM	)د
+
+
+کدام روش، اصلیترین رویکرد برای ذخیره محرمانه دادهها در سطح جداول باناک اطلاعااتی بارای یاک سیساتم اطلاعات سلامت است؟
+
+-04
+
+Data Hiding )د
+
+Data Decryption )ج
+
+Data Encryption )ب
+
+Data Hashing )الف
+
+
+
+کدامیک از گزینههای زیر جزو مراحل امنیت سیستمهای اطلاعات مراقبت بهداشتی نیست؟
+Availability )الف
+
+-02
+
+Efficiency )ب
+Perimeter	)ج
+Comprehensibility and control	)د
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                کدام روش ارزیابی کاربردپذیری، به ارزیابی میزان مطابقت سیساتم باا اصاول اساتاندارد طراحای راباط کااربری سیستمهای اطلاعاتی میپردازد؟
+Cognitive Walkthrough )الف
+
+-01
+
+    Thinking-aloud )ب Laboratory Testing )ج Heuristic Evaluation  )د
+
+
+کدام دستور در سیستم CPOE فقط یک بار تزم اجراست و باید فوری انجام شود؟
+One-time order )الف
+
+-03
+
+   State order )ب PRN order	)ج Standing order	)د
+
+
+کدامیک از استانداردهای ASTM مربوط به امنیت دادهها و سیستم در حوزه اطلاعات سلامت است؟
+
+-00
+
+E31.22 )د
+
+E31.20 )ج
+
+E31.17 )ب
+
+الف) E31.16
+
+-05  کدام پروتکل، امنیت انتقال داده را افزایش خواهد داد؟
+
+HTTPS )د
+
+SSL )ج
+
+HTTP )ب
+
+TLS )الف
+
+
+
+در کدام راهبرد پیادهسازی و تست واحد رویکرد آبشاری مدل چرخه حیات توساعه سیساتم اطلاعااتی، سیساتم قدیمی متوقف و سیستم جدید در زمان مقرر شروع به کار میکند؟
+Direct Conversion )الف
+
+-00
+
+  Pilot Conversion )ب Phased Conversion )ج Parallel Conversion  )د
+
+
+کدام تکنیک زیر معمولترین روش تامین امنیت و محرمانگی برای کاربران سامانههای اطلاعاتی موجاود در مراکاز بهداشتی و درمانی است؟
+Role-Based Access Control )الف
+
+-07
+
+      Ip-Based security )ب Database Access control )ج Network Access Control  )د
+
+
+از طریق کدام مورد، بیمار میتواند بدون تماس با پزشک درخواست تجدید نسخه دهد؟
+CPOE )الف
+
+-08
+
+Patient web portal  )ب
+E-prescription	)ج
+PIS	)د
+-09  کدام سازمان، توسعهدهنده استاندارد در انفورماتیک سلامت نیست؟
+
+د) کمیته فنی ایزو 158
+
+ASTM )ج
+
+HL7 )ب
+
+IHE )الف
+
+
+
+
+با استفاده از کدام استاندارد میتوان الگوی فرم خلاصه ترخیص را ایجاد نمود؟
+HL7 version 3 )الف
+
+-74
+
+HL7 CDA  )ب
+HL7 messaging	)ج
+HL7 version 2	)د
+
+کدام مورد، جزو فعالیتهای اصلی و رایج پیادهسازی سیستم اطلاعات سلامت به جای سیستم فعلی است؟
+الف) تعیین معیارهای ارزیابی سیستم احلاعاتی
+
+-72
+
+ب) انجاظ تحلیل هزینه- من عت ج) تبدیل دادهها
+د)  آمادهسازی گزارشهای تحلیل فروشندگان
+-71  کدام مورد، با عبارت «امکان انتقال این حق به دیگران وجود ندارد» مرتبط است؟
+
+Version )د
+
+Patent )ج
+
+License )ب
+
+Copyright )الف
+
+معماری سند بالینی Architecture( Document -)Clinical CDA چاه نقشای در طراحای پروناده الکترونیاک سلامت دارد؟
+الف) مدیریت المانهای دادهها و خطایابی
+
+-73
+
+ب) برقراری ارتباط منطقی بین سرویس گیرنده و سرویسدهنده ج) مسیریابی انتقال احلاعات
+د)  استانداردسازی مدارک بالینی جهت تبادل احلاعات بین سیستمها
+
+کدامیک از زیر کمیتههای ASTM در رابطه با محرمانگی و سطح دسترسی در ساختار EHR فعالیت میکند؟
+
+-70
+
+E31.26 )د
+
+E31.17 )ج
+
+E31.28 )ب
+
+الف) E31.27
+
+نیست؟
+
+کدام مورد از اجزاء اصلی پرونده پزشکی الکترونیکEMR
+الف) داده و احلاعات بهداشتی
+
+-75
+
+ب) مدیریت نتایج
+ج)  ثبت یا مدیریت دستور
+د)  تبادل احلاعات با سامانههای دیور از حریق وب سرویس
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                کدام ساختارهای زیر در زیر ساخت پرونده الکترونیک سلامت مبتنی بر OPEN-EHR بارای ذخیاره و بازیاابی و ساماندهی اطلاعات محوریتر هستند؟
+الف) شیگرا / XML
+
+-70
+
+ب)  رابطهای / Text
+ج)  سلسله مراتبی / Jason
+TEXT / گراف	)د
+
+
+:از است عبارت Symmetric encryption
+الف) فرایند رمزگذاری دادهها
+
+-77
+
+ب) وجود یک کلید عمومی برای رمزگذاری و رمزگشایی دادهها ج)  وجود یک کلید خصوصی برای رمزگذاری و رمزگشایی دادهها
+د)  وجود دو کلید عمومی و خصوصی برای رمزگذاری و رمزگشایی دادهها
+
+
+
+
+در زیرساختهای پرونده الکترونیک سلامت )EHR( سرویسهای مرتبط با ثبت عملکردها و تراکنشهاای موجاود سیستم جزو کدام دسته از سرویسهای زیربنایی محسوب میشوند؟
+الف) امنیت و کنترل دسترسی
+
+-78
+
+ب) شناسایی گروههای کاربری
+ج) پرسوجو از پایواههای اصلی ذخیرهسازی دادهها د) مدیریت رویدادها
+
+
+بر اساس استاندارد CDA کدامیک از ویژگیهای زیر باید برای یک سند بالینی در نظر گرفته شود؟
+
+-79
+
+Compliance )د
+
+Wholeness )ج
+
+Stewardship )ب
+
+Persistence )الف
+
+کدام مورد، استاندارد سیستم اطلاعات داروخانه نیست؟
+Rx-Norm )الف
+
+-84
+
+WHO Drug Dictionary  )ب
+NCD	)ج
+ATC Classification	)د
+
+کدامیک، از اولین کاربردهای Telepresence است؟
+Telesurgery )الف
+
+-82
+
+  Teledermatology )ب Telepsychiatry	)ج Teleophthalmology	)د
+
+کدامیک از موارد زیر، در UMLS مشمول Metathesaurus میشود؟
+الف) types Semantic که توسط کتابخانه ملی آمریکا ایجاد شدهاند.
+
+-81
+
+ب) م اهیمی که از ترمینولوژیهای متعدد با هم تجمیع شدهاند.
+ج)  احلاعات کتابشناختی هر یک از ترمینولوژیهایی که به UMLS اضافه شدهاند. د)  Lexiconهای حرادی شده برای انجاظ پردازش زبان حبیعی
+-83  تاکید کدامیک از استانداردهای زیر بر حفظ حریم خصوصی و محرمانگی است؟
+
+IM.1.10 )د
+
+IM.2.30 )ج
+
+IM.2.20 )ب
+
+IM.2.10 )الف
+
+............. به عنوان ویژگی پرونده سلامت شخصی ایدهآل به این معنا است که «حتی در صورت تغییار شاغل، بیماه کننده و یا پزشک بیمار، اطلاعات قابل انتقال باشند.»
+Auto-populated )الف
+
+-80
+
+Controlled by the patient  )ب
+Interoperable	)ج
+Portable	)د
+
+در سطح سامانههای اطلاعاتی رایج مراکز بهداشتی درمانی، مهمترین زیر سیستم نظارت بر عملکرد کاربران و نیاز تضمین صحت ورود اطلاعات کدام هستند؟
+structured data entry/Event registry systems )الف
+
+-85
+
+remote monitoring system/patient registry system )ب tracking system/reporting systems	)ج reporting systems/patient registry systems	)د
+
+
+
+
+کدامیک، خطر شکست نوآوری فناوری اطلاعات سلامت را کاهش نمیدهد؟
+الف) همراه بودن پروژه فناوری احلاعات با تغییر عمده سازمان
+
+-80
+
+ب)  روشن بودن هدف نوآوری فناوری احلاعات
+ج)  ایجاد ارتباط بین اهداف و نوآوری فناوری احلاعات
+)Organization inertia( سازمانی سکون به ادتراظ	)د
+
+
+«اشتراک گذاری دادههای ساختاریافته همراه با فراداده به شکلی که هم داده و هم معنای آن باه طاور مناساب در دیگر سیستمها قابل استفاده باشد»، به کدام گزینه اشاره دارد؟
+Push and Pull technology )الف
+
+-87
+
+Health information exchange )ب Sentiment interoperability	)ج eHealth exchange	)د
+
+
+کدام مورد صحیح نیست؟
+«درصورت وجود ............. فناوریهای جدید میتوانند فرصتهای جدیدی را برای سازمان فراهم کنند تاا تحاوتت عمده را در فعالیتهای خود آغاز کنند».
+الف) داکمیت فناوری احلاعات
+
+-88
+
+ب) درک بهتر از بلوغر قابلیتها و تکامل فناوری احلاعات متعدد ج) شناخت و پذیرش فناوری نوههور
+د)  معماری خوب زیرساختها
+
+
+در همهگیری کرونا در کشور، مرکاز رادیولاوژی اقادام باه راهانادازی تلاه رادیولاوژی بارای بیمااران متقاضای X-ray Chest اورژانسی نموده است. تصاویر پس از ذخیره در PACS برای پزشکان ارسال میشود. ایان مرکاز از چه مدلی برای ارسال اطلاعات استفاده میکند؟
+
+-89
+
+Hybrid	)د
+
+Asynchronous )ج
+
+Synchronous )ب
+
+Real-time )الف
+
+
+
+قابلیتهایی چون «نوبتدهی الکترونیکی» و «بررسی واجدالشرایط بودن و تحت پوشش بیمه بودن خدمات» مربوط به کدامیک از قابلیتهای ضروری سیستم هایEHR میباشد؟
+Reporting and population health )الف
+
+-94
+
+        Patient support )ب Administrative processes	)ج Order management	)د
+
+
+کدامیک، از اهداف اولیه پرونده الکترونیک سلامت است؟
+Clinical decision support )الف
+
+-92
+
+Integrated communication and reporting support  )ب
+Clinician order entry	)ج
+Providing integrated access to all patient data	)د
+
+
+
+
+امروزه ایجاد و پیادهسازی کدامیک از سیستمهای تله مدیسین کم هزینهتر و قابل توسعهتر است؟
+Real time Telemonitoring )الف
+
+-91
+
+Self-management Mobile Applications  )ب
+Telesurgery	)ج
+Real time Teleophthalmology	)د
+
+کدامیک از موارد زیر جزء نگرانیهای اخلاقی نیست؟
+الف) استانداردهای مراقبتی
+
+-93
+
+ب) کاربران و است اده مناسب ج) ارتباحات درفهای
+د)  اهداف آموزشی
+-90  کدام فناوری را برای اتصال پیسمیکر بیمار مبتلا به آریتمی به گوشی هوشمند وی پیشنهاد میکنید؟
+
+NFC )د
+
+Zigbee )ج
+
+WiFi )ب
+
+Bluetooth )الف
+
+
+
+امروزه بازار برنامههای کاربردی مبتنی بر سلامت همراه بیشتر متقاضی کدام نوع از برنامهها است؟
+الف) برنامههای سلامت عمومی
+
+-95
+
+ب) مدیریت بیماریها / شرایط خاص ج) مدیریت بیماریهای نادر
+د)  مدیریت بیماریهای همهگیر
+-90  در کدامیک از موارد زیر پهنای باند کم تا متوسط مورد نیاز است؟
+
+د) پایش از راه دور
+
+ج) جرادی از راه دور
+
+ب) تماس تل نی
+
+الف) ارسال پیاظ متنی
+
+
+
+کدامیک از مدالیتههای سلامت از راه دور برای مشاورههای اورژانسی از راه دور مناسب نیست؟
+Interactive videoconference )الف
+
+-97
+
+Asynchronous store and forward )ب
+Telephone	)ج
+Remote devices	)د
+-98  کدامیک به عنوان محرک غیرتکنولوژیک برای پزشکی از راه دور محسوب میشود؟
+
+               Network Computing and information
+       Home telecare Technology-led society
+
+الف)
+)ب
+)ج
+)د
+
+-99  ارائه خدمات مدیریتی ویژگی کدامیک است؟
+
+Telemonitoring )د
+
+Telecare )ج
+
+Telehealth )ب
+
+Telemedicine )الف
+
+
+
+کدامیک از موارد زیر از معایب مداخلات سلامت همراه است؟
+Flexibility )الف
+
+-244
+
+widespread availability )ب
+High dropout	)ج
+Interactivity	)د
+
+
+زبان تخصصی و عمومی
+زبان تخصصی
+101- A third-party entity that covers or pays for health care costs is known as:
+a) Provider
+b) Lender
+c) Payer
+d) Supporter
+
+
+
+102- In data networks, an acknowledgment is a signal sent between communicating processes or
+computers to indicate acknowledgment or receipt of a response as part of a communication protocol. Which option refers to the above definition?
+a) Accountable care organization
+b) General acknowledgment message
+c) Acquisition modality
+d) Access control information
+
+
+103- A software development method built on the concept of logical objects is known as …… methodology.
+a) Object model
+b) Class - oriented
+c) Object-oriented
+d) Relationship-oriented
+
+
+
+104- Which of following option can be considered as a definition for “optimization”?
+a) The act, process, or method of making something (such as a design, system, or decision) as complete, functional, or effective as possible.
+b) The approach of making something (such as a design, system, or decision) efficient as other possible choices.
+c) A digital network transmission process in which data is divided into pieces or blocks of appropriate size for fast and efficient transmission through various network devices.
+d) The process of recovering passwords stored on a computer system or transmitted over a network.
+
+
+
+105- Which of the following items best describes “interoperability” in healthcare?
+a) Standardizing medical terminology across organizations
+b) The process of digitizing paper-based medical records into electronic formats
+c) The ability of different information systems to communicate and exchange data
+d) Encrypting patient health information to protect privacy
+
+
+106- “Alert fatigue” means….
+a) Receiving a limited number of alerts
+b) Receiving too many alerts
+c) Becoming desensitized to safety alerts
+d) Failing to respond to alerts
+107- Physicians choose to ignore CDSS just because of the “double data entry” requirement which is
+………. to the patient care process.
+a) Interruptive
+b) Integrated
+c) Irrelevant
+d) Irresistible
+
+
+108- The main concept of the below paragraph is about ….
+An app for parents of under 5-year-old children may enhance parents’ medical knowledge around child health, which might increase their parenting self efficacy (their belief in their own parenting abilities), which in turn may reduce help-seeking for minor health issues.
+a) Increasing parents’ knowledge
+b) Outcomes of the app
+c) Reducing hospital admission
+d) Usability issues
+
+
+109- The use of patient information for clinical research, and for quality assessment raises ………. challenges.
+a) Feasibility
+b) Economics
+c) Financial
+d) Ethical
+
+
+110- Ethical obligations should extend to system developers, maintainers, and supervisors as well as to	users.
+a) Clinician
+b) Patient
+c) Care givers
+d) Home carer
+
+
+111- The degree to which intended end-users can navigate the resource and how it performs when it is used in pilots prior to full deployment is called ……
+a) Resource impact
+b) Resource usability
+c) Resource functions
+d) Resource performance
+
+
+112- Growth in Information Technology innovation is fueled by drastic changes in healthcare industry and its approach to healthcare. It can be inferred that……
+a) Drastic changes in healthcare industry encourage growth in Information Technology innovation.
+b) Fueling drastic changes in healthcare industry deteriorate approach to healthcare.
+c) Growth in Information Technology innovation results in drastic changes in healthcare industry.
+d) Drastic changes in healthcare industry are not in line with growth in Information Technology innovation.
+
+
+113- A Decision Support System (DSS) is an interactive, user-controlled system designed specifically
+to facilitate decision making and solving semi-structured (i.e., non-routine and no-repetitive) problems. A Decision Support System.…… .
+a) Facilitates solving specific problems
+b) Is originally unmanned and automatic
+c) Eliminates semi-structured problems
+d) Replaces decision makers
+
+
+
+* Read this passage carefully, then choose a, b, c, or d which best completes each item. (Questions 114-115)
+     Because the information in the health records belongs to the patient, the patient may allow the health care provider to release it to a third party. Consents to release information from the health records must always be in writing and should be an informed consent. Informed consent means that the patient is aware, in a general way, what information will be released and how it will be used. Consent to release information must be obtained when the information is requested by other doctors, institutions, insurance companies, attorneys, government agencies that are not entitled to access the information.
+
+
+
+
+114- To release information, an informed consent must be obtained from the ……….
+a) other doctors
+b) hospital
+c) physician
+d) patient
+
+
+
+
+115- Which type of consent is not acceptable?
+a) Written consent
+b) Oral consent
+c) Typed consent
+d) Recorded consent
+
+
+زبان عمومی
+* Vocabulary
+Read the following sentences carefully and choose one of the options (a, b, c, d) to complete the sentences.
+
+
+116- Dementia, also known as	, is seen in elderly individuals whose mental states have started
+to decline.
+a) senility
+b) paucity
+c) calamity
+d) asperity
+
+
+117- Colleagues and comrades over the years were in a	mood at the party anxiously awaiting
+presentations.
+a) expedient
+b) thrifty
+c) greedy
+d) euphoric
+
+
+
+118- Youth gangs typically engage in	, criminal, and violent activities, often for financial gain.
+a) mandatory
+b) benevolent
+c) delinquent
+d) competent
+
+
+119- She quit her job and sold her car to take a break and travel the world. She’s always been ............. about going to new places and meeting new people.
+a) hesitant
+b) ardent
+c) gloomy
+d) senile
+
+
+120- She acknowledges that the new employee’s	and naïve manner antagonized the board of
+directors even though he was willing to take chances.
+a) amiable
+b) cordial
+c) gorgeous
+d) scandalous
+
+
+* Reading comprehension
+
+Read the following passages carefully and choose the best answers.
+    Recent advancements have transformed AI technologies into powerful tools for enhancing clinical and operational efficiency. Today, AI is allowing everyone involved in the healthcare ecosystem — doctors, nurses, administrators, and patients — to benefit from enhanced efficiency and better diagnoses. It extends and augments professional capabilities and provides the foundation for better, more cost-effective outcome. It is an enabling technology for a more personalized approach to patient care, focusing on patient outcomes rather than just system efficiency.
+    During the next 10 years, AI is expected to radically streamline healthcare delivery by providing immensely powerful insights to enhance the patient management pathway, yet there are hurdles to overcome before AI transforms healthcare provision. For example, at present, too much patient consultation time is spent entering data, rather than drawing inferences from it. However, these transitional issues should quickly be resolved as AI is more broadly adopted across the sector, and the outlook among healthcare professionals is positive; almost half of medical staff expect AI will enable more robust diagnoses, and 57% believe its improved predictive capabilities will allow them to focus more on preventive medicine. AI needs to work for healthcare professionals as part of a robust, integrated ecosystem, and success relies on more than simply deploying a new technology. The more ‘humanized’ the application of AI is, the faster and more widely it will be adopted, and the better the return on the 5. initial investment. Ultimately, this will improve results and patient care and, in healthcare, the priority should always be the patient.
+121- In the first paragraph, the writer	of AI in healthcare system.
+a) explains the foundation
+b) focuses on the status
+c) analyzes the mechanism
+d) illustrates the ecosystem
+
+122- In the above passage, all of the following are mentioned to be positively affected by AI EXCEPT
+............. .
+a) personalized technology
+b) healthcare personnel
+c) professional capabilities
+d) clinical operations
+
+123- Which of the following is true?
+a) Less than half of the medical staff believe AI can be used for disease prevention.
+b) 57% of the medical staff think that AI technologies cannot be adopted in healthcare system.
+c) About fifty percent of healthcare personnel expect AI can empower diagnosis.
+d) 50% of the healthcare personnel think that they can overcome hurdles to AI transformation.
+
+124- The writer believes that in the successful adoption of AI, the system should give priority to ............. .
+a) patients	b) investment	c) professionals	d) technology
+
+125- In the second paragraph, the future of AI application is predicted to be ............. .
+a) impulsive	b) unwarranted	c) confusing	d) promising
+
+
+    Some of the leading causes of sight loss affect the part of the eye called the retina. Supplementation with a certain type of omega fatty acid known as docosahexaenoic acid, or DHA, can reduce the incidence of retinal disease, however, improving DHA levels in the retina is challenging due to the retina-blood barrier. A group of researchers has now shown that a different form of DHA they have developed can enter the retinal tissue— at least in mice. If the same effect is shown in humans, the supplement could be used to reduce risk and potentially even treat some retinal diseases.
+    Loss of sight is believed to have a global cost of $411 billion annually due to medical and care costs, as well as lost work and productivity, according to the World Health Organization. Age-related macular degeneration and diabetic retinopathy both affect the retina, which is found at the back of the eye and contains many light-sensitive cells which allow us to see. Age-related macular degeneration affects the macula—a part of the retina—and results in central vision being blurred. Meanwhile, diabetic retinopathy is seen in patients with both type 1 and type 2 diabetes and is caused by high blood sugar levels affecting blood flow to the retina, and if untreated, can cause blindness.
+
+126- According to the passage, DHA supplementation is a challenge because ............. .
+a) it is a degenerative process
+b) retinal diseases are incurable
+c) there are retina-blood obstacles
+d) DHA penetrates into the retinal tissue
+
+127- According to the passage, currently, the newly developed DHA ............. .
+a) can treat sight loss in mice
+b) costs $411 billion for diabetic patients
+c) can enter retinal tissue in humans
+d) reduces the cost of retinopathy to $411 billion
+
+128- What is the ultimate impact of age-related macular degeneration on the macula?
+a) It can reduce the risk to the retinal tissue.
+b) It leads to blindness in non-diabetic patients.
+c) It deactivates light-sensitive cells.
+d) It specifically blurs the central vision.
+
+129- Which of the following is NOT true about diabetic retinopathy?
+a) All patients suffering from diabetes may have some signs of diabetic retinopathy.
+b) Retinal diseases are rarely observed in patients with diabetics.
+c) Diabetic retinopathy emerges because of the high blood sugar affecting the retina.
+d) Diabetic retinopathy can finally lead to blindness if untreated.
+
+130- Which of the following is true about the new form of omega fatty acid supplement?
+a) It can possibly cure the retinal illnesses.
+b) Its positive effect on mice has not yet been reported.
+c) It puts the retina and its surrounding tissues at risk.
+d) It removes the blood barriers in patients with diabetes.
+موفقباشید
+
+بسمه تعالی
+دبیرخانه شورای آموزش علوم پایه پزشکی، بهداشت و تخصصی و مركز سنجش آموزش پزشكکی بكا فكدر ارت كای كی یكت سوالات و بهبود روند اجرای آزمونفا، پذیرای درخواستفای بررسی سوالاتی است كه در قالب مشخص شده زیر از طریك اینترنت ارسال میگردد، تا كار رسیدگی با سرعت و دقت بیشتری انجام گیرد.
+ضمن تشکر از فمکاری داوطلبان محترم موارد ذیل را به اطلاع میرساند:
+-1 كلید اولیه سوالات ساعت 41 مورخ 4101/08/07 از طری  سایت اینترنتی www.sanjeshp.ir اعلام خوافد شد. -2 اعتراضات خود را از ساعت 41 مورخ 4101/08/08 لغایت سااعت 11 ماورخ 4101/08/41 بكه آدرس اینترنتكی بكالا
+ارسال نمایید.
+-3 اعتراضاتی كه به فر شكکل خارج از فرم ارائه شده، بعد از زمان تعیین شده و یا به صاور ییرایتررترا( ضوراور  ارسال شود، مورد رسیدگ( قرار تخواهد گرفت.
+
+تذكر مهم:
+* ف ط اعتراضات ارسالی در فرصت زمات( تعیین شده، مورد بررسی قرار گرفته و پس از تاریخ مذكور به فیچ عنوان ترتیب اثر داده نخوافد شد.
+* از تکرار اعرراضا خود به یک سوال پرهیز تمایید. تعداد اعتراض ارسالی برای یک سوال، ملاک بررسی نمكیباشكد و به كلیه اعتراضات ارسالی اعم از یک مورد و یا بیشرر رسیدگی خوافد شد.
+
+
+مركز ستجش آموزش پزشک(دبیرخاته شورا  آموزش علوم پایه پزشک(،
+بهداشت و تخصص(
+
+كد مل:(تام خاتوادگ:(تام:
+
+توع دفررچه:شماره سوال:تام درس:تام رشره:
+سطرپاراگرافصفحهسال اترشارتام متبع معربرسوال مورد بررس:(
+• بیش از یک جواب صحیح دارد. (با ذكر جوابفای صحیح)
+• جواب صحیح ندارد.
+• متن سوال صحیح نیست.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

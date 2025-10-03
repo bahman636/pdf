@@ -1,0 +1,1561 @@
+﻿ژr55لﺷﮓ/,نﺮاﻧ/ﮓﺖrﻌوزﺖ
+وزارت ﺑﻬﺪاﺷﺖ، درﻣﺎن و آﻣﻮزش ﭘﺰﺷﻜﻰ ﻣﻌﺎوﻧﺖ آﻣﻮزﺷﻰ
+دﺑﻴﺮﺧﺎﻧﻪ ﺷﻮراى آﻣﻮزش ﻋﻠﻮم ﭘﺎﻳﻪ ﭘﺰﺷﻜﻰ، ﺑﻬﺪاﺷﺖ و ﺗﺨﺼﺼﻰ ﻣﺮﻛﺰ ﺳﻨﺠﺶ آﻣﻮزش ﭘﺰﺷﻜﻰ
+
+
+ﺳﺎل ﺗﺤﺼﻴﻠﻰ 1404-1405
+ﺳﻮاﻻت آزﻣﻮن ورودى دوره ﻛﺎرﺷﻨﺎﺳﻰ ارﺷﺪ
+
+
+رﺷﺘﻪ
+اﻧﻔﻮرﻣﺎﺗﻴﻚ ﭘﺰﺷﻜﻰ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+160 ﺳﻮالﺗﻌﺪاد ﺳﻮاﻻت:ﻣﺸﺨﺼﺎت داوﻃﻠﺐ:160 دﻗﻴﻘﻪزﻣﺎن ﭘﺎﺳﺨﮕﻮﻳﻰ:ﻧﺎم و ﻧﺎم ﺧﺎﻧﻮادﮔﻰ:20ﺗﻌﺪاد ﺻﻔﺤﺎت:ﺷﻤﺎره ﻛﺎرت:داوﻃﻠﺐ ﻋﺰﻳﺰ
+ﺧﻮاﻫﺸﻤﻨﺪ اﺳﺖ ﻗﺒﻞ از ﺷﺮوع ﭘﺎﺳﺨﮕﻮﻳﻰ، دﻓﺘﺮﭼﻪ ﺳﻮاﻻت را از ﻧﻈﺮ ﺗﻌﺪاد ﺻﻔﺤﺎت ﺑﻪ دﻗﺖ ﻣـﻮرد ﺑﺮرﺳـﻰ
+ﻗﺮار داده و در ﺻﻮرت وﺟﻮد ﻫﺮ ﮔﻮﻧﻪ اﺷﻜﺎل ﺑﻪ ﻣﺴﺌﻮﻻن ﺟﻠﺴﻪ اﻃﻼع دﻫﻴﺪ·ـ اﺳﺘﻔﺎده از ﻣﺎﺷﻴﻦ ﺣﺴﺎب ﻣﺠﺎز ﻧﻤﻰ ﺑﺎﺷﺪ.
+
+اﺻﻮل ﺑﺮﻧﺎﻣﻪﻧﻮﻳﺴﻰ و ﺳﺎﺧﺘﻤﺎن دادهﻫﺎ
+-1   ﻛﺪاﻣﻴﻚ ﻧﺎم ﻣﺘﻐﻴﺮ ﻣﺠﺎز در زﺑﺎن ﺑﺮﻧﺎﻣﻪﻧﻮﻳﺴﻰ C اﺳﺖ؟
+
+ali# (د
+
+2a (ج
+
+_1 (ب
+
+اﻟﻒ( c$2
+
+
+long x[10]; long *p=x:
+
+-2   ﻣﻘﺪار p در ﻗﻄﻌﻪ ﻛﺪ زﻳﺮ ﻛﺪام اﺳﺖ؟ x) ﻣﺘﻐﻴﺮ ﭼﻬﺎر ﺑﺎﻳﺘﻰ اﺳﺖ(
+
+اﻟﻒ( ﻣﺤﺘﻮﻳﺎت ﺧﺎﻧﻪ اول آراﻳﻪ x
+
+ب( آدرس ﺧﺎﻧﻪ اول آراﻳﻪ x ج( ﻣﻴﺰان ﺣﺎﻓﻈﻪ ﻣﺼﺮﻓﻰ x د( ﺑﺮﻧﺎﻣﻪ ﺧﻄﺎ ﻣﻰدﻫﺪ
+
+
+short x=1030000 :
+cout<<x;
+
+-3   ﺧﺮوﺟﻰ ﻗﻄﻌﻪ ﻛﺪ زﻳﺮ ﻛﺪام اﺳﺖ؟ x) ﻣﺘﻐﻴﺮ دو ﺑﺎﻳﺘﻰ اﺳﺖ(
+
+اﻟﻒ( -18576
+
+46960  (ب
+103000	(ج
+د(  ﺧﻄﺎى ﺧﺎرج از ﺑﺎزه ﻣﻰدﻫﺪ
+-4   اﮔﺮ n ﻳﻚ ﻋﺪد ﺳﻪ رﻗﻤﻰ ﺻﺤﻴﺢ ﺑﺎﺷﺪ ﻗﻄﻌﻪ ﺑﺮﻧﺎﻣﻪ زﻳﺮ ﭼﻪ ﻋﻤﻠﻰ اﻧﺠﺎم ﻣﻰدﻫﺪ؟
+n = n/100 * 100 + n % 100 / 10 + n % 10 * 10 ;
+اﻟﻒ( رﻗﻢ ﻳﻜﺎن را ﺣﺬف ﻣﻰﻛﻨﺪ·
+ب( رﻗﻢ ﺻﺪﮔﺎن و دﻫﮕﺎن را ﺟﺎﺑﻪﺟﺎ ﻣﻰﻛﻨﺪ· ج(  رﻗﻢ ﺻﺪﮔﺎن و ﻳﻜﺎن را ﺟﺎﺑﻪﺟﺎ ﻣﻰﻛﻨﺪ· د(  رﻗﻢ دﻫﮕﺎن و ﻳﻜﺎن را ﺟﺎﺑﻪﺟﺎ ﻣﻰﻛﻨﺪ·
+
+
+int x = 0 x 10;
+x + = ! ~ x + ~ ! x ;
+
+-5   ﻣﻘﺪار ﻧﻬﺎﻳﻰ ﻣﺘﻐﻴﺮ x ﭘﺲ از اﺟﺮاى ﻗﻄﻌﻪ ﻛﺪ زﻳﺮ ﻛﺪام اﺳﺖ؟
+
+د( ﺧﻄﺎ ﻣﻰدﻫﺪ
+
+20 (ج
+
+16 (ب
+
+اﻟﻒ( 15
+
+
+
+
+int a, b, c;
+cin >> a >> b >> c; int max = -1;
+if (a % 2 == 0) max = a;
+if (b % 2 == 0 && (max == -1 || b > max)) max = b; if (c % 2 == 0 && (max == -1 || c > max)) max = c; if (max != -1) cout << max;
+
+-6   ﺑﺮﻧﺎﻣﻪ زﻳﺮ ﭼﻪ ﻛﺎرى اﻧﺠﺎم ﻣﻰدﻫﺪ؟
+
+
+
+
+اﻟﻒ( ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد زوج ﻣﺜﺒﺖ را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+
+ب(  ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد ﻓﺮد را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+ج( ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد ﻓﺮد ﻣﺜﺒﺖ را ﭼﺎپ ﻣﻰﻛﻨﺪ· د(  ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد زوج را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+
+
+
+
+
+const n=100; int x,y=1,m; cin>>x; m=x;
+for(int i=2;i<=n;i++) { cin>>x;
+if(x<m)	{ m=x; y=1; } else if (x==m) { y++;	}
+} cout<<y;
+
+-7   ﺧﺮوﺟﻰ ﻛﺪ ﺷﺰﻳﺮ ﻛﺪام اﺳﺖ؟
+
+
+
+
+
+اﻟﻒ( ﺗﻌﺪاد ﺗﻜﺮار ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+
+ب(  ﻛﻮﭼﻚﺗﺮﻳﻦ ﻋﺪد را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+ج( ﺗﻌﺪاد ﺗﻜﺮار ﻛﻮﭼﻚﺗﺮﻳﻦ ﻋﺪد را ﭼﺎپ ﻣﻰﻛﻨﺪ· د(  ﺑﺰرﮔﺘﺮﻳﻦ ﻋﺪد را ﭼﺎپ ﻣﻰﻛﻨﺪ·
+
+
+int i,j,k: for(i=1;i<=5;i++);
+for(j=1;j<=i;j++) for(k=j;k!=0;k--)
+cout<<"C++";
+
+-8   در ﻗﻄﻌﻪ ﻛﺪ زﻳﺮ ﭼﻨﺪ ﺑﺎر ﻋﺒﺎرت C++ ﭼﺎپ ﻣﻰﺷﻮد؟
+
+15 (د
+
+21 (ج
+
+29 (ب
+
+اﻟﻒ( 35
+
+
+int k=2; cout<<k++<<k<<++k<<k; cout<<k;
+
+-9   ﺧﺮوﺟﻰ ﻗﻄﻌﻪ ﻛﺪ زﻳﺮ ﻛﺪام اﺳﺖ؟
+
+33244 (د
+
+23344 (ج
+
+23444 (ب
+
+اﻟﻒ( 33324
+
+
+void func(int&,int,int=0); int c=4:
+main(){
+int a=2,b=3,c=1: func(b,a);
+func(a,a+b,c);
+cout<<(a+b+::c);	}
+void func(int &a,int b,int c) { a++;
+b--;
+if (c==0) c+=a+b:
+else
+::c+=a+b;	}
+
+ﺧﺮوﺟﻰ ﻛﺪ زﻳﺮ ﻛﺪام ﮔﺰﻳﻨﻪ اﺳﺖ؟
+
+-10
+
+19 (د
+
+16 (ج
+
+12 (ب
+
+اﻟﻒ( 8
+
+
+int i=m: while(i<=n)
+i=i*2:
+
+ﻣﺮﺗﺒﻪ اﺟﺮاى ﻛﺪ زﻳﺮ ﻛﺪام ﮔﺰﻳﻨﻪ اﺳﺖ؟
+
+-11
+
+O   log  n   (د
+
+O   log  m   (ج
+
+O  log
+
+nn (ب
+
+O  log
+
+mm (اﻟﻒ
+
+	2 m  
+
+	2 n  	2	2
+
+						
+
+-12  ﻛﺪام ﮔﺰﻳﻨﻪ ﺗﺮﺗﻴﺐ درﺟﻪ رﺷﺪ ﺗﻮاﺑﻊ زﻳﺮ را ﻧﺸﺎن ﻣﻰدﻫﺪ.
+
+ 3  n
+
+ 1  n	n	3
+
+g1    		
+
+, g2   6, g3    		 , g4    εε , g5  	n, g6   n2   log n
+
+ 2  		 2  
+
+g2 2 g3 3 g1 1 g4 4 g5 5 g6 g4 4 g3 3 g1 1 g2 2 g5 5 g6 g4 4 g3 3 g2 2 g5 5 g6 6 g1 g2   g4   g1   g3   g5   g6
+
+
+اﻟﻒ(
+(ب
+(ج
+(د
+
+در ﺗﺒﺪﻳﻞ ﻋﺒﺎرت ﻣﻴﺎﻧﻮﻧﺪى زﻳﺮ ﺑﻪ ﻋﺒﺎرت ﭘﺴﻮﻧﺪى ﻃﻮل ﭘﺸﺘﻪ ﺣﺪاﻗﻞ ﺑﺎﻳﺪ ﭼﻨﺪ ﻋﻨﺼﺮ ﺑﺎﺷﺪ؟
+a/b-c+d*e-a*c/d
+
+-13
+
+5 (د
+
+4 (ج
+
+3 (ب
+
+اﻟﻒ( 2
+
+ﭘﻨﺞ ﻗﻄﺮى ﭼﻨﺪ ﻋﻨﺼﺮ ﻏﻴﺮ ﺻﻔﺮ وﺟﻮد دارد؟
+
+در ﻳﻚ ﻣﺎﺗﺮﻳﺲ 10×10
+
+-14
+
+57 (د
+
+56 (ج
+
+44 (ب
+
+اﻟﻒ( 25
+
+ﻳﻚ ﭘﺰﺷﻚ ﺗﻌﺪاد k ﻧﺴﺨﻪ ﺑﺎ ﻃﻮل ﺣﺪاﻛﺜﺮ n ﻛﺎراﻛﺘﺮ ﻧﻮﺷﺘﻪ اﺳﺖ. اﮔﺮ ﺑﺨﻮاﻫﻴﻢ داروﻳﻰ )ﺑﻪ ﻃـﻮل m ﻛـﺎراﻛﺘﺮ( را در اﻳﻦ ﻧﺴﺨﻪﻫﺎ ﺟﺴﺘﺠﻮ ﻛﻨﻴﻢ زﻣﺎن اﺟﺮاى ﺑﻬﻴﻨﻪ ﺟﺴﺘﺠﻮ ﻛﺪام اﺳﺖ؟
+
+-15
+
+O  nk   (د
+
+O  mk   (ج
+
+O  nmk   (ب
+
+O   logm nnk  
+
+اﻟﻒ(
+
+-16  ﻛﺪام ﺷﺒﻪ ﻛﺪ زﻳﺮ ﮔﺮه آﺧﺮ در ﻟﻴﺴﺖ ﭘﻴﻮﻧﺪى ﻳﻚ ﻃﺮﻓﻪ را ﭘﻴﺪا ﻣﻰﻛﻨﺪ؟
+
+اﻟﻒ(                          ب(
+
+
+
+ج(                           د(
+
+
+
+در ﻧﻈﺮ اﺳﺖ ﺑﺮاى ﻳﻚ ﻣﺮﻛﺰ ﻣﺸﺎوره، ﺳﻴﺴﺘﻤﻰ ﻃﺮاﺣﻰ ﺷﻮد ﻛﻪ اﻃﻼﻋﺎت ﺑﻴﻤـﺎران در آن ذﺧﻴـﺮه و ﺑـﻪﻃـﻮر ﻣﻜـﺮر ﺟﺴﺘﺠﻮ ﺷﻮد. ﻛﺪام ﺳﺎﺧﺘﻤﺎن داده ﺑﺮاى اﻳﻦ ﻫﺪف ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﺻﻒ
+
+-17
+
+ب(  ﭘﺸﺘﻪ
+ج( درﺧﺖ ﺟﺴﺘﺠﻮى دودوﻳﻰ د(  درﺧﺖ ﻗﺮﻣﺰ - ﺳﻴﺎه
+
+FHIR (Fast
+
+ﻛﺪام ﻣﻮرد از ﻣﺰاﻳﺎى اﺳﺘﻔﺎده از راﺑﻂﻫـﺎى ﺑﺮﻧﺎﻣـﻪﻧﻮﻳﺴـﻰ ﻛـﺎرﺑﺮدى (API) ﻣﺒﺘﻨـﻰ ﺑـﺮ اﺳـﺘﺎﻧﺪارد
+ﻣﻰﺷﻮد؟ ﻣﺤﺴﻮب Healthcare Interoperability Resources)
+اﻟﻒ( اﻓﺰاﻳﺶ ﭘﻴﭽﻴﺪﮔﻰ ﺗﺒﺎدل اﻃﻼﻋﺎت ﺑﻴﻦ ﺳﻴﺴﺘﻢﻫﺎى ﻣﺨﺘﻠﻒ
+
+-18
+
+ب(  ﺑﻬﺒﻮد اﻳﻤﻨﻰ ﺑﻴﻤﺎران
+ج(  ﺗﺴﻬﻴﻞ ﻳﻜﭙﺎرﭼﮕﻰ و ﺗﺒﺎدل اﻃﻼﻋﺎت ﺳﻼﻣﺖ
+د(  ﻣﺤﺪود ﻛﺮدن ﻧﻮع دادهﻫﺎى ﻗﺎﺑﻞ ﺗﺒﺎدل ﺑﻪ ﻓﺮﻣﺖﻫﺎى ﺧﺎص
+
+
+
+
+ﺑﻬﺘﺮﻳﻦ ﻣﺪل دادهاى ﺑﺮاى ﻃﺮاﺣﻰ ﺳﻴﺴﺘﻤﻰ ﻛﻪ ارﺗﺒﺎﻃﺎت ﺑﻴﻦ ﺑﻴﻤﺎرﺳﺘﺎنﻫﺎى ﻣﺨﺘﻠﻒ و اﻧﺘﻘﺎل دادهﻫﺎى ﭘﺰﺷﻜﻰ را ﺑﺎ ﻛﻤﺘﺮﻳﻦ ﺗﺎﺧﻴﺮ ﻣﺪﻳﺮﻳﺖ ﻛﻨﺪ، ﻛﺪام اﺳﺖ؟
+
+-19
+
+د( ﺻﻒ ﺣﻠﻘﻮى
+
+ج( ﮔﺮاف وزندار
+
+ب( درﺧﺖ
+
+اﻟﻒ( آراﻳﻪ
+
+اﮔﺮ ﺑﺨﻮاﻫﻴﻢ ﺑﻪ HIS ﺑﻴﻤﺎرﺳﺘﺎن ﻗﺎﺑﻠﻴﺘﻰ اﺿﺎﻓﻪ ﻛﻨﻴﻢ ﻛﻪ ﻟﻴﺴﺘﻰ از ﺧﺪﻣﺎت اراﺋﻪ ﺷﺪه ﺑﻪ ﺑﻴﻤﺎر را ﺛﺒﺖ ﻛﻨﺪ و در ﺻﻮرت ﻧﻴﺎز، آﺧﺮﻳﻦ ﺧﺪﻣﺖ را ﺳﺮﻳﻌﺎر ﺑﺎزﻳﺎﺑﻰ و ﺣﺬف ﻧﻤﺎﻳﺪ. ﻣﻨﺎﺳﺐﺗﺮﻳﻦ ﺳﺎﺧﺘﻤﺎن داده ﺑﺮاى اﻳﻦ ﻣﻨﻈﻮر ﭼﻴﺴﺖ؟
+
+-20
+
+د( درﺧﺖ
+
+ج( ﮔﺮاف
+
+ب( ﭘﺸﺘﻪ
+
+اﻟﻒ( ﺻﻒ
+
+
+
+رﻳﺎﺿﻰ و آﻣﺎر ﺣﻴﺎﺗﻰ
+
+
+ﻛﺪام اﺳﺖ؟
+
+
+
+lim
+
+
+2x2   cosc xx   5
+2
+
+
+
+ﺣﺎﺻﻞ
+
+
+-21
+
+2 (د
+
+ (ج
+
+xxx x  
+1 (ب
+
+sin   xx   5
+اﻟﻒ( 0/5
+
+ﻛﺪام اﺳﺖ؟
+
+f   xx  
+
+5
+x   4
+
+	5
+x   2
+
+ﻣﺠﺎﻧﺐ ﻗﺎﺋﻢ ﺗﺎﺑﻊ ﺑﺎ ﺿﺎﺑﻄﻪى
+
+-22
+
+ﻣﺠﺎﻧﺐ ﻗﺎﺋﻢ ﻧﺪارد(داﻟﻒ و ب(جب( ﺧﻂ 4 = xاﻟﻒ( ﺧﻂ 2 = x
+cot(x)
+(د
+tang(x)
+(جاﺳﺖ؟ ﻛﺪام f   xx   Ln
+cos(x) (بﻣﺸﺘﻖ ﺗﺎﺑﻊ sin(x)
+-sin(x) (اﻟﻒ-23
+
+ﻛﺪام اﺳﺖ؟
+
+lim	x	ﺣﺎﺻﻞ
+
+-24
+
+-1 (د
+
+ج( ﺻﻔﺮ
+
+1 (ب
+
+xx0 11 cos x
+اﻟﻒ( 2
+
+و ﻣﺤﻮر xﻫﺎ، از ﺧﻂ -1 = x ﺗﺎ ﺧﻂ 2 = x ﻛﺪام اﺳﺖ؟
+
+ﻣﺴﺎﺣﺖ ﻣﺤﺼﻮر ﺑﻴﻦ ﻣﻨﺤﻨﻰ 4x3   y
+
+-25
+
+17 (د
+
+16 (ج
+
+15 (ب
+
+اﻟﻒ( 14
+
+در ﺑﺎزهى ه ﺠ ص درﺳﺖ اﺳﺖ؟
+
+ﻛﺪام ﮔﺰﻳﻨﻪ درﺑﺎرهى ﺗﺎﺑﻊ n(x)  2L   xx   f
+اﻟﻒ( ﺻﻌﻮدى اﻛﻴﺪ اﺳﺖ·
+
+-26
+
+ب(  ﻧﺰوﻟﻰ اﻛﻴﺪ اﺳﺖ·
+ج( اﺑﺘﺪا ﻧﺰوﻟﻰ و در اداﻣﻪ ﺻﻌﻮدى اﺳﺖ· د( ﻳﻜﻨﻮاﺧﺖ اﺳﺖ·
+
+و 2   x   2y از ﻣﺤﻮر ﻋﺮضﻫﺎ ﻛﺪام اﺳﺖ؟
+
+ﻓﺎﺻﻠﻪ ﻣﺤﻞ ﺑﺮﺧﻮرد دو ﺧﻂ 7   2x   y
+
+-27
+
+-1 (د
+
+1 (ج
+
+-4 (ب
+
+اﻟﻒ( 4
+
+ﺑﺎﺷﻨﺪ. دراﻳﻦﺻﻮرت، داﻣﻨﻪى ﺗﺎﺑﻊ xxx    g f ﻛﺪام اﺳﺖ؟
+
+g   xx  
+
+1
+x  1 و
+
+f   xx  
+
+ﻓﺮض ﻛﻨﻴﺪ x   2
+
+-28
+
+1, 22 (د
+
+ 3 ,    (ج
+
+, 22 (ب				,1,		1,   
+
+اﻟﻒ(
+
+ 2		
+
+
+
+xxxe   f ﻛﺪام اﺳﺖ؟
+
+
+sins xx
+
+
+
+ﺣﺪ ﺗﺎﺑﻊﺗ1
+
+
+
+-29
+
++3 (د
+
+-3 (ج
+
++1 (ب
+
+اﻟﻒ( -1
+
+ﺑﺎﺷﺪ، آﻧﮕﺎه )هr/( ﺑﺮاﺑﺮ ﺑﺎ ﭼﻪ ﻋﺪدى اﺳﺖ؟
+
+f  xxx esins xx  1 ﺗﺎﺑﻊ اﮔﺮ
+
+-30
+
+-2 (د
+
+-1 (ج
+
+1 (ب
+
+اﻟﻒ( ﺻﻔﺮ
+
+
+
+
+اﮔﺮ در ﻳﻚ ﻧﻤﻮﻧﻪ ﺗﺼﺎدﻓﻰﺑﻪ ﺣﺠﻢ 100، ﺧﻄﺎى اﺳﺘﺎﻧﺪارد error) (standard ﻣﺴﺎوى ﺑﺎ ﻳﻚ ﺑﺎﺷﺪ، وارﻳﺎﻧﺲ ﻧﻤﻮﻧﻪ ﺑﺮاﺑﺮ اﺳﺖ ﺑﺎ:
+
+-31
+
+0/01 (د
+
+0/1 (ج
+
+100 (ب
+
+اﻟﻒ( 10
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                در ﻳﻚ ﻣﻄﺎﻟﻌﻪ ﺑﺮ روى ﺳﻄﺢ ﻫﻤﻮﮔﻠﻮﺑﻴﻦ ﺑﻴﻤﺎران، اﮔﺮ ﻣﻘﺪار ﻫﻤﻮﮔﻠﻮﺑﻴﻦ ﺑﻪ ﺻﻮرت ﻧﺮﻣﺎل ﺑﺎ ﻣﻴـﺎﻧﮕﻴﻦ 14 و اﻧﺤـﺮاف ﻣﻌﻴـﺎر 1/5 ﮔﺮم در دﺳﻰﻟﻴﺘﺮ ﺗﻮزﻳﻊ ﺷﺪه ﺑﺎﺷﺪ، ﺗﻔﺎوت ﺻﺪک 50 و 84 ﻣﻘﺎدﻳﺮ ﻫﻤﻮﮔﻠﻮﺑﻴﻦ ﺑﺮ ﺣﺴﺐ ﮔﺮم در دﺳﻰﻟﻴﺘﺮ ﺑﺮاﺑﺮ اﺳﺖ ﺑﺎ:
+
+-32
+
+15/5 (د
+
+14 (ج
+
+3 (ب
+
+اﻟﻒ( 1/5
+
+-33  اﮔﺮ دو ﻣﺘﻐﻴﺮ ﺗﺼﺎدﻓﻰ ﻣﺴﺘﻘﻞ از ﻳﻜﺪﻳﮕﺮ ﺑﺎﺷﻨﺪ، ﻛﻮارﻳﺎﻧﺲ و ﺿﺮﻳﺐ ﻫﻤﺒﺴﺘﮕﻰ آﻧﻬﺎ ﺑﻪ ﺗﺮﺗﻴﺐ ﭼﻘﺪر اﺳﺖ؟
+
+د( 1 و 1
+
+ج( ﺻﻔﺮ و 1
+
+ب( 1 و ﺻﻔﺮ
+
+اﻟﻒ( ﺻﻔﺮ و ﺻﻔﺮ
+
+در ﻳﻚ ﻣﻄﺎﻟﻌﻪ ﭘﮋوﻫﺸﮕﺮى ﻓﻌﺎﻟﻴﺖ ﻳﻚ آﻧﺰﻳﻢ را در 30 ﻧﻤﻮﻧﻪ ﺳﻠﻮﻟﻰ ﻣﺨﺘﻠﻒ اﻧﺪازهﮔﻴﺮى ﻣﻰﻛﻨﺪ. ﻫـﺪف وى ﺑﺮرﺳـﻰ اﻳﻦ ﻓﺮﺿﻴﻪ اﺳﺖ ﻛﻪ آﻳﺎ ﻣﻴﺎﻧﮕﻴﻦ ﻓﻌﺎﻟﻴﺖ آﻧﺰﻳﻢ در ﻛﻞ ﺟﺎﻣﻌﻪ ﻣﻰﺗﻮاﻧﺪ ﺑﺮاﺑﺮ 10 ﻣﻴﻜﺮوﻣﻮل در دﻗﻴﻘﻪ ﺑﺎﺷﺪ ﻳﺎ ﺧﻴﺮ. اﮔـﺮ ﻣﻘﺪار p آزﻣﻮن ﺑﺮاﺑﺮ ﺑﺎ 0/03 ﺑﻪ دﺳﺖ آﻣﺪه ﺑﺎﺷﺪ، ﻛﺪام ﮔﺰﻳﻨﻪ درﺳﺖ اﺳﺖ؟
+اﻟﻒ( ﻓﺮﺿﻴﻪ ﺻﻔﺮ در ﺳﻄﺢ 0/01 a= رد ﻣﻰﺷﻮد·
+
+-34
+
+ب(  ﻓﺮﺿﻴﻪ ﺻﻔﺮ در ﺳﻄﺢ 0/05 a= رد ﻧﻤﻰﺷﻮد·
+
+رد ﻣﻰﺷﻮد وﻟﻰ در ﺳﻄﺢ 0/01 (= رد ﻧﻤﻰﺷﻮد· رد ﻣﻰﺷﻮد وﻟﻰ در ﺳﻄﺢ 0/05 a= رد ﻧﻤﻰﺷﻮد·
+
+ج( ﻓﺮﺿﻴﻪ ﺻﻔﺮ در ﺳﻄﺢ 0/05 (= د(  ﻓﺮﺿﻴﻪ ﺻﻔﺮ در ﺳﻄﺢ 0/01 a=
+
+ﺑﺮاى ﺑﺮرﺳﻰ ارﺗﺒﺎط ﻳﻚ ﻣﺘﻐﻴﺮ ﻧﺮﻣﺎل و ﻳﻚ ﻣﺘﻐﻴﺮ ﻛﻴﻔﻰ، ﻛﺪام آزﻣﻮن آﻣﺎرى ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( آزﻣﻮن ﻧﺮﻣﺎﻟﻴﺘﻰ
+
+-35
+
+ب(  آزﻣﻮن ﺗﺤﻠﻴﻞ وارﻳﺎﻧﺲ
+ج( آزﻣﻮن ﺗﻰ زوﺟﻰ د( آزﻣﻮن ﻛﺎى دو
+
+در ﻳﻚ ﻧﻤﻮﻧﻪ ﺗﺼﺎدﻓﻰ ﺑﻪ ﺣﺠﻢ 36 ﻧﻔﺮ از داﻧﺶ آﻣﻮزان، ﻣﻴﺎﻧﮕﻴﻦ و اﻧﺤﺮاف ﻣﻌﻴﺎر ﻧﻤﺮات ﻳﻚ درس ﺑﻪ ﺗﺮﺗﻴﺐ ﺑﺮاﺑـﺮ ﺑـﺎ 17 و 6 ﺑﻪ دﺳﺖ آﻣﺪه اﺳﺖ. ﺑﺮاى آزﻣﻮن اﻳﻦ ﻓﺮﺿﻴﻪ ﻛﻪ ﻣﻴﺎﻧﮕﻴﻦ ﻧﻤﺮات اﻳﻦ درس در ﻛﻞ ﺟﺎﻣﻌﻪ ﺑﻴﺸـﺘﺮ از 15 ﺑﺎﺷـﺪ، ﻣﻘﺪار آﻣﺎره آزﻣﻮن ﺑﺮاﺑﺮ اﺳﺖ ﺑﺎ:
+
+-36
+
+2 (د
+
+1/75 (ج
+
+1/5 (ب
+
+اﻟﻒ( 1/25
+
+-37  ﻛﺪام ﻧﻤﻮدار ﺑﺮاى ﻧﻤﺎﻳﺶ ﺗﻮزﻳﻊ دادهﻫﺎى ﭘﻴﻮﺳﺘﻪ ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+
+د( ﻧﻤﻮدار ﭘﺮاﻛﻨﺶ
+
+ج( ﻧﻤﻮدار ﻫﻴﺴﺘﻮﮔﺮام
+
+ب( ﻧﻤﻮدار ﻣﻴﻠﻪاى
+
+اﻟﻒ( ﻧﻤﻮدار داﻳﺮهاى
+
+ﻣﻘﺎدﻳﺮ ﻗﺪ داﻧﺶآﻣﻮزان ﺳﺎل ﭘﻨﺠﻢ اﺑﺘﺪاﻳﻰ ﻣﺪارس ﻳﻚ ﺷﻬﺮ داراى ﺗﻮزﻳﻊ ﻧﺮﻣﺎل ﺑﺎ ﻣﻴﺎﻧﮕﻴﻦ 140 ﺳﺎﻧﺘﻰﻣﺘﺮ و وارﻳﺎﻧﺲ 16 اﺳﺖ. ﻗﺪ ﭼﻨﺪ درﺻﺪ از اﻓﺮاد اﻳﻦ ﺟﺎﻣﻌﻪ ﺑﻴﻦ 136 و 144 ﺳﺎﻧﺘﻰﻣﺘﺮ اﺳﺖ؟
+
+-38
+
+95 (د
+
+34 (ج
+
+47/5 (ب
+
+اﻟﻒ( 68
+
+ﺑﺮاى ﻣﻘﺎﻳﺴﻪ ﻣﻴﺎﻧﮕﻴﻦ دو ﺟﺎﻣﻌﻪ ﻧﺮﻣﺎل ﻣﺴﺘﻘﻞ، ﺗﻮان آزﻣﻮن ﺑﺮاﺑﺮ ﺑﺎ 0/95 در ﻧﻈﺮ ﮔﺮﻓﺘﻪ ﺷﺪه اﺳﺖ. اﮔﺮp-value ﺑﺮاﺑﺮ ﺑﺎ 0/043 ﺑﻪ دﺳﺖ آﻣﺪه ﺑﺎﺷﺪ، ﻛﺪاﻣﻴﻚ از ﮔﺰﻳﻨﻪﻫﺎى زﻳﺮ ﺻﺤﻴﺢ اﺳﺖ؟
+اﻟﻒ( ﻣﻴﺎﻧﮕﻴﻦ دو ﺟﺎﻣﻌﻪ از ﻧﻈﺮ آﻣﺎرى ﺑﺎ ﻳﻜﺪﻳﮕﺮ ﺑﺮاﺑﺮ ﻫﺴﺘﻨﺪ·
+
+-39
+
+ب(  اﺧﺘﻼف ﻣﻴﺎﻧﮕﻴﻦ دو ﺟﺎﻣﻌﻪ ﻣﻌﻨﻰدار اﺳﺖ·
+ج( ﻣﻴﺎﻧﮕﻴﻦ دو ﺟﺎﻣﻌﻪ ﻣﺘﻔﺎوت اﺳﺖ اﻣﺎ از ﻧﻈﺮ آﻣﺎرى ﻣﻌﻨﺎدار ﻧﻴﺴﺖ· د(  اﺧﺘﻼف ﻣﻴﺎﻧﮕﻴﻦ دو ﺟﺎﻣﻌﻪ در ﺳﻄﺢ =05 ( ﻣﻌﻨﻰدار اﺳﺖ·
+
+در آزﻣﻮن ﻓﺮﺿﻴﻪ آﻣﺎرى، ﺳﻄﺢ ﻣﻌﻨﺎدارى (o) ﺑﻪ ﭼﻪ ﻣﻌﻨﺎﺳﺖ؟
+اﻟﻒ( اﺣﺘﻤﺎل ﭘﺬﻳﺮش ﻓﺮﺿﻴﻪ ﺻﻔﺮ وﻗﺘﻰ ﻓﺮﺿﻴﻪ ﻣﻘﺎﺑﻞ درﺳﺖ اﺳﺖ·
+
+-40
+
+ب(  اﺣﺘﻤﺎل ﭘﺬﻳﺮش ﻓﺮﺿﻴﻪ ﻣﻘﺎﺑﻞ وﻗﺘﻰ ﻓﺮض ﻣﻘﺎﺑﻞ درﺳﺖ اﺳﺖ·
+ج(  اﺣﺘﻤﺎل رد ﻓﺮﺿﻴﻪ ﺻﻔﺮ وﻗﺘﻰ ﻓﺮض ﺻﻔﺮ درﺳﺖ اﺳﺖ· د(  اﺣﺘﻤﺎل رد ﻓﺮﺿﻴﻪ ﻣﻘﺎﺑﻞ وﻗﺘﻰ ﻓﺮض ﻣﻘﺎﺑﻞ درﺳﺖ اﺳﺖ·
+
+
+
+
+ﻣﺪﻳﺮﻳﺖ اﻃﻼﻋﺎت ﺳﻼﻣﺖ
+ﻛﺪام ﮔﺰﻳﻨﻪ ﻣﻬﻢﺗﺮﻳﻦ دﻟﻴﻞ ﺣﺮﻛﺖ ﺳﻴﺴﺘﻢﻫﺎى ﺳﻼﻣﺖ از ﭘﺮوﻧﺪهﻫﺎى ﻛﺎﻏﺬى ﺑﻪ ﭘﺮوﻧﺪهﻫﺎى اﻟﻜﺘﺮوﻧﻴﻜﻰ اﺳﺖ؟
+اﻟﻒ( زﻣﺎنﺑﺮ ﺑﻮدن ﺛﺒﺖ دادهﻫﺎ در ﭘﺮوﻧﺪهﻫﺎى ﻛﺎﻏﺬى
+
+
+-41
+
+ب(  ﺳﻬﻮﻟﺖ ﭘﺎک ﺷﺪن دادهﻫﺎ در ﭘﺮوﻧﺪهﻫﺎى ﻛﺎﻏﺬى
+ج(  ﺗﺴﻬﻴﻞ ذﺧﻴﺮهﺳﺎزى، ﺗﺤﻠﻴﻞ، ﺗﺒﺎدل و ﮔﺰارشﮔﻴﺮى دادهﻫﺎ د(  اﻣﻨﻴﺖ ﭘﺎﻳﻴﻦ ﭘﺮوﻧﺪهﻫﺎى اﻟﻜﺘﺮوﻧﻴﻜﻰ در اﺛﺮ ﺣﻤﻼت ﺳﺎﻳﺒﺮى
+
+اﺳﺖ؟ "Electronic Health Record" ﺑﻪ ﻣﺮﺑﻮط ﺗﻌﺮﻳﻒ ﻛﺪام
+اﻟﻒ( ﭘﺮوﻧﺪه اﻟﻜﺘﺮوﻧﻴﻜﻰ ﻛﻪ ﺗﻨﻬﺎ در ﻳﻚ ﺳﺎزﻣﺎن ﻣﺮاﻗﺒﺖ ﺳﻼﻣﺖ ﻗﺎﺑﻞ دﺳﺘﺮﺳﻰ اﺳﺖ·
+
+-42
+
+ب(  ﭘﺮوﻧﺪه اﻟﻜﺘﺮوﻧﻴﻜﻰ ﻛﻪ ﺗﻮﺳﻂ ﺑﻴﻤﺎر ﻳﺎ ﻫﻤﺮاه وى ﻣﺪﻳﺮﻳﺖ ﻣﻰﺷﻮد·
+ج(  ﭘﺮوﻧﺪه ﻛﻪ ﺻﺮﻓﺎ ﺑﺮاى ﻣﺤﺎﺳﺒﻪ ﻗﻴﻤﺖ ﺗﻤﺎم ﺷﺪه ﺧﺪﻣﺎت اراﺋﻪ ﺷﺪه ﺑﻪ ﺑﻴﻤﺎر اﺳﺘﻔﺎده ﻣﻰﺷﻮد·
+د(  ﭘﺮوﻧﺪهاى ﻛﻪ ﺑﺮ اﺳﺎس اﺳﺘﺎﻧﺪاردﻫﺎى ﺗﺒﺎدلﭘﺬﻳﺮى ﻗﺎﺑﻞ اﺳﺘﻔﺎده در ﭼﻨﺪﻳﻦ ﺳﺎزﻣﺎن ﺳﻼﻣﺖ اﺳﺖ·
+
+ﻛﺪام ﮔﺰﻳﻨﻪ، از ﭼﺎﻟﺶﻫﺎى اﺻﻠﻰ ﭘﻴﺎدهﺳﺎزى ﭘﺮوﻧﺪه اﻟﻜﺘﺮوﻧﻴﻚ ﺳﻼﻣﺖ ﻣﺤﺴﻮب ﻣﻰﺷﻮد؟
+اﻟﻒ( ﻋﺪم ﻧﻴﺎز ﺑﻪ آﻣﻮزش ﻛﺎرﻛﻨﺎن
+
+-43
+
+ب(  اﻓﺰاﻳﺶ ﺗﻌﺎﻣﻞ ﭘﺰﺷﻚ ﺑﺎ ﺑﻴﻤﺎر
+ج( ﻫﺰﻳﻨﻪ ﺑﺎﻻ در ﺷﺮوع راه اﻧﺪازى د( ﻛﺎﻫﺶ رﺿﺎﻳﺖﻣﻨﺪى ﺑﻴﻤﺎران
+
+ﻛﺪاﻣﻴﻚ، از ﻣﺰاﻳﺎى ﻣﻬﻢ ﺳﻴﺴﺘﻢﻫﺎى CPOE ﻧﺴﺒﺖ ﺑﻪ ﻧﺴﺨﻪﻧﻮﻳﺴﻰ ﻛﺎﻏﺬى ﻣﺤﺴﻮب ﻣﻰﺷﻮد؟
+اﻟﻒ( دﻳﺠﻴﺘﺎل ﺷﺪن ﻓﺮآﻳﻨﺪ در ﺑﻴﻤﺎرﺳﺘﺎن
+
+-44
+
+ب(  ﺟﻠﻮﮔﻴﺮى از ﺑﺮوز ﺧﻄﺎ ﺑﻪ ﻋﻠﺖ ﻧﺎﺧﻮاﻧﺎﻳﻰ دﺳﺖﺧﻂ
+ج( ﻛﺎﻫﺶ دﺳﺘﺮﺳﻰ ﭘﺰﺷﻚ ﺑﻪ ﻧﺘﺎﻳﺞ آزﻣﺎﻳﺸﮕﺎﻫﻰ د(  ﺗﺄﺧﻴﺮ در ارﺳﺎل دﺳﺘﻮر ﭘﺰﺷﻚ ﺑﻪ داروﺧﺎﻧﻪ
+
+ﻣﻨﻈﻮر از واژه e-iatrogenesis در زﻣﻴﻨﻪ ﺳﻼﻣﺖ اﻟﻜﺘﺮوﻧﻴﻚ ﭼﻴﺴﺖ؟
+اﻟﻒ( ﺧﻄﺎﻫﺎى ﻧﺎﺷﻰ از ﺗﺤﻠﻴﻞ اﺷﺘﺒﺎه دادهﻫﺎى اﻟﻜﺘﺮوﻧﻴﻚ
+
+-45
+
+ب(  ﺣﺬف اﺷﺘﺒﺎﻫﻰ دادهﻫﺎى اﻟﻜﺘﺮوﻧﻴﻚ ﺑﻴﻤﺎر از ﺳﻴﺴﺘﻢ
+ج(  ﻋﺪم رﻋﺎﻳﺖ اﺻﻮل اﺧﻼﻗﻰ و ﻗﺎﻧﻮﻧﻰ در ﺗﺤﻘﻴﻘﺎت ﺳﻼﻣﺖ
+د(  ﺻﺪﻣﺎت وارد ﺷﺪه ﺑﻪ ﺑﻴﻤﺎر ﺑﻪ دﻟﻴﻞ اﺳﺘﻔﺎده از ﻓﻨﺎورى اﻃﻼﻋﺎت
+
+ﻛﺪام ﻋﺎﻣﻞ ﺑﻪ ﻋﻨﻮان ﻣﻬﻤﺘﺮﻳﻦ ﻣﺎﻧﻊ ﺑﺮاى ﭘﺬﻳﺮش CPOE ﺗﻮﺳﻂ ﭘﺰﺷﻜﺎن ﻣﻌﺮﻓﻰ ﺷﺪه اﺳﺖ؟
+اﻟﻒ( ﭘﻴﭽﻴﺪﮔﻰ اﺳﺘﻔﺎده از ﺳﻴﺴﺘﻢﻫﺎ
+
+-46
+
+ب(  ﻧﺎرﺿﺎﻳﺘﻰ ﺑﻴﻤﺎر و ﻫﻤﺮاه وى
+ج(  ﻛﻤﺒﻮد زﻳﺮﺳﺎﺧﺖ ﺳﺨﺖاﻓﺰارى
+د(  ﻛﺎﻫﺶ ﻫﺰﻳﻨﻪ ﭘﺮداﺧﺘﻰ ﺑﺮاى درﻣﺎن
+
+ﻋﻴﺐ اﺻﻠﻰ CDSS ﭼﻴﺴﺖ؟
+اﻟﻒ( ﻧﺒﻮد دﺳﺘﺮﺳﻰ ﺑﻪ ﭘﺮوﻧﺪه ﺑﻴﻤﺎر
+
+-47
+
+ب(  اﺣﺘﻤﺎل ﺧﺴﺘﮕﻰ ﻧﺎﺷﻰ از ﻫﺸﺪارﻫﺎ
+ج( ﻧﺒﻮد اﺳﺘﺎﻧﺪاردﻫﺎى ﺑﻴﻦاﻟﻤﻠﻠﻰ د( ﻧﺒﻮد اﻣﻜﺎن ﺷﺨﺼﻰﺳﺎزى
+
+اﺳﺘﻔﺎده از ﺳﻴﺴﺘﻢﻫﺎى اﻟﻜﺘﺮوﻧﻴﻚ در ﺑﻴﻤﺎرﺳﺘﺎن ﭼﮕﻮﻧﻪ ﺑﻪ ﻛﺎﻫﺶ ﻫﺰﻳﻨﻪﻫﺎى ﺧﺪﻣﺎت ﺳﻼﻣﺖ ﻛﻤﻚ ﻣﻰﻛﻨﺪ؟
+اﻟﻒ( ﺣﺬف ﻛﺎدر درﻣﺎن
+
+-48
+
+ب(  ﺟﺎﻳﮕﺰﻳﻨﻰ ﻛﺎﻣﻞ داﻧﺶ ﭘﺰﺷﻚ ﺑﺎ ﻧﺮماﻓﺰار
+ج( ﻛﺎﻫﺶ ﺗﻜﺮار آزﻣﺎﻳﺶﻫﺎ د(  اﻓﺰاﻳﺶ ﺑﺴﺘﺮى ﺑﻴﻤﺎران
+
+
+
+
+ﻛﺪاﻣﻴﻚ از اﺟﺰاى EHR اﻣﻜﺎن ﺑﺮﻗﺮارى ارﺗﺒﺎط اﻣﻦ ﻣﻴﺎن ﭘﺰﺷﻚ و ﺑﻴﻤﺎر را ﻓﺮاﻫﻢ ﻣﻰﻛﻨﺪ؟
+Order Management (اﻟﻒ
+
+-49
+
+Practice Management (ب Disease Registry	(ج Patient Portal	(د
+
+ﻫﺪف از ﻛﺎرﺑﺮد "infobuttons" در ﺳﻴﺴﺘﻢ ﻫﺎى اﻟﻜﺘﺮوﻧﻴﻚ ﺳﻼﻣﺖ ﭼﻴﺴﺖ؟
+اﻟﻒ( ﻫﺸﺪار ﻣﺼﺮف داروﻫﺎى ﺗﺠﻮﻳﺰى
+
+-50
+
+ب(  دﺳﺘﺮﺳﻰ ﺑﻪ ﻣﻨﺎﺑﻊ اﻃﻼﻋﺎﺗﻰ ﻣﺮﺗﺒﻂ
+ج( ﺗﻬﻴﻪ ﻧﺴﺨﻪ اﻟﻜﺘﺮوﻧﻴﻜﻰ ﭘﺮوﻧﺪه د(  ﻃﺮاﺣﻰ واﺳﻂ ﻛﺎرﺑﺮى ﮔﺮاﻓﻴﻜﻰ
+
+ﻣﻬﻤﺘﺮﻳﻦ ﻫﺪف اﺳﺘﻔﺎده از System Management Practice در ﺑﻴﻤﺎرﺳﺘﺎن و ﻛﻠﻴﻨﻴﻚ ﭼﻴﺴﺖ؟
+اﻟﻒ( ﺛﺒﺖ و ﮔﺰارشﮔﻴﺮى ﺧﺪﻣﺎت اراﺋﻪ ﺷﺪه ﺟﻬﺖ ارﺳﺎل ﺑﻪ ﺑﻴﻤﻪﻫﺎ
+
+-51
+
+ب(  ﺛﺒﺖ و ﮔﺰارشﮔﻴﺮى ﻣﻴﺰان اﻣﻨﻴﺖ و اﻳﻤﻨﻰ ﺑﻴﻤﺎرﺳﺘﺎن
+ج(  ﺛﺒﺖ و ﮔﺰارشﮔﻴﺮى ﻓﻌﺎﻟﻴﺖﻫﺎى ﺑﺎﻟﻴﻨﻰ ﺑﻴﻤﺎرﺳﺘﺎن
+د(  ﺛﺒﺖ و ﮔﺰارشﮔﻴﺮى رﺿﺎﻳﺖﻣﻨﺪى ﺑﻴﻤﺎران از ﺧﺪﻣﺎت اراﺋﻪ ﺷﺪه
+
+ﻛﺪاﻣﻴﻚ از ﺳﻴﺴﺘﻢﻫﺎى اﻟﻜﺘﺮوﻧﻴﻚ، در راﺳﺘﺎى ﭼﺸﻢاﻧﺪاز System Healthcare Learning ﻣﻰﺑﺎﺷﺪ؟
+Clinical Decision Support (اﻟﻒ
+
+-52
+
+Hospital Information System (ب Order Management System (ج Electronic Patient Registry (د
+
+ﻛﺪام وﻳﮋﮔﻰ، ﻳﻚ EHR ﻣﻌﺘﺒﺮ (Certified) را از ﻳﻚ EMR ﻣﺘﻤﺎﻳﺰ ﻣﻰﻛﻨﺪ؟
+اﻟﻒ( ﻗﺎﺑﻠﻴﺖ ذﺧﻴﺮهﺳﺎزى ﺗﺼﺎوﻳﺮ ﭘﺰﺷﻜﻰ
+
+-53
+
+ب(  اﻣﻜﺎن ﺗﺒﺎدل اﻃﻼﻋﺎت ﺑﻴﻦ ﺳﺎزﻣﺎﻧﻰ
+ج( وﺟﻮد ﺳﻴﺴﺘﻢ ﺛﺒﺖ دﺳﺘﻮر ﻛﺎﻣﭙﻴﻮﺗﺮى د( راﺑﻂ ﻛﺎرﺑﺮى ﮔﺮاﻓﻴﻜﻰ
+
+در ﻣﺪل »ﺧﺎﻧﻪ ﭘﺰﺷﻜﻰ ﺑﻴﻤﺎرﻣﺤﻮر«، ﻛﺪام ﻗﺎﺑﻠﻴﺖ ﺳﻴﺴﺘﻢ اﻃﻼﻋﺎت ﺳﻼﻣﺖ ﺣﻴﺎﺗﻰﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﺳﻴﺴﺘﻢ ﺻﻮرﺗﺤﺴﺎبدﻫﻰ ﺧﻮدﻛﺎر ﺑﻴﻤﺎران
+
+-54
+
+ب(  ﺗﻮﻟﻴﺪ ﮔﺰارشﻫﺎى ﻣﺎﻟﻰ
+ج( اﺑﺰارﻫﺎى ﻫﻤﺎﻫﻨﮕﻰ ﻣﺮاﻗﺒﺖ ﺑﻴﻦ اراﺋﻪدﻫﻨﺪﮔﺎن د( ﻣﺪﻳﺮﻳﺖ ﻣﻮﺟﻮدى دارو
+
+در ﺗﺪوﻳﻦ راﻫﺒﺮد ﻓﻨﺎورى اﻃﻼﻋﺎت ﺳﻼﻣﺖ، ﻛﺪام ﻋﺎﻣﻞ اوﻟﻮﻳﺖ ﺑﺎﻻﺗﺮى دارد؟
+اﻟﻒ( ﻫﻤﺴﻮﻳﻰ ﺑﺎ اﻫﺪاف ﻛﻠﻰ ﺳﺎزﻣﺎن
+
+-55
+
+ب(  ﻫﺰﻳﻨﻪﻫﺎى ﭘﻴﺎدهﺳﺎزى ﻓﻨﺎورى
+ج( ﻣﺤﺒﻮﺑﻴﺖ ﻓﺮوﺷﻨﺪه ﻣﺤﺼﻮل د(  ﺳﻬﻮﻟﺖ اﺳﺘﻔﺎده از ﻓﻨﺎورى
+
+ﻛﺪام ﮔﺰﻳﻨﻪ ﺑﺮاى ارزﻳﺎﺑﻰ اﺛﺮﺑﺨﺸﻰ ﺳﺮﻣﺎﻳﻪﮔﺬارى در ﻓﻨﺎورى اﻃﻼﻋﺎت ﺳﻼﻣﺖ ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﺗﻌﺪاد ﻛﺎرﺑﺮان آﻣﻮزشدﻳﺪه
+
+-56
+
+ب(  ﺑﻬﺒﻮد ﺷﺎﺧﺺﻫﺎى ﻛﻴﻔﻴﺖ ﻣﺮاﻗﺒﺖ
+ج( ﺳﺮﻋﺖ ﭘﺮدازش ﺳﺮور ﻣﺮﻛﺰى د( ﺗﻌﺪاد ﻣﺎژولﻫﺎى ﻧﺼﺐﺷﺪه
+
+
+
+
+در ﻓﺮآﻳﻨﺪ اﻧﺘﺨﺎب ﻳﻚ ﺳﻴﺴﺘﻢ اﻃﻼﻋﺎت ﺳﻼﻣﺖ، ﻛﺪام ﻣﺮﺣﻠﻪ ﺣﻴﺎﺗﻰﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﺗﺤﻠﻴﻞ ﻧﻴﺎزﻫﺎى ﻛﺎرﺑﺮان ﻧﻬﺎﻳﻰ
+
+-57
+
+ب(  ﻣﻘﺎﻳﺴﻪ ﻗﻴﻤﺖ ﻓﺮوﺷﻨﺪﮔﺎن
+ج( ارزﻳﺎﺑﻰ ﻇﺎﻫﺮ ﮔﺮاﻓﻴﻜﻰ ﺳﻴﺴﺘﻢ د(  زﻣﺎنﺑﻨﺪى ﭘﺮداﺧﺖ ﻫﺰﻳﻨﻪ ﭘﺮوژه
+
+در ﭘﻴﺎدهﺳﺎزى Data Health Patient-Generated، ﻛﺪام ﮔﺰﻳﻨﻪ ﭼﺎﻟﺶ ﺑﺮاﻧﮕﻴﺰﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﻫﺰﻳﻨﻪ ﺑﺎﻻى دﺳﺘﮕﺎهﻫﺎى ﭘﻮﺷﻴﺪﻧﻰ
+
+-58
+
+ب( ﻋﺪم ﻋﻼﻗﻪ ﺑﻴﻤﺎران ﺑﻪ اﺷﺘﺮاکﮔﺬارى دادهﻫﺎ ج( ﻣﺤﺪودﻳﺖﻫﺎى ﻓﻨﺎورى اﻳﻨﺘﺮﻧﺖ
+د(  ﻳﻜﭙﺎرﭼﻪﺳﺎزى ﺑﺎ ﺟﺮﻳﺎن ﻛﺎر ﺑﺎﻟﻴﻨﻰ ﻣﻮﺟﻮد
+-59  ﻛﺪام ﻣﻮرد ﺑﺮاى ﺗﻀﻤﻴﻦ اﻣﻨﻴﺖ دادهﻫﺎى ﺳﻼﻣﺖ ﻣﺒﺎدﻟﻪ ﺷﺪه از ﻃﺮﻳﻖ ﭘﻮرﺗﺎلﻫﺎى ﺑﻴﻤﺎر اﻟﺰاﻣﻰ اﺳﺖ؟
+
+ICD-10 (د
+
+LOINC (ج
+
+DICOM (ب
+
+HIPAA (اﻟﻒ
+
+
+
+ﻛﺪام ﮔﺰﻳﻨﻪ از ﻣﻮاﻧﻊ اﺻﻠﻰ ﭘﺬﻳﺮش ﭘﻮرﺗﺎلﻫﺎى ﺑﻴﻤﺎر ﻣﺤﺴﻮب ﻧﻤﻰﺷﻮد؟
+اﻟﻒ( ﻧﮕﺮاﻧﻰﻫﺎى ﻣﺮﺑﻮط ﺑﻪ ﺣﺮﻳﻢ ﺧﺼﻮﺻﻰ
+
+-60
+
+ب(  ﭘﻴﭽﻴﺪﮔﻰ راﺑﻂ ﻛﺎرﺑﺮى
+ج( ﻫﺰﻳﻨﻪ ﺑﺎﻻى اﺷﺘﺮاک ﻣﺎﻫﺎﻧﻪ د( ﻛﻤﺒﻮد آﮔﺎﻫﻰ ﺑﻴﻤﺎران
+
+
+ﻳﻚ ﻣﺮﻛﺰ ﭘﺰﺷﻜﻰ ﻣﻰﺧﻮاﻫﺪ از ﺗﺤﻠﻴﻞ ﭘﻴﺶﺑﻴﻨﺎﻧﻪ ﺑﺮاى ﺑﻬﺒﻮد ﻧﺘﺎﻳﺞ درﻣﺎن ﺳﺮﻃﺎن اﺳﺘﻔﺎده ﻛﻨﺪ. ﻛﺪام ﻧـﻮع ﺗﺤﻠﻴـﻞ ﺑﺮاى ﺷﻨﺎﺳﺎﻳﻰ اﻟﮕﻮﻫﺎى ﭘﺎﺳﺦ ﺑﻪ درﻣﺎن ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﺗﺤﻠﻴﻞ ﺗﻮﺻﻴﻔﻰ ﮔﺬﺷﺘﻪﻧﮕﺮ
+
+-61
+
+ب( ﺗﺤﻠﻴﻞ ﭘﻴﺶﺑﻴﻨﺎﻧﻪ ﺑﺎ ﻳﺎدﮔﻴﺮى ﻣﺎﺷﻴﻦ ج( ﺗﺤﻠﻴﻞ ﺗﺸﺨﻴﺼﻰ ﻋﻠﺖﻳﺎب
+د(  ﺗﺤﻠﻴﻞ ﺗﺠﻮﻳﺰى ﻣﺒﺘﻨﻰ ﺑﺮ ﻗﻮاﻧﻴﻦ
+
+ﻳﻚ ﺷﺒﻜﻪ ﺑﻴﻤﺎرﺳﺘﺎﻧﻰ ﺑﺎ ﻣﺸﻜﻞ ﻧﺎﺳﺎزﮔﺎرى دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ ﺑﻴﻦ ﺳﻴﺴﺘﻢﻫﺎى ﻣﺨﺘﻠﻒ ﻣﻮاﺟﻪ اﺳﺖ. ﻛـﺪام راﻫﻜـﺎر را ﺑﺮاى ﻳﻜﭙﺎرﭼﻪﺳﺎزى دادهﻫﺎ ﭘﻴﺸﻨﻬﺎد ﻣﻰﻛﻨﻴﺪ؟
+اﻟﻒ( ﭘﻴﺎدهﺳﺎزى واﺳﻂﻫﺎى ﮔﺮاﻓﻴﻜﻰ
+
+-62
+
+ب(  اﻳﺠﺎد اﻧﺒﺎره داده ﺳﺎزﻣﺎﻧﻰ
+ج( اﺳﺘﻔﺎده از اﺳﺘﺎﻧﺪارد FHIR HL7 د(  ﺗﻮﺳﻌﻪ دﻳﻜﺸﻨﺮى داده ﻣﺮﻛﺰى
+
+
+ﻳﻚ ﻛﻠﻴﻨﻴﻚدﻳﺎﺑﺖ ﻗﺼﺪ دارد از داﺷﺒﻮردﻫﺎى ﺑﺎﻟﻴﻨﻰ اﺳﺘﻔﺎده ﻛﻨﺪ. ﻛﺪام ﺷﺎﺧﺺ ﺑﺮاى ﻣﺎﻧﻴﺘﻮرﻳﻨﮓ ﺑﻴﻤﺎراندﻳﺎﺑﺘﻰﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﻣﻴﺰان ﻫﻤﻮﮔﻠﻮﺑﻴﻦ A1c
+
+-63
+
+ب( ﻣﻴﺎﻧﮕﻴﻦ ﻣﺪت اﻗﺎﻣﺖ ج(  ﺗﻌﺪاد وﻳﺰﻳﺖﻫﺎى ﻣﺎﻫﺎﻧﻪ
+د(  درﺻﺪ اﺗﺎقﻫﺎى اﺷﻐﺎل ﺷﺪه
+
+درﺻﻮرت اﺳﺘﻔﺎده از EDI ﺑﺮاى ارﺳﺎل ﺻﻮرﺗﺤﺴﺎب ﻫﺎى ﻣﺎﻟﻰ ﺑﻴﻤﺎرﺳﺘﺎن ﺑﻪ ﺷﺮﻛﺖ ﺑﻴﻤﻪ، ﺑﻪ ﻣﻨﻈﻮر ﻛﺎﻫﺶ ﻛﺴـﻮرات ﺑﻴﻤﻪاى، از ﻛﺪام اﺳﺘﺎﻧﺪارد اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+-64
+
+DICOM (د
+
+FHIR (ج
+
+X12N (ب
+
+HL7 (اﻟﻒ
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ﺑﻴﻤﺎرﺳﺘﺎﻧﻰ، ﺑﺮاﺳﺎس ﺑﺮﻧﺎﻣﻪ ﻋﻤﻠﻴﺎﺗﻰ ﺧﻮد، ﺑﺎﻳﺪ ﺑﺎ ﻳﻚ آزﻣﺎﻳﺸﮕﺎه ﺗﺒﺎدل اﻟﻜﺘﺮوﻧﻴﻚ داده داﺷﺘﻪ ﺑﺎﺷـﺪ. ﻛـﺪام ﺳـﻨﺪ ﺣﻘﻮﻗﻰ ﺑﺮاى ﺗﻌﻴﻴﻦ ﭼﺎرﭼﻮب اﻳﻦ ﺗﺒﺎدل ﺿﺮورى اﺳﺖ؟
+اﻟﻒ( ﻗﺮارداد ﺑﻴﻦ ﺑﻴﻤﺎر و ﺑﻴﻤﺎرﺳﺘﺎن
+
+-65
+
+ب(  ﭘﺮوﺗﻜﻞ ارﺗﺒﺎﻃﻰ ﺑﻴﻦ EHR و ﺳﻴﺴﺘﻢ آزﻣﺎﻳﺸﮕﺎه ج( ﺗﻮاﻓﻘﻨﺎﻣﻪ ﻓﻨﻰ و ﻗﺎﻧﻮﻧﻰ ﺑﻴﻦ ﺑﻴﻤﺎرﺳﺘﺎن و آزﻣﺎﻳﺸﮕﺎه د( ﺳﻨﺪ رﺿﺎﻳﺖﻣﻨﺪى ﺑﻴﻤﺎر از آزﻣﺎﻳﺸﮕﺎه
+-66  ﻳﻚ ﻣﺮﻛﺰ ﺗﺼﻮﻳﺮﺑﺮدارى ﻧﻴﺎزﺑﻪ ارﺳﺎل اﻣﻦﺗﺼﺎوﻳﺮرادﻳﻮﻟﻮژىﺑﻪﻣﺘﺨﺼﺼﺎن دارد. ﻛﺪام ﭘﺮوﺗﻜﻞ ﺑﺮاى ﺣﻔﺎﻇﺖ از اﻳﻦﺗﺒﺎدل ﺿﺮورىاﺳﺖ؟
+
+SMTP (د
+
+FTP (ج
+
+HTTP (ب
+
+TLS/SSL (اﻟﻒ
+
+
+
+ﭘﺰﺷﻚ ﻣﻌﺎﻟﺞ ﻧﻴﺎز ﺑﻪ درﻳﺎﻓﺖ ﻓﻮرى ﻧﺘﺎﻳﺞ آزﻣﺎﻳﺶ ﺧﻮن ﺑﻴﻤﺎر دارد. از ﻛﺪام اﺳﺘﺎﻧﺪارد ﺑﺮاى اﻳﻦ ﺗﺒﺎدل اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+NCPDP SCRIPT (اﻟﻒ
+
+-67
+
+X12 835 (ب DICOM (ج HL7 v2 (د
+
+
+ﺑﻴﻤﺎرﺳﺘﺎﻧﻰ ﺑﺎ ﻣﺸﻜﻞ ﻋﺪم ﻫﻤﺎﻫﻨﮕﻰ ﺑﻴﻦ دادهﻫﺎى ﺑﺨﺶﻫﺎىﻣﺨﺘﻠﻒ ﻣﻮاﺟﻪ اﺳﺖ. ﻛﺪام راﻫﻜﺎر ﺑﺮاىﺣﻞ اﻳﻦﻣﺸﻜﻞ ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( ﭘﻴﺎدهﺳﺎزى اﻧﺒﺎره داده ﺳﺎزﻣﺎﻧﻰ
+
+-68
+
+ب( ﻛﺎﻫﺶ ﺗﻌﺪاد ﻛﺎرﺑﺮان ﺳﻴﺴﺘﻢ ج( اﺳﺘﻔﺎده از ﺳﻴﺴﺘﻢﻫﺎى ﻣﺴﺘﻘﻞ د(  ﺣﺬف اﺳﺘﺎﻧﺪاردﻫﺎى ﻛﺪﮔﺬارى
+
+ﻛﺪام ﮔﺰﻳﻨﻪ ﺟﺎﻳﮕﺰﻳﻦ ﻣﻨﺎﺳﺒﻰ ﺑﺮاى ﺳﻴﺴﺘﻢ EDI ﺳﻨﺘﻰ اﺳﺖ؟
+
+-69
+
+C-CDA (د
+
+CCD (ج
+
+FHIR (ب
+
+Block chain (اﻟﻒ
+
+در آزﻣﺎﻳﺸﮕﺎه ﺑﻴﻤﺎرﺳﺘﺎن، ﻣﺴـﺌﻮل ﻛﻨﺘـﺮل ﻛﻴﻔﻴـﺖ در ﺣـﺎل ﺑﺮرﺳـﻰ ﻛـﺪﻫﺎى اﺳـﺘﺎﻧﺪارد LOINC ﺑـﺮاى ﻧﺘـﺎﻳﺞ آزﻣﺎﻳﺸﮕﺎﻫﻰ اﺳﺖ. او ﻧﻴﺎز ﺑﻪ ﺷﻨﺎﺳﺎﻳﻰ ﺑﺨﺶ Scale در ﻛﺪﻫﺎى LOINC دارد ﺗـﺎ از ﺻـﺤﺖ ﻃﺒﻘـﻪﺑﻨـﺪى دادهﻫـﺎى آزﻣﺎﻳﺸﮕﺎﻫﻰ ﻣﻄﻤﺌﻦ ﺷﻮد. در ﻛﺪ زﻳﺮ، ﻛﺪام ﻗﺴﻤﺖ ﺑﻴﺎﻧﮕﺮ Scale ﺧﻮاﻫﺪ ﺑﻮد؟
+Hepatitis B virus surface Ab: ACnc:Pt:Ser:Qn:EIA:8-5193
+
+-70
+
+EIA (د
+
+Ser (ج
+
+ACnc (ب
+
+Qn (اﻟﻒ
+
+
+اﻧﻔﻮرﻣﺎﺗﻴﻚ ﺳﻼﻣﺖ
+
+
+ﻛﺪام ﮔﺰﻳﻨﻪ از ﻣﺤﺪودﻳﺖﻫﺎى ﺗﺤﻠﻴﻞ دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ اﺳﺖ؟
+اﻟﻒ( دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ ﻓﻘﻂ ﺑﺮاى ﻣﻄﺎﻟﻌﺎت ﺗﺠﺮﺑﻰ ﻣﻨﺎﺳﺐ ﻫﺴﺘﻨﺪ·
+
+-71
+
+ب( دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ ﺑﻴﺸﺘﺮ از اﻃﻼﻋﺎت ﻣﺎﻟﻰ ﺛﺒﺖ ﻣﻰﺷﻮﻧﺪ· ج( دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ اﻏﻠﺐ ﺳﺎﺧﺘﺎرﻳﺎﻓﺘﻪ ﻫﺴﺘﻨﺪ·
+د(  دادهﻫﺎى ﺑﺎﻟﻴﻨﻰ ﻣﻤﻜﻦ اﺳﺖ ﻧﺎﻗﺺ ﻳﺎ داراى ﺳﻮﮔﻴﺮى ﺑﺎﺷﻨﺪ·
+-72  ﻛﺪام روش ﺑﺮاى اﺳﺘﺨﺮاج اﻟﮕﻮﻫﺎ از دادهﻫﺎى ﻣﺘﻨﻰ ﻏﻴﺮﺳﺎﺧﺘﺎرﻳﺎﻓﺘﻪ اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+د( ﻫﻮش ﻣﻮﻟﺪ
+
+ج( وبﻛﺎوى
+
+ب( ﻣﺘﻦﻛﺎوى
+
+اﻟﻒ( دادهﻛﺎوى
+
+
+
+
+ﻫﺪف اﺻﻠﻰ ﭘﺮوﺗﻜﻞ HTTPS ﭼﻴﺴﺖ؟
+اﻟﻒ( رﻣﺰﮔﺬارى ارﺗﺒﺎﻃﺎت اﻳﻨﺘﺮﻧﺘﻰ
+
+-73
+
+ب( اﻓﺰاﻳﺶ ﺳﺮﻋﺖ اﻧﺘﻘﺎل داده ج( ﺟﺎﻳﮕﺰﻳﻨﻰ DNS
+د(  ﻛﺎﻫﺶ ﻫﺰﻳﻨﻪﻫﺎى ﺷﺒﻜﻪ
+-74  ﻛﺪام ﻓﻨﺎورى ﺑﺮاى ﭘﻮﺷﺶ ﺷﺒﻜﻪاى ﮔﺴﺘﺮده ﺑﺎ اﺳﺘﻔﺎده از اﻣﻮاج ﻣﺎﻳﻜﺮووﻳﻮ ﻃﺮاﺣﻰ ﺷﺪه اﺳﺖ؟
+
+VPN (د
+
+DSL (ج
+
+WiMax (ب
+
+Bluetooth (اﻟﻒ
+
+-75  ﻛﺪام دﺳﺘﮕﺎه در ﺷﺒﻜﻪ وﻇﻴﻔﻪ ﻣﺴﻴﺮﻳﺎﺑﻰ ﺑﺴﺘﻪﻫﺎ را ﺑﺮ ﻋﻬﺪه دارد؟
+
+د( ﻣﻮدم
+
+ج( روﺗﺮ
+
+ب( ﺳﻮﺋﻴﭻ
+
+اﻟﻒ( ﻫﺎب
+ﻫﺪف اﺻﻠﻰ IPv6 ﭼﻴﺴﺖ؟
+
+
+-76
+
+اﻟﻒ( اﻓﺰاﻳﺶ ﺳﺮﻋﺖ اﻧﺘﻘﺎل داده ﻧﺴﺒﺖ ﺑﻪ IPv4
+ب( ﺟﺎﻳﮕﺰﻳﻨﻰ IPv4 ﺑﻪ دﻟﻴﻞ ﻣﺤﺪودﻳﺖ آدرس ج( ﺑﻬﺒﻮد اﻣﻨﻴﺖ ﺷﺒﻜﻪ ﻧﺴﺒﺖ ﺑﻪ IPv4
+د(  ﺣﺬف ﻧﻴﺎز ﺑﻪ DNS در IPv4
+
+ﻛﺪاﻣﻴﻚ از وﻳﮋﮔﻰﻫﺎى زﻳﺮ در ﺑﺮﻧﺎﻣﻪﻫﺎى Informatics Health Consumer ﺑﺮاى ﺑﻬﺒﻮد ﭘﺎﻳﺒﻨﺪى ﺑﻪ درﻣﺎن ﻣﺆﺛﺮ اﺳﺖ؟
+اﻟﻒ( ﻳﺎدآورﻫﺎى ﺧﻮدﻛﺎر
+
+-77
+
+ب(  ﻓﺮوش داروﻫﺎ
+ج( ﺣﺬف ارﺗﺒﺎط ﻣﺴﺘﻘﻴﻢ ﺑﺎ ﭘﺰﺷﻚ د( اﺳﺘﻔﺎده از ﺷﺒﻜﻪﻫﺎى اﺟﺘﻤﺎﻋﻰ
+
+
+ﻛﺪاﻣﻴﻚ از ﻣﻮارد زﻳﺮ ﺟﺰء ﻛﺎرﺑﺮدﻫﺎى اﺻﻠﻰ رﺳﺎﻧﻪﻫﺎى اﺟﺘﻤﺎﻋﻰ در ﺳﻼﻣﺖ اﺳﺖ؟
+اﻟﻒ( ﻣﺪﻳﺮﻳﺖ ﺗﺠﻬﻴﺰات درﻣﺎﻧﻰ
+
+-78
+
+ب(  ﻓﺮوش ﻣﺴﺘﻘﻴﻢ دارو
+ج(  ﺣﺬف ﻣﺮاﺟﻌﺎت اورژاﻧﺴﻰ
+د(  اﺷﺘﺮاکﮔﺬارى ﺗﺠﺮﺑﻴﺎت ﺳﻼﻣﺖ
+
+
+در روش ﺷﺒﻜﻪﻫﺎى ﺑﻴﺰ، ﺑﺮاى ﻣﺪلﺳﺎزى ﻋﺪم ﻗﻄﻌﻴﺖ از ﭼﻪ ﭼﻴﺰى اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+اﻟﻒ( ﻣﻨﻄﻖ ﻓﺎزى
+
+-79
+
+ب(  اﺣﺘﻤﺎﻻت ﺷﺮﻃﻰ ج( ﺟﺪاول ﺗﺼﻤﻴﻢﮔﻴﺮى د(  ﻳﺎدﮔﻴﺮى ﻧﻈﺎرتﺷﺪه
+
+
+اﺳﺘﻔﺎده از اﻳﻤﻴﻞ ﺑﺮاى ارﺗﺒﺎط ﺑﻴﻤﺎر-ﭘﺰﺷﻚ ﻣﻌﻤﻮﻻر ﻣﻨﺠﺮ ﺑﻪ ﭼﻪ ﻧﺘﻴﺠﻪاى ﻣﻰﺷﻮد؟
+اﻟﻒ( ﻛﺎﻫﺶ رﺿﺎﻳﺖﻣﻨﺪى ﺑﻴﻤﺎران
+
+-80
+
+ب(  ﻛﺎﻫﺶ ﻛﻴﻔﻴﺖ ﻣﺮاﻗﺒﺖ
+ج( ﺑﻬﺒﻮد ﻣﺪﻳﺮﻳﺖ ﺑﻴﻤﺎرىﻫﺎى ﻣﺰﻣﻦ د( اﻓﺰاﻳﺶ ﺧﺪﻣﺎت ﺑﻴﻤﺎرﺳﺘﺎﻧﻰ
+-81  ﻛﺪام ﭘﺮوﺗﻜﻞ ﺑﻪ ﻋﻨﻮان ﭘﺎﻳﻪ ارﺗﺒﺎﻃﻰ اﻳﻨﺘﺮﻧﺖ اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+SMTP (د
+
+TCP/IP (ج
+
+FTP (ب
+
+HTTP (اﻟﻒ
+
+
+
+
+در ﺑﺤﺚ ﺷﺒﻜﻪﻫﺎى ﻛﺎﻣﭙﻴﻮﺗﺮى ﻫﺪف اﺻﻠﻰ DNS ﭼﻴﺴﺖ؟
+اﻟﻒ( ﺗﺒﺪﻳﻞ ﻧﺎم داﻣﻨﻪ ﺑﻪ آدرس
+
+-82
+
+ب( اﻧﺘﻘﺎل داده ﺑﻴﻦ ﺷﺒﻜﻪﻫﺎ ج( رﻣﺰﮔﺬارى دادهﻫﺎ
+د(  ﻣﺪﻳﺮﻳﺖ ﭘﻬﻨﺎى ﺑﺎﻧﺪ
+
+NLP در اﻧﻔﻮرﻣﺎﺗﻴﻚ ﭘﺰﺷﻜﻰ ﻋﻤﺪﺗﺎر ﺑﺮاى ﭼﻪ ﺑﻪﻛﺎر ﻣﻰرود؟
+اﻟﻒ( ﺗﻔﺴﻴﺮ ﺗﺼﺎوﻳﺮ CT
+
+-83
+
+ب( اﺳﺘﺨﺮاج ﻣﻔﺎﻫﻴﻢ از ﻣﺘﻮن ﺑﺎﻟﻴﻨﻰ ج( ﺑﻬﻴﻨﻪﺳﺎزى ﺷﺒﻜﻪﻫﺎى ﺑﻰﺳﻴﻢ د( ﻣﺤﺎﺳﺒﺎت آﻣﺎرى ﺳﺎده
+-84  ﻛﺪام ﺗﻜﻨﻴﻚ ﺑﺮاى ﻛﺎﻫﺶ اﺑﻌﺎد ﻓﻀﺎى وﻳﮋﮔﻰ اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+SQL (د
+
+DICOM (ج
+
+FFT (ب
+
+PCA (اﻟﻒ
+
+ﭼﻴﺴﺖ؟ Synchronous Telemedicine ﻣﺪل ﺑﺎرز وﻳﮋﮔﻰ
+اﻟﻒ( ﺗﺄﺧﻴﺮ ﺗﺎ 48 ﺳﺎﻋﺖ در ارﺳﺎل دادهﻫﺎ ﭘﺬﻳﺮﻓﺘﻪ اﺳﺖ
+
+-85
+
+ب( اﺳﺘﻔﺎده ﻫﻤﺰﻣﺎن از اﻳﻤﻴﻞ و ﭘﻴﺎﻣﻚ ﺟﻬﺖ ارﺗﺒﺎط ج( ارﺳﺎل دورهاى دادهﻫﺎى ﭘﺰﺷﻜﻰ ﺑﻴﻤﺎر
+د(  ارﺗﺒﺎط ﺑﻼدرﻧﮓ ﻣﻴﺎن ﺑﻴﻤﺎر و ﻣﺘﺨﺼﺺ
+
+اﺳﺘﻔﺎده از ﭘﻮرﺗﺎلﻫﺎى ﺑﻴﻤﺎر ﻣﻌﻤﻮﻻر ﻣﻨﺠﺮ ﺑﻪ ﭼﻪ ﺗﻐﻴﻴﺮى در ﻣﺮاﺟﻌﺎت ﺣﻀﻮرى ﻣﻰﺷﻮد؟
+اﻟﻒ( اﻓﺰاﻳﺶ ﺗﻌﺪاد ﻛﻞ ﻣﺮاﺟﻌﺎت
+
+-86
+
+ب(  ﻛﺎﻫﺶ ﺗﻌﺪاد ﻛﻞ ﻣﺮاﺟﻌﺎت
+ج( ﻓﻘﻂ ﻛﺎﻫﺶ ﻣﺮاﺟﻌﺎت اورژاﻧﺴﻰ د(  ﻓﻘﻂ اﻓﺰاﻳﺶ ﻣﺮاﺟﻌﺎت اورژاﻧﺴﻰ
+
+در ﻳﺎدﮔﻴﺮى ﻣﺎﺷﻴﻦ ”ﻧﻈﺎرت ﺷﺪه“، ﻣﺪل ﭼﮕﻮﻧﻪ آﻣﻮزش ﻣﻰﺑﻴﻨﺪ؟
+اﻟﻒ( ﺑﺎ اﺳﺘﻔﺎده از ﻣﺸﺘﻖﮔﻴﺮى دادهﻫﺎى ورودى
+
+-87
+
+ب( از ﻃﺮﻳﻖ ﺗﻌﻴﻴﻦ دﻗﻴﻖ ﻗﻮاﻧﻴﻦ ﺣﺎﻛﻢ ج(  ﺑﺎ اﺳﺘﻔﺎده از دادهﻫﺎى داراى ﺑﺮﭼﺴﺐ
+د(  از ﻃﺮﻳﻖ ﻣﺸﺎﻫﺪه ﻣﺤﻴﻂ ﭘﻴﺮاﻣﻮن ﺑﺪون راﻫﻨﻤﺎﻳﻰ
+
+ﻛﺪاﻣﻴﻚ از ﻣﻮارد زﻳﺮ ﺟﺰء وﻳﮋﮔﻰﻫﺎى اﻳﺪهآل ﻳﻚ ﭘﺮوﻧﺪه ﺳﻼﻣﺖ ﺷﺨﺼﻰ (PHR) ﻣﺤﺴﻮب ﻧﻤﻰﺷﻮد؟
+اﻟﻒ( ﻛﻨﺘﺮل ﻛﺎﻣﻞ ﺗﻮﺳﻂ ﭘﺰﺷﻚ
+
+-88
+
+ب( ﻗﺎﺑﻠﻴﺖ اﻧﺘﻘﺎل اﻃﻼﻋﺎت ﺑﻴﻦ ﺳﻴﺴﺘﻢﻫﺎى ﻣﺨﺘﻠﻒ ج( اﻣﻨﻴﺖ و ﺣﻔﻆ ﺣﺮﻳﻢ ﺧﺼﻮﺻﻰ
+د(  ﺛﺒﺖ ﺑﻠﻨﺪ ﻣﺪت اﻃﻼﻋﺎت ﺳﻼﻣﺖ
+
+اﺳﺘﻔﺎده از ﭘﻴﺎﻣﻚ ﺑﺮاى ﻛﺪاﻣﻴﻚ از ﻣﻮارد زﻳﺮ در ﻣﺪﻳﺮﻳﺖ ﺑﻴﻤﺎرىﻫﺎ ﻣﺆﺛﺮ ﺑﻮده اﺳﺖ؟
+اﻟﻒ( ﻛﺎﻫﺶ ﻫﺰﻳﻨﻪﻫﺎى ﺟﺮاﺣﻰ
+
+-89
+
+ب( ﺑﻬﺒﻮد ﭘﺎﻳﺒﻨﺪى ﺑﻪ ﻣﺼﺮف داروﻫﺎى HIV ج( اﻓﺰاﻳﺶ ﺳﺮﻋﺖ ﻋﻤﻞﻫﺎى ﺟﺮاﺣﻰ
+د(  ﻛﺎﻫﺶ زﻣﺎن اﻧﺘﻈﺎر در اورژاﻧﺲ
+
+
+
+
+ﻳﻜﻰ از ﻣﺰاﻳﺎى اﺳﺘﻔﺎده از ﻳﺎدﮔﻴﺮى ﻋﻤﻴﻖ در ﺗﺼﻮﻳﺮﺑﺮدارى ﭘﺰﺷﻜﻰ ﭼﻴﺴﺖ؟
+اﻟﻒ( اﺳﺘﺨﺮاج ﻗﻮاﻧﻴﻦ ﺑﺎﻟﻴﻨﻰ
+
+-90
+
+ب(  اراﺋﻪ اﺳﺘﺪﻻﻟﻰ ﺷﺒﻴﻪ اﻧﺴﺎن
+ج( ﻛﺎﻫﺶ ﻧﻴﺎز ﺑﻪ ﺗﺼﻮﻳﺮﺑﺮدارى ﻣﺠﺪد د(  ﺗﻮاﻧﺎﻳﻰ ﺗﺤﻠﻴﻞ ﺣﺠﻢ ﺑﺎﻻى داده
+-91  ﻛﺪاﻣﻴﻚ ﺟﺰء ﻛﻠﻴﺪى ﭘﺮدازش ﺗﺼﻮﻳﺮ اﺳﺖ؟
+
+د( ﻧﻤﺎﻳﺶ ﺗﺼﻮﻳﺮ
+
+ج( ﻗﻄﻌﻪﺑﻨﺪى ﺗﺼﻮﻳﺮ
+
+ب( ذﺧﻴﺮهﺳﺎزى ﺗﺼﻮﻳﺮ
+
+اﻟﻒ( ﺑﺎزﻳﺎﺑﻰ ﺗﺼﻮﻳﺮ
+
+ﻛﺪام ﭘﺮوﺗﻜﻞ ﺑﺮاى ﺗﻮﺻﻴﻒ وب ﺳﺮوﻳﺲﻫﺎ در SOAP اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+-92
+
+HTML (د
+
+REST (ج
+
+JSON (ب
+
+WSDL (اﻟﻒ
+
+-93  ﻛﺪاﻣﻴﻚ از روشﻫﺎى زﻳﺮ ﺑﺮاى ﻳﺎدﮔﻴﺮى ﺑﺪون ﻧﻈﺎرت در ﻫﻮش ﻣﺼﻨﻮﻋﻰ اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+KNN (د
+
+K-Means (ج
+
+Decision tree (ب
+
+SVR (اﻟﻒ
+
+
+
+ﻧﻘﺶ ﻣﻮﺗﻮر اﺳﺘﻨﺘﺎج در ﻳﻚ ﺳﻴﺴﺘﻢ ﺧﺒﺮه ﻣﺒﺘﻨﻰ ﺑﺮ ﻗﺎﻧﻮن ﭼﻴﺴﺖ؟
+اﻟﻒ( ذﺧﻴﺮه ﺳﺎﺧﺘﺎرﻣﻨﺪ ﺳﻮاﺑﻖ ﭘﺰﺷﻜﻰ
+
+-94
+
+ب( ﺗﻄﺒﻴﻖ داده ﺑﺎ ﻗﻮاﻧﻴﻦ ﺑﺮاى ﻧﺘﻴﺠﻪﮔﻴﺮى ج(  ﺗﺮﺟﻤﻪ دادهﻫﺎى ﺳﻼﻣﺖ ﺑﻪ ﻫﺴﺘﻰﺷﻨﺎﺳﻰ
+د(  ﺑﻬﻴﻨﻪﺳﺎزى ﭘﺮسوﺟﻮﻫﺎ روى دادهﻫﺎى ﻣﻬﻢ
+
+
+اﮔﺮ ﻳﻚ ﭘﺰﺷﻚ در ﻫﺮ ﺳﺎﻋﺖ ﺑﺘﻮاﻧﺪ ﺑﻪ 10 ﺑﻴﻤﺎر ﺧﺪﻣﺎت اراﺋﻪ دﻫﺪ و ﺑـﻪﻃـﻮر ﻣﺘﻮﺳـﻂ در ﻫـﺮ ﺳـﺎﻋﺖ 7 ﺑﻴﻤـﺎر وارد ﺳﻴﺴﺘﻢ ﺷﻮﻧﺪ، ﺷﺪت ﺗﺮاﻓﻴﻚ ﺻﻒ ﭼﻘﺪر ﺧﻮاﻫﺪ ﺑﻮد؟
+
+-95
+
+1/0 (د
+
+0/7 (ج
+
+0/3 (ب
+
+اﻟﻒ( 0/33
+
+
+
+ﻣﻨﻈﻮر از ﻃﺮاﺣﻰ ﻣﺒﺘﻨﻰ ﺑﺮ ﻛﺎرﺑﺮ ﻛﺪام اﺳﺖ؟
+اﻟﻒ( اﻃﻤﻴﻨﺎن از ﻋﺪم ﺗﻐﻴﻴﺮ ﻓﺮآﻳﻨﺪﻫﺎى ﺟﺎرى ﺑﺎﻟﻴﻨﻰ
+
+-96
+
+ب( ﻛﺎﻫﺶ ﺗﻌﺪاد وﻇﺎﻳﻒ ﻛﺎرى ﻛﺎرﺑﺮان ﺳﻴﺴﺘﻢ ج(  ﻛﺎﻫﺶ ﭘﻴﭽﻴﺪﮔﻰﻫﺎى ﻛﺎرى ﻛﺎرﺑﺮان ﺳﻴﺴﺘﻢ
+د(  اﻃﻤﻴﻨﺎن از ﺗﻄﺎﺑﻖ ﻧﺮماﻓﺰار ﺑﺎ ﻧﻴﺎز واﻗﻌﻰ ﻛﺎرﺑﺮان
+
+
+راﻳﺎﻧﺶ اﺑﺮى در ﺣﻮزه ﺳﻼﻣﺖ ﭼﻪ اﻣﻜﺎﻧﻰ را ﻓﺮاﻫﻢ ﻣﻰﻛﻨﺪ؟
+اﻟﻒ( ذﺧﻴﺮهﺳﺎزى دادهﻫﺎى ﺣﺠﻴﻢ ﺑﻴﻤﺎران
+
+-97
+
+ب(  دﺳﺘﺮﺳﻰ و ﭘﺮدازش اﻃﻼﻋﺎت ﺳﻼﻣﺖ از راه دور ج( ﻣﺪﻳﺮﻳﺖ ﻫﺰﻳﻨﻪﻫﺎى ﺳﺨﺖاﻓﺰار ﺳﺎﻣﺎﻧﻪﻫﺎى ﺳﻼﻣﺖ د(  ﻣﺪﻳﺮﻳﺖ دﺳﺘﺮﺳﻰ ﺑﻪ دادهﻫﺎى ﺳﻼﻣﺖ
+
+ﻛﺪام ﮔﺰﻳﻨﻪ ﺑﻬﺘﺮﻳﻦ ﺗﻮﺻﻴﻒ از ﻣﻔﻬﻮم »ﻛﻼنداده« data) (big اﺳﺖ؟
+اﻟﻒ( دادهﻫﺎى ﺣﺠﻴﻢ ﻛﻪ ﺑﻪراﺣﺘﻰ ﺗﺤﻠﻴﻞ ﻣﻰﺷﻮﻧﺪ·
+
+-98
+
+ب(  دادهﻫﺎى ﭘﻴﭽﻴﺪه ﻛﻪ ﺑﻪ ﺗﺤﻠﻴﻞ ﭘﻴﺸﺮﻓﺘﻪ ﻧﻴﺎز دارﻧﺪ·
+ج(  دادهﻫﺎى ﺣﺠﻴﻢ ﻛﻪ ﺑﺎ ﻣﺮاﻗﺒﺖ ﺑﻴﻤﺎر ﺑﺴﺘﺮى در ﺑﻴﻤﺎرﺳﺘﺎن ﻣﺮﺗﺒﻂ ﻫﺴﺘﻨﺪ· د(  ﻣﺠﻤﻮﻋﻪ دادهﻫﺎى ﺣﺠﻴﻢ ﻛﻪ ﺑﻪ زﻣﺎن ﺑﺴﻴﺎر زﻳﺎدى ﺑﺮاى ﭘﺮدازش ﻧﻴﺎز دارﻧﺪ·
+
+
+
+
+ﭘﺎﻳﮕﺎه داﻧﺶ در ﻳﻚ ﺳﻴﺴﺘﻢ ﺧﺒﺮه ﺷﺎﻣﻞ ﭼﻪ ﻣﻮاردى اﺳﺖ؟
+اﻟﻒ( ﺣﻘﺎﻳﻖ و ﻗﻮاﻧﻴﻦ
+
+-99
+
+ب( ﺑﺮﻧﺎﻣﻪﻫﺎ و اﻟﮕﻮرﻳﺘﻢﻫﺎ ج(  ﮔﺰارشﻫﺎى ﺳﻴﺴﺘﻤﻰ
+د(  ﻓﻴﻠﺘﺮﻫﺎى ﭘﺮدازش ﻣﺘﻦ و ﺗﺼﻮﻳﺮ
+
+
+ﻛﺪام روش ﺑﺎزﻧﻤﺎﻳﻰداﻧﺶ ﺑﺮاى ﻛﺪﮔﺬارى رواﺑﻂ ﺳﻠﺴﻠﻪ ﻣﺮاﺗﺒﻰ ﻣﺎﻧﻨﺪ » ﻧﻔﺮوﻟﻮژىﻳﻜﻰ از رﺷﺘﻪﻫﺎىﭘﺰﺷﻜﻰ اﺳﺖ« ﻣﻨﺎﺳﺐﺗﺮ اﺳﺖ؟
+اﻟﻒ( درﺧﺖ ﺗﺼﻤﻴﻢ
+
+-100
+
+ب( ﺷﺒﻜﻪﻫﺎى ﻣﻌﻨﺎﻳﻰ ج(  ﺷﺒﻜﻪﻫﺎى ﻋﺼﺒﻰ
+د(  ﭘﺎﻳﮕﺎهﻫﺎى داده راﺑﻄﻪاى
+
+ﻛﻠﻴﺎت و اﺻﻄﻼﺣﺎت ﭘﺰﺷﻜﻰ
+-101  ﻛﺪاﻣﻴﻚ اﺻﻄﻼﺣﻰ اﺳﺖ ﻛﻪ ﺑﻪ ﺑﺰرگ ﺷﺪن ﻏﻴﺮﻃﺒﻴﻌﻰ ﺳﻴﻨﻪ در ﻣﺮدان اﺷﺎره دارد؟
+
+د( ﻟﻴﭙﻮﻣﺎ
+
+ج( ﻣﺎﻣﻮﭘﻼﺳﺘﻰ
+
+ب( ﻣﺎﺳﺘﻴﺖ
+
+اﻟﻒ( ژﻧﻴﻜﻮﻣﺎﺳﺘﻰ
+
+-102  اﺻﻄﻼﺣﻰ ﻛﻪ ﺑﻪ ﺗﺮﺷﺢ ﻳﺎ ﺗﺨﻠﻴﻪ از ﺑﻴﻨﻰ اﺷﺎره دارد ﭼﻴﺴﺖ؟
+
+د( رﻳﻨﻮره
+
+ج( اﭘﻴﺴﺘﺎﻛﺴﻴﺲ
+
+ب( اوﺗﻮرﺳه
+
+اﻟﻒ( ﺳﻴﻨﻮزﻳﺖ
+
+-103  رﻳﺸﻪ واژه »ﺳﻔﺎل/ﺳﻔﺎﻟﻮ« ﺑﻪ ﻛﺪام ﻗﺴﻤﺖ ﺑﺪن اﺷﺎره دارد؟
+
+د( ﺷﻜﻢ
+
+ج( ﮔﺮدن
+
+ب( ﺳﺮ
+
+اﻟﻒ( ﻗﻔﺴﻪ ﺳﻴﻨﻪ
+
+-104  ﭘﻴﺸﻮﻧﺪ ﻣﺮﺑﻮط ﺑﻪ ﻧﺎﺧﻦ ﻛﺪام اﺳﺖ؟
+
+د( اوﻧﻴﻚ-
+
+ج( درم-
+
+ب( ﻛﻴﻞ-
+
+اﻟﻒ( اﻓﺘﺎﻟﻢ-
+
+
+
+
+د( ﻧﻮرﻳﺖ
+
+
+ج( ﻣﻴﻮزﻳﺖ
+
+
+ب( ﻧﻔﺮﻳﺖ
+
+اﻟﺘﻬﺎب ﭘﻮﺳﺖ ﭼﻪ ﻧﺎم دارد؟
+اﻟﻒ( درﻣﺎﺗﻴﺖ
+
+-105
+
+-106  ﭘﺴﻮﻧﺪ -»ﻛﺘﻮﻣﻰ« ﺑﻪ ﭼﻪ ﻣﻌﻨﻰ اﺳﺖ؟
+
+د( اﻳﺠﺎد ﺳﻮراخ
+
+ج( ﺗﺮﻣﻴﻢ ﺑﺎﻓﺖ
+
+ب( ﺑﺮداﺷﺘﻦ ﺑﺎ ﺟﺮاﺣﻰ
+
+اﻟﻒ( ﺑﺮش دادن
+
+-107  ﻛﺪاﻣﻴﻚ از ﺷﺮاﻳﻂ زﻳﺮ ﺑﻪ اﻧﺤﻨﺎى ﺟﺎﻧﺒﻰ ﺳﺘﻮن ﻓﻘﺮات اﺷﺎره دارد؟
+
+د( اﺳﺘﺌﻮﭘﺮوز
+
+ج( ﻟﻮردوز
+
+ب( اﺳﻜﻮﻟﻴﻮز
+
+اﻟﻒ( ﻛﻴﻔﻮز
+
+-108  رﻳﺸﻪ واژهاى ﻛﻪ ﺑﻪ »ﺳﺪﻳﻢ« اﺷﺎره دارد ﻛﺪام اﺳﺖ؟
+
+د( ﻧﺎﺗﺮو-
+
+ج( ﻣﻼﻧﻮ-
+
+ب( ﻛﺎﻟﻮ-
+
+اﻟﻒ( آﻟﺒﻮﻣﻴﻨﻮ-
+
+-109  اﺻﻄﻼح ﭘﺰﺷﻜﻰ رﻳﺰش ﻣﻮ ﭼﻴﺴﺖ؟
+
+د( ﺗﺮﻳﻜﻮﭘﺎﺗﻰ
+
+ج( درﻣﺎﺗﻴﺖ
+
+ب( اوﻧﻴﻜﻮﻣﺎﻳﻜﻮزﻳﺲ
+
+اﻟﻒ( آﻟﻮﭘﺸﻴﺎ
+
+
+
+
+د( ﻟﻨﻒ
+
+
+ج( اﻳﻤﻮﻧﻮﮔﻠﻮﺑﻮﻟﻴﻦ
+
+
+ب( ﻫﻤﻮﮔﻠﻮﺑﻴﻦ
+
+ﻧﺎم دﻳﮕﺮ آﻧﺘﻰﺑﺎدى ﭼﻴﺴﺖ؟
+اﻟﻒ( ﮔﻠﻴﻜﻮژن
+
+-110
+
+
+
+
+ﺑﻴﻤﺎرىﻫﺎى ﻣﺮﺗﺒﻂ ﺑﺎ COPD ﻛﺪاﻣﻨﺪ؟
+اﻟﻒ( ﺑﺮوﻧﺸﻴﺖ ﻣﺰﻣﻦ و آﻣﻔﻴﺰم
+
+-111
+
+ب( ﻳﺒﻮﺳﺖ و آﻣﺒﻮﻟﻰ ج( آﻣﺒﻮﻟﻰ و آﻣﻔﻴﺰم
+د(  ﺑﺮوﻧﺸﻴﺖ ﻣﺰﻣﻦ و ﻳﺒﻮﺳﺖ
+
+واﻛﺴﻦ MMR از ﻛﺪام ﺑﻴﻤﺎرىﻫﺎ ﭘﻴﺸﮕﻴﺮى ﻣﻰﻛﻨﺪ؟
+اﻟﻒ( ﺳﺮﺧﻚ، ﻣﻨﻨﮋﻳﺖ C و روﺗﺎوﻳﺮوس
+
+-112
+
+ب( ﺳﺮﺧﻚ، ﻣﻨﻨﮋﻳﺖ C و ﺳﺮﺧﺠﻪ ج( ﺳﺮﺧﻚ، اورﻳﻮن و روﺗﺎوﻳﺮوس د(  ﺳﺮﺧﻚ، اورﻳﻮن و ﺳﺮﺧﺠﻪ
+-113  ﻛﺪاﻣﻴﻚ از روشﻫﺎى زﻳﺮ ﺑﺮاى ﺑﺮرﺳﻰ داﺧﻞ ﻳﻚ ﻣﻔﺼﻞ اﺳﺘﻔﺎده ﻣﻰﺷﻮد؟
+
+د( آﻧﺪوﺳﻜﻮﭘﻰ
+
+ج( ﻻﭘﺎراﺳﻜﻮﭘﻰ
+
+ب( آرﺗﺮوﺳﻜﻮﭘﻰ
+
+اﻟﻒ( ﺑﺮوﻧﻜﻮﺳﻜﻮﭘﻰ
+
+
+
+ﺑﻴﻤﺎرى ﻛﻪ ﭘﺲ از ﺳﻜﺘﻪ ﻣﻐﺰى دﭼﺎر ﻫﻤﻰﭘﺎرزى ﺷﺪه اﺳﺖ، ﭼﻪ ﺷﺮاﻳﻄﻰ دارد؟
+اﻟﻒ( ﻓﻠﺞ ﻧﺴﺒﻰ ﻳﻚ ﻃﺮف ﺑﺪن
+
+-114
+
+ب( از دﺳﺖ دادن ﻛﺎﻣﻞ ﻋﻤﻠﻜﺮد ﻋﻀﻼﻧﻰ در دو ﭘﺎ ج( اﺣﺴﺎس ﻏﻴﺮﻋﺎدى در دو دﺳﺖ
+د(  ﺗﻮرم اﻧﺪامﻫﺎ ﺑﻪ دﻟﻴﻞ ﺗﺠﻤﻊ ﻣﺎﻳﻌﺎت
+-115  ﻓﺮدى ﻛﻪ ﻣﺒﺘﻼ ﺑﻪ ﻧﻔﺮوﻟﻴﺘﻴﺎزﻳﺲ )ﺳﻨﮓ ﻛﻠﻴﻪ( اﺳﺖ، ﻛﺪام روش درﻣﺎﻧﻰ را ﺗﺠﺮﺑﻪ ﻣﻰﻛﻨﺪ؟
+
+د( ﻟﻴﺘﻮﺗﺮﻳﭙﺴﻰ
+
+ج( ﮔﺎﺳﺘﺮوﺳﻜﻮﭘﻰ
+
+ب( ﻧﻔﺮﻛﺘﻮﻣﻰ
+
+اﻟﻒ( ﺑﺮوﻧﻜﻮﺳﻜﻮﭘﻰ
+
+-116  ﺑﻴﻤﺎرى ﻛﻪ دﭼﺎر ﻫﺎﻳﭙﺮﻛﺎﻟﻤﻰ اﺳﺖ، ﺳﻄﺢ ﻛﺪام ﻣﺎده در ﺧﻮﻧﺶ ﺑﺎﻻﺗﺮ از ﺣﺪ ﻧﺮﻣﺎل اﺳﺖ؟
+
+د( آﻫﻦ
+
+ج( ﺳﺪﻳﻢ
+
+ب( ﭘﺘﺎﺳﻴﻢ
+
+اﻟﻒ( ﻛﻠﺴﻴﻢ
+
+-117  ﻳﻚ ﺑﻴﻤﺎر دﭼﺎر آﻓﺎزى ﺷﺪه اﺳﺖ. اﻳﻦ ﻣﺸﻜﻞ ﺑﺮ ﻛﺪام ﻋﻤﻠﻜﺮد ﺗﺄﺛﻴﺮ ﻣﻰﮔﺬارد؟
+
+د( ﮔﻔﺘﺎر
+
+ج( ﺷﻨﻮاﻳﻰ
+
+ب( ﺑﻴﻨﺎﻳﻰ
+
+اﻟﻒ( ﺣﺮﻛﺖ
+
+
+
+ﺑﻴﻤﺎرى ﻛﻪ از ﻧﺎرﺳﺎﻳﻰ ﻛﻠﻴﻪ رﻧﺞ ﻣﻰﺑﺮد، اﺣﺘﻤﺎﻻر دﭼﺎر ﻛﺪام ﺗﻐﻴﻴﺮات آزﻣﺎﻳﺸﮕﺎﻫﻰ ﺧﻮاﻫﺪ ﺷﺪ؟
+اﻟﻒ( اﻓﺰاﻳﺶ ﺳﻄﺢ ﻛﺮاﺗﻴﻨﻴﻦ و BUN
+
+-118
+
+ب( ﻛﺎﻫﺶ ﺳﻄﺢ ﭘﺘﺎﺳﻴﻢ ﺧﻮن ج(  اﻓﺰاﻳﺶ ﺗﻌﺪاد ﮔﻠﺒﻮلﻫﺎى ﻗﺮﻣﺰ
+د(  ﻛﺎﻫﺶ ﺳﻄﺢ آﻧﺰﻳﻢﻫﺎى ﻛﺒﺪى
+
+د( آﻧﺘﻰﻫﻴﺴﺘﺎﻣﻴﻦﻫﺎﺑﻴﻤﺎرى ﻛﻪ ﻣﺒﺘﻼ ﺑﻪ ﺑﺮادىﻛﺎردﻳﺎ اﺳﺖ، اﺣﺘﻤﺎﻻر ﺑﻪ ﻛﺪام دﺳﺘﻪ داروﻳﻰ ﻧﻴﺎز دارد؟
+اﻟﻒ( ﺑﻼﻛﺮﻫﺎى ﺑﺘﺎ      ب( دﻳﻮرﺗﻴﻚﻫﺎ        ج( ﻣﺤﺮکﻫﺎى ﻗﻠﺒﻰ-119
+د( ﺷﻨﻴﺪنﺑﻴﻤﺎرى ﻛﻪ ﻣﺒﺘﻼ ﺑﻪ دﻳﺴﻔﺎژى اﺳﺖ، در ﻛﺪام ﻋﻤﻠﻜﺮد دﭼﺎر ﻣﺸﻜﻞ ﺷﺪه اﺳﺖ؟
+اﻟﻒ( ﺑﻠﻌﻴﺪن         ب( ﺗﻨﻔﺲ          ج( ﺻﺤﺒﺖ ﻛﺮدن-120
+
+زﺑﺎن ﻋﻤﻮﻣﻰ زﺑﺎن ﻋﻤﻮﻣﻰ
+■ Part one: Vocabulary
+Directions: Complete the following sentences by choosing the best answer.
+
+121 ـ smoﻸing can	ﻛespiﻛatoﻛy conditions such as asthma oﻛ bﻛonchitis.
+a) dismiss	b)  inhibit	c)  impede	d)  exacerbate
+
+122 ـ Blood sugaﻛ levels can	wildly in patients with uncontﻛolled diabetes.
+a) diminish	b)  fluctuate	c)  stabilize	d)  pierce
+
+123 ـ ﺪ speech	is often developed afteﻛ the patient expeﻛiences a minoﻛ stﻛoﻸe.
+a) progress	b)  fluency	c)  impairment	d)  amendment
+
+124 ـ The	natuﻛe of hypertension makes it hard to detect without regular check-ups.
+a) apparent	b)  vivid	c)  explicit	d)  insidious
+
+125 ـ Regulaﻛ exeﻛcise and a balanced diet can help	the ﻛisﻸ of heaﻛt disease.
+a) mitigate	b)  elevate	c)  surge	d)  provoke
+
+126 ـ The overuse of the ointment prescribed by the doctor is dangerous for your skin, and it should be used ...................
+a) generously	b)  sparingly	c)  abundantly	d)  lavishly
+
+127 ـ Before starting the clinical tﻛial, the pﻛincipal investigatoﻛ must foﻛmally ................... responsibility for all aspects of patient safety and data integrity.
+a) undertake	b)  undermine	c)  underlie	d)  undergo
+
+128 ـ To provide better vaccination coverage, public health centeﻛs must actively ................... volunteers to assist with community outreach programs.
+a) revoke	b)  resist	c)  recruit	d)  resign
+
+129 ـ Patients who expeﻛience a  ................... ﻛise in blood pﻛessuﻛe afteﻛ suﻛgeﻛy usually recover without the need for long-term medication.
+a) permanent	b)  transient	c)  consistent	d)  durable
+
+130 ـ Rigoﻛous  ...................  standaﻛds  in  public  facilities  aﻛe  vital  foﻛ  ﻛeducing  pathogen transmission.
+a) hygiene	b)  aesthetics	c)  speculation	d)  exhibition
+
+
+131 ـ Impﻛoving	thﻛough fitness tﻛaining undeﻛ the supeﻛvision of a peﻛsonal tﻛaineﻛ
+improves stamina in athletes.
+a) clarity	b)  vitality	c)  initiation	d)  collaboration
+
+132 ـ Reducing muscle ................... caused by work pressure and repetitive tasks prevent joint injuries.
+a) frustration	b)  depression	c)  strain	d)  integrity
+
+133 ـ The  latest  ﻛeseaﻛch  findings  may  ...................  seveﻛal  environmental  factors  in  the development of cardiovascular diseases, suggesting that soil pollution plays a significant role.
+a) exclude	b)  dismiss	c)  ignore	d)  implicate
+
+134 ـ The Nobel Pﻛize Committee appﻛeciated heﻛ inspiﻛing	immunotheﻛapy.
+a) contribution to	b)  opposition to	c)  negligence of	d)  suspicion of
+
+135 ـ ﺪfteﻛ ﻛeviewing the patient,s symptoms, the doctoﻛ wﻛote a detailed	specifying
+the exact dosage and frequency of the drugs to be taken.
+a) permission	b)  procedure	c)  prescription	d)  preparation
+
+136 ـ Since he needed to focus on his full-time ﻛeseaﻛch pﻛoﻟect, he ................... his ﻛoutine healthcare responsibilities.
+a) stipulated	b)  invaded	c)  postulated	d)  evaded
+
+137 ـ The hospital manager detected the ................... of patients, ﻛecoﻛds and immediately fiﻛed the person in charge.
+a) fabrication	b)  indexation	c)  tabulation	d)  registration
+
+138 ـ One third of children and adolescents are overweight or obese, yet food and beverage companies continue to ................... them into consuming pﻛoducts causing obesity cﻛisis.
+a) explore	b)  prohibit	c)  entice	d)  suppress
+
+
+139 ـ She often loses heﻛ tempeﻛ even oveﻛ ................... matteﻛsآ this might be due to emotional tﻛauma she expeﻛienced due to heﻛ husband,s death.
+a) terminal	b)  curable	c)  ethical	d)  trivial
+
+140 ـ Whether waves produced and received by mobile phones are dangerous to health still remains a/an	issueآ some believe in the dangeﻛ, but otheﻛs see no haﻛm.
+a) conventional	b)  controversial	c)  reputable	d)  explicable
+
+
+■ Part two: Reading Comprehension
+Directions: Read the following passages carefully. Each passage is followed by some questions. Complete each question with the most suitable choice (a, b, c, or d). Base your answers on the information given in the passage only.
+Passage 1
+Immunization efforts are under growing threat as misinformation, population growth, humanitarian crises and funding cuts jeopardize progress and leave millions of children, adolescents and adults at risk, warn WHO, UNICEF, and Gavi. Outbreaks of vaccine-preventable diseases such as measles, meningitis and yellow fever are rising globally, and diseases like diphtheria, which have long been held at bay or virtually disappeared in many countries, are at risk of re-emerging. In response, the agencies are calling for urgent and sustained political attention and investment to strengthen immunization programs and protect significant progress achieved in reducing child mortality over the past 50 years. Measles is making an especially dangerous comeback. The increasing number of cases since 2021 result from the reductions in immunization coverage that occurred since the COVID-19 pandemic in many communities. Measles cases reached an estimated 10.3 million in 2023, a 20% increase compared to 2022. Meningitis cases in Africa also rose sharply in 2024, and the upward trend has continued into 2025. In the first three months of this year alone, more than 5500 suspected cases and nearly 300 deaths were reported in 22 countries. This follows approximately 26000 cases and almost 1400 deaths across 24 countries last year. As part of integrated primary health-care systems, vaccination can protect against diseases and connect families to other essential care, such as antenatal care, nutrition or malaria screening. Immunization is a ،best buy, in health with a return on investment of ؛54 for every dollar invested and provides a foundation for future prosperity and health security. UNICEF, WHO, and Gavi urgently call for parents, the public, and politicians to strengthen support for immunization.
+141 ـ What is the primary concern expressed by WHO, UNICEF, and Gavi during World Immunization Week?
+a) Increased public interest in vaccine-preventable diseases
+b) The need to develop new vaccines for emerging diseases
+c) The rising threat to immunization progress due to various global challenges
+d) A shortage of vaccine investment and policy attention in developing countries
+142 ـ According to the passage, which disease has shown a particularly dangerous return since 2021?
+a) Measles
+b) Meningitis
+c) Diphtheria
+d) Yellow fever
+143 ـ The economic aﻛgument in favoﻛ of investing in immunization maintains that it ....................
+a) reduces the need for international aid
+b) offers a significant return on investment
+c) triples the investment within two years
+d) helps lower educational costs globally
+144 ـ It can be inferred about the impact of the COVID-19 pandemic on immunization coverage that
+....................
+a) it had no noticeable effect on vaccination rates
+b) it led to improvements in immunization tracking methods
+c) it eliminated the need for traditional vaccination programs
+d) it caused cuts in immunization coverage, increasing disease outbreaks
+145 ـ In the sentence "This follows approximately 26000 cases and almost 1400 deaths across 24 countﻛies last yeaﻛ," "This" ﻛefeﻛs to ....................
+a) The spread of yellow fever in 2024
+b) The rise in meningitis cases in 2025
+c) The increase in measles cases since 2021
+d) The number of humanitarian crises globally
+
+
+Passage 2.
+Caring for the elderly presents several important challenges that affect families, healthcare systems, and society as a whole. Many older adults suffer from chronic health conditions such as arthritis, diabetes, high blood pressure, and dementia, all of which require regular monitoring, medication, and personal care. These conditions often limit mobility and independence, making daily tasks like bathing, cooking, or even walking difficult. Unfortunately, there is often a shortage of trained caregivers, and many family members are unprepared to manage these responsibilities. Providing care without proper training can lead to mistakes, emotional stress, and burnout. In addition to physical health, emotional and social needs must also be addressed. Elderly individuals frequently face loneliness and depression, especially if they live alone, have lost friends or a spouse, or feel disconnected from society. These feelings can negatively affect both mental and physical health. Financial challenges also make elderly care more complicated. Long-term care can be expensive, and not all families have access to quality insurance or government support. Many must choose between affordability and the level of care needed. Another key issue is respecting the dignity and independence of elderly individuals. While they may need help, it is important to involve them in decisions about their lives and health whenever possible. Balancing safety with personal freedom requires sensitivity and respect. These various challenges highlight the growing need for stronger support systems, more caregiver training, better public awareness, and affordable services to meet the complex and changing needs of the aging population.
+146 ـ The authoﻛ highlights vaﻛious challenges of eldeﻛly caﻛe to ...................
+a) criticize current caregiving quality and practices
+b) discourage families from providing care at home
+c) advocate for systemic improvements and increased support
+d) argue for reducing government involvement in elderly care
+147 ـ It appeaﻛs that	has/have a domino effect on otheﻛ aspects of eldeﻛly caﻛe.
+a) economic obstacles
+b) chronic health conditions
+c) independence of elderly conditions
+d) the need for personal independence
+148 ـ ﺪccoﻛding to this passage, family caﻛegiveﻛs expeﻛience buﻛnout because they ...................
+a) are unwilling to care for aging relatives
+b) prefer institutional care over home care
+c) often lack the training needed for the caregiving role
+d) receive much assistance from professional caregivers
+149 ـ Involving elderly individuals in decision-maﻸing is emphasized in the text ...................
+a) to reduce the workload of caregivers
+b) to maintain their sense of respect and autonomy
+c) because they often disagree with medical advice
+d) so that they can avoid moving into care centers
+150 ـ As to the relationship between physical and emotional health in the elderly, it can be inferred that ...................
+a) physical health gets worsened before emotional health in aging individuals
+b) physical and emotional health are independent challenges in elderly care
+c) addressing physical health automatically resolves emotional issues
+d) emotional well-being can impact physical health in older adults
+
+
+Passage 3
+The ubiquity of microplastics, tiny plastic fragments less than 5 mm in diameter, has triggered global concern, particularly regarding their potential impact on human health. Detected in food, water, and even the air we breathe, these particles have been found in human tissues, from lungs to placentas. But what does this mean for our well-being? Some researchers warn that microplastics may act as carriers for harmful substances, such as heavy metals or persistent organic pollutants. Once inside the body, these chemicals could disrupt hormonal balance or contribute to chronic inflammation. Although alarming, much of the current evidence comes from animal studies or controlled lab settings, making it difficult to determine actual effects in human populations. On the other hand, skeptics argue that the level of exposure most people face is relatively low, and that media-driven fears often outpace scientific findings. They emphasize the absence of definitive proof linking microplastics to specific health disorders. Furthermore, they caution against drawing strong conclusions from early-stage research, suggesting that public anxiety might be premature. Nevertheless, both sides agree on the necessity of further investigation. With plastic production still increasing worldwide, understanding the long-term implications of microplastic exposure remains a pressing issue. Whether the threat proves to be serious or overstated, the debate highlights a broader question: how much environmental contamination are we willing to tolerate before taking action?
+151 ـ The most suitable title foﻛ this passage would be ﻒMicﻛoplastics and ...................
+a) the History of Synthetic Materials
+b) the Debate Over Their Health Risks
+c) the Global Demand for Their Restrictions
+d) the Discovery of a Medical Breakthrough
+152 ـ According to the passage, one reason some scientists hesitate to raise alarms about microplastics is the cuﻛﻛent lacﻸ of	in human-based research.
+a) public tendency
+b) political interest
+c) financial support
+d) definitive evidence
+153 ـ The phﻛase ﻒmedia-dﻛiven feaﻛs often outpace scientific findings” implies that the public,s conceﻛn about micﻛoplastics may be based moﻛe on	than on conclusive data.
+a) reliable evidence
+b) government research
+c) public health initiatives
+d) news exaggeration
+154 ـ The authoﻛ,s tone thﻛoughout the passage can best be descﻛibed as	showing
+concern without fully endorsing either side.
+a) biased and emotional
+b) dismissive and sarcastic
+c) precautious and balanced
+d) indifferent and detached
+155 ـ It can be infeﻛﻛed that the authoﻛ includes the final question in oﻛdeﻛ to emphasize society,s
+	towaﻛd enviﻛonmental contamination.
+a) dependence
+b) endurance
+c) ignorance
+d) rejection
+
+
+Passage 4
+Telehealth has emerged as a promising solution for increasing access to medical care in rural and underserved communities. Through video consultations, remote monitoring, and digital diagnostics, patients in isolated areas can now connect with specialists who would otherwise be hundreds of miles away. Supporters argue that telehealth reduces barriers, cuts travel costs, and saves critical time-especially in emergencies or for those with chronic conditions. Yet, while the technology has clear advantages, it,s not without limitations. Skeptics point to the digital divide: the lack of high-speed internet, limited digital literacy, and unreliable infrastructure in some communities make telehealth difficult, if not impossible, to implement equitably. Moreover, some healthcare providers warn that telehealth cannot fully replace in- person visits, particularly for physical exams or complex diagnoses. Still, others argue that dismissing telehealth because of these challenges overlooks its transformative potential. They advocate for investment in digital infrastructure, training, and policy reforms to bridge these gaps, seeing telehealth not as a replacement, but as a complement to traditional care. As digital solutions continue to evolve, it is likely that telehealth will become an increasingly integral part of healthcare delivery-especially for populations historically left behind by conventional systems. If addressed thoughtfully, today,s limitations may eventually give way to a more connected and equitable model of care.
+156 ـ According to the passage, one reason telehealth can be ineffective in some communities is the lacﻸ of ...................
+a) reliable internet access
+b) hospital infrastructure
+c) private digital plans
+d) healthcare facility
+157 ـ The phﻛase ﻒdigital divide” most pﻛobably ﻛefeﻛs to ................... .
+a) variety in employment opportunities
+b) personalized patient treatment plans
+c) difficulty in implementing health policies equitably
+d) insufficiency of online access and technological skills
+158 ـ It can be inferred that advocates of telehealth view it as ....................
+a) an unsafe shift in medical practice
+b) a complete substitute for traditional care
+c) a useful addition to in-person healthcare
+d) a short-term solution with little long-term value
+159 ـ The conclusion of the passage pﻛedicts that telehealth will liﻸely	in futuﻛe models
+of healthcare delivery.
+a) disappear as in-person care improves
+b) become more central and widespread
+c) be replaced by newer, non-digital systems
+d) remain critical for underserved communities
+160 ـ one of the conceﻛns ﻛaised by cﻛitics is that telehealth might ................... in diagnosing complex medical issues.
+a) fall short
+b) lower wait times
+c) continue to evolve
+d) overlook digital infrastructures
+ﻌو/ﺰ /!ﺛ:ﺮ
+
+
+ﺑﺴﻤﻪ ﺗﻌﺎﻟﻰ
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                دﺑﻴﺮﺧﺎﻧﻪ ﺷﻮراى آﻣﻮزش ﻋﻠﻮم ﭘﺎﻳﻪ ﭘﺰﺷﻜﻰ، ﺑﻬﺪاﺷﺖ و ﺗﺨﺼﺼﻰ و ﻣﺮﻛـﺰ ﺳـﻨﺠﺶ آﻣـﻮزش ﭘﺰﺷـﻜﻰ ﺑـﺎ ﻫـﺪف ارﺗﻘـﺎى ﻛﻴﻔﻴـﺖ ﺳﻮاﻻت و ﺑﻬﺒﻮد روﻧﺪ اﺟﺮاى آزﻣﻮنﻫﺎ، ﭘﺬﻳﺮاى درﺧﻮاﺳﺖﻫﺎى ﺑﺮرﺳﻰ ﺳﻮاﻻﺗﻰ اﺳﺖ ﻛﻪ در ﻗﺎﻟـﺐ ﻣﺸـﺨﺺ ﺷـﺪه زﻳـﺮ از ﻃﺮﻳـﻖ اﻳﻨﺘﺮﻧﺖ ارﺳﺎل ﻣﻰﮔﺮدد، ﺗﺎ ﻛﺎر رﺳﻴﺪﮔﻰ ﺑﺎ ﺳﺮﻋﺖ و دﻗﺖ ﺑﻴﺸﺘﺮى اﻧﺠﺎم ﮔﻴﺮد·
+ﺿﻤﻦ ﺗﺸﻜﺮ از ﻫﻤﻜﺎرى داوﻃﻠﺒﺎن ﻣﺤﺘﺮم ﻣﻮارد ذﻳﻞ را ﺑﻪ اﻃﻼع ﻣﻰرﺳﺎﻧﺪ:
+-1 ﻛﻠﻴﺪ اوﻟﻴﻪ ﺳﻮاﻻت ﺳﺎﻋﺖ 18 ﻋﺼﺮ روز ﻳﻜﺸﻨﺒﻪ ﻣﻮرخ 1404/03/11 از ﻃﺮﻳﻖ ﺳﺎﻳﺖ اﻳﻨﺘﺮﻧﺘﻰ www.sanjeshp.ir اﻋﻼم ﺧﻮاﻫﺪ ﺷﺪ·
+-2 اﻋﺘﺮاﺿﺎت ﺧـﻮد را از ﺳﺎﻋﺖ 18 ﻋﺼﺮ روز ﻳﻜﺸﻨﺒﻪ ﻣﻮرخ 1404/03/11 ﻟﻐﺎﻳﺖ ﺳـﺎﻋﺖ 8 ﺻـﺒﺢ روز ﺷـﻨﺒﻪ ﻣـﻮرخ 1404/03/17 ﺑﻪ آدرس اﻳﻨﺘﺮﻧﺘﻰ ﺑﺎﻻ ارﺳﺎل ﻧﻤﺎﻳﻴﺪ·
+-3 اﻋﺘﺮاﺿﺎﺗﻰ ﻛﻪ ﺑﻪ ﻫﺮ ﺷﻜﻞ ﺧﺎرج از ﻓﺮم اراﺋﻪ ﺷﺪه، ﺑﻌﺪ از زﻣﺎن ﺗﻌﻴﻴﻦ ﺷﺪه و ﻳﺎ ﺑﻪ ﺻﻮرت ﻏﻴﺮاﻳﻨﺘﺮﻧﺘﻰ )ﺣﻀـﻮرى( ارﺳﺎل ﺷﻮد، ﻣﻮرد رﺳﻴﺪﮔﻰ ﻗﺮار ﻧﺨﻮاﻫﺪ ﮔﺮﻓﺖ.
+-4 ﻛﻠﻴﺪ ﻧﻬﺎﻳﻰ ﺳﻮاﻻت روز ﺷﻨﺒﻪ ﻣﻮرخ 1404/03/31 از ﻃﺮﻳﻖ ﺳﺎﻳﺖ اﻳﻨﺘﺮﻧﺘﻰ www.sanjeshp.ir اﻋﻼم ﺧﻮاﻫﺪ ﺷﺪ·
+
+ﺗﺬﻛﺮ ﻣﻬﻢ:
+* ﻓﻘﻂ اﻋﺘﺮاﺿﺎت ارﺳﺎﻟﻰ در ﻓﺮﺻﺖ زﻣﺎﻧﻰ ﺗﻌﻴﻴﻦ ﺷﺪه، ﻣﻮرد ﺑﺮرﺳﻰ ﻗﺮار ﮔﺮﻓﺘﻪ و ﭘﺲ از ﺗﺎرﻳﺦ ﻣﺬﻛﻮر ﺑﻪ ﻫﻴﭻ ﻋﻨﻮان ﺗﺮﺗﻴـﺐ اﺛﺮ داده ﻧﺨﻮاﻫﺪ ﺷﺪ·
+* از ﺗﻜﺮار اﻋﺘﺮاﺿﺎت ﺧﻮد ﺑﻪ ﻳﻚ ﺳﻮال ﭘﺮﻫﻴﺰ ﻧﻤﺎﻳﻴﺪ. ﺗﻌﺪاد اﻋﺘﺮاض ارﺳﺎﻟﻰ ﺑﺮاى ﻳﻚ ﺳﻮال، ﻣﻼک ﺑﺮرﺳﻰ ﻧﻤﻰﺑﺎﺷـﺪ و ﺑﻪ ﻛﻠﻴﻪ اﻋﺘﺮاﺿﺎت ارﺳﺎﻟﻰ اﻋﻢ از ﻳﻚ ﺑﺮگ و ﻳﺎ ﺑﻴﺸﺘﺮ رﺳﻴﺪﮔﻰ ﺧﻮاﻫﺪ ﺷﺪ·
+
+
+ﻣﺮﻛﺰ ﺳﻨﺠﺶ آﻣﻮزش ﭘﺰﺷﻜﻰدﺑﻴﺮﺧﺎﻧﻪ ﺷﻮراى آﻣﻮزش ﻋﻠﻮم ﭘﺎﻳﻪ ﭘﺰﺷﻜﻰ،
+ﺑﻬﺪاﺷﺖ و ﺗﺨﺼﺼﻰ
+
+ﻛﺪ ﻣﻠﻰ:ﻧﺎم ﺧﺎﻧﻮادﮔﻰ:ﻧﺎم:
+
+ﻧﻮع دﻓﺘﺮﭼﻪ:ﺷﻤﺎره ﺳﺆال:ﻧﺎم درس:ﻧﺎم رﺷﺘﻪ:
+ﺳﻄﺮﭘﺎراﮔﺮافﺻﻔﺤﻪﺳﺎل اﻧﺘﺸﺎرﻧﺎم ﻣﻨﺒﻊ ﻣﻌﺘﺒﺮﺳﻮال ﻣﻮرد ﺑﺮرﺳﻰ:
+ف ﺑﻴﺶ از ﻳﻚ ﺟﻮاب ﺻﺤﻴﺢ دارد· )ﺑﺎ ذﻛﺮ ﺟﻮابﻫﺎى ﺻﺤﻴﺢ( ف ﺟﻮاب ﺻﺤﻴﺢ ﻧﺪارد·
+ف ﻣﺘﻦ ﺳﻮال ﺻﺤﻴﺢ ﻧﻴﺴﺖ·
+
+
+
+
+

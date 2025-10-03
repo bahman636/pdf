@@ -1,0 +1,733 @@
+﻿توجه: استفاده از ماشین حساب مجاز نمیباشد.
+داوطلب عزیز
+لطفاً قبل از شروع پاسخگویی
+دفترچه سوالات را از نظر تعداد صفحات به دقت مورد بررسی قرار داده و در صورت
+وجود هر گونه اشکال به مسئولین جلسه اطلاع دهید.
+سوالات آزمون ورودی دکتری تخصصی (Ph.D)
+سال تحصیلی ۱۴۰۴-۱۴۰۳
+رشته انفورماتیک پزشکی
+تعداد سوالات
+زمان پاسخگویی ۱۵۰ دقیقه
+به نام آنکه جان را فکرت آموخت
+وزارت بهداشت، درمان و آموزش پزشکی
+معاونت آموزشی
+دبیرخانه شورای آموزش علوم پایه پزشکی بهداشت و تخصصی مرکز سنجش آموزش پزشکی
+www.pdzeshki.com
+02188801465-02188802153- Id teleg & insta
+: @phdpshki
+انفورماتیک پزشکی
+پنج شنبه
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+انفورماتیک پزشکی
+معين
+) Validationبا کدام یک از موارد زیر در ارتباط است؟ ب"The software can be operated in a safe manner 
+Implementation (
+د) Operation
+در طراحی نرم افزار با استفاده از مدل آبشاری کدام یک از موارد زیر مورد توجه قرار می گیرد؟
+www.phooozeshku.com
+02188801465-02188802153- Id teleg &
+insta : @phdpezeshki
+Implementation (
+Verification and Validation
+کدام یک از موارد زیر جزء خصیصه های Agile Models در توسعه نرم افزار نمیباشد؟ (الف) روش چابک ارزش محور است به این معنی که مشتریان اولویتها را در ابتدای هر تکرار تعیین می کنند. ب) (Extreme Programming (XP از رایج ترین و قدیمی ترین پیاده سازیهای توسعه چابک است. ج شامل جلسات روزانه کوتاهی است که گاهی اوقات استندآب" یا "اسکرام " نامیده میشود. د این مدل برای پروژه های نرم افزاری با نیازمندیهای پایدار مناب
+هدف از مطالعات آزمون کاربر (Usability testing چیست؟ (الف) تعيين سهولت استفاده یریابی نرم افزار مسير ب اندازه گیری دقت بازیابی داده ها توسط کاربران
+(ج) ارزیابی هزینه اثر بخشی یک سیستم
+د ارزیابی میزان رضایت ذینفعان
+استفاده از سلامت از راه دور در کدام حوزه کاربرد بیشتری دارد؟
+(الف) معاینات فیزیکی در مراقبت اولیه
+ب مراجعه حضوری برای جراحات جزئی ج) مدیریت بیماریهای مزمن مانند دیابت
+مراقبت اورژانسی در تروماهای شدید
+پزشکی از راه دور چه تاثیری بر هزینههای مراقبت از بیماران دارد؟ الف) هزینههای مستقیم و غیر مستقیم مرتبط با سفر بیماران را کاهش میدهد. ب باعث افزایش هزینه های مستقیم و کاهش هزینه های غیر مستقیم سفر میشود. ج باعث کاهش هزینههای مستقیم و افزایش هزینههای غیر مستقیم سفر میشود د به طور کامل نیاز بیماران به ملاقات با پزشکان و هزینههای آن را حذف میکند
+آموزش کاربر در کدام مرحله از چرخه حیات توسعه نرم افزار (SDLC) انجام میشود؟
+(الف) Operations and Maintenance
+ب) Evaluation
+Usability test (~
+Laboratory function study (
+Design validation
+در کدام یک از روشهای ارزیابی زیر از کاربران استفاده نمیشود؟
+الف) Needs assessment
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+سلامت همراه موضوع Telepresence به کدام مفهوم اشاره دارد؟ الف) تعيين مکان حضور بیمار در یک موسسه ارائه دهنده خدمات سلامت ضور به موقع بیماران در جلسات مشاوره آنلاین
+ایجاد بحث دوطرفه بین بیمار و ارائه دهنده خدمت از راه دور
+تعاملات سریع چندوجهی مثل جراحی از راه دور
+ارزش پیش بینی مثبت یک تست تشخیصی نشان دهنده چیست؟
+الف) احتمال اینکه نتیجه تست منفی باشد.
+ب احتمال اینکه نتیجه تست، مثبت باشد.
+(ج) احتمال اینکه نتیجه تست مثبت به درستی بیماری را نشان دهد.
+د احتمال اینکه نتیجه تست منفی به درستی عدم وجود بیماری را نشان دهد.
+معین
+۱۱ کدام یک از موارد زیر به عنوان یک ابزار گرافیکی برای نمایش تصمیمات بالینی و روابط بین متغیرها استفاده :
+الف) Influencial Diagram
+شود؟
+Decision Tree (
+Probablity Table (
+Graph Distribution
+۱۲ کدام یک از چالشهای اصلی پردازش زبان طبیعی در متون پزشکی است؟
+(الف) ناتوانی در تشخیص معنای کلمات
+(ب) پیچیدگی زبان تخصصی پزشکی ج) عدم دسترسی به داده های ساختاری د دشواری پردازش تصاویر پزشکی
+۱۳ کدام رویکرد در پردازش زبان طبیعی به مدل سازی معنایی کلمات کمک می کند؟
+الف) درخت تصمیم
+ب مدلهای موضوعی
+ج) شبکه عصبی
+عمیق
+د تحلیل سلسله مراتبی
+www.phopexes
+۱۴ دلیل اصلی شکست سیستمهای تصمیم یار بالینی چیست؟
+الف) پیچیدگی قوانین
+(ب) عدم انطباق قوانین با شرایط واقعی
+ج) کمبود منابع داده
+د ناتوانی کاربران در درک قوانین
+۱۵ کدام یک از عوامل در ساخت سیستم تصمیم یار بالینی موثرتر است؟
+الف) زبان برنامه نویسی
+ب نوع وظیفه تصمیم گیری، داده و دانش موجود
+(ج) تعداد کاربران سیستم
+د سیاستهای دولت در حوزه سلامت
+02188801465-02188802153- Id teleg &
+insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+معين
+۱۶ کدام یک از روشهای زیر برای ایجاد سیستم تصمیم یار بالینی در شرایطی استفاده میشود که راهنمای مبتنی بر
+شواهد وجود ندارد؟
+(الف) الگوریتم های نرم افزاری پویا
+های مبتنی بر کدهای سخت افزاری
+ج) روشهای قاعده محور
+د روشهای مبتنی بر یادگیری ماشین ۱۷ نسبت پردازش تصویر و پردازش سیگنال چگونه است؟
+ب پردازش تصویر نوعی پردازش سیگنال است. (ج) پردازش سیگنال نوعی پردازش تصویر است.
+د هر یک قابل تبدیل به
+-۱۸ رادیو میکس برای استخراج ویژگیهای کمی تصاویر رادیولوژی به کدام تکنیک متکی است؟
+(الف) شبکه عصبی مصنوعی
+(ج) رایانش نرم
+د) بینایی ماشین
+kicon
+www.phdpezeshiki
+۱۹ تفاوت سیستمهای CAD و CADx در
+(الف) تفاوتی ندارند و به جای یکدیگر استفاده میشوند.
+(ب) CADx مناطق مشکوک را تعیین و CAD تشخیص افتراقی ایجاد میکند
+ CADXمناطق مشکوک را تعیین وCAD 
+د این دو اصطلاح هیچ ارتباطی با یکدیگر ندارند.
+کند.
+-۲۰ یک تصویر ام آر آی در دسترس است برای کاهش نویزه تصویر از فیلتر ماسک) میانگین استفاده شده است.
+پس از اعمال فیلتر
+(الف) نویز ثابت میم ماند و لبه ها شفاف تر میشوند. ب نویز ثابت میماند و لبه ها غیر شفاف می شوند.
+ج) نویز کاهش مییابد و لبه ها شفاف تر میشوند. د نویز کاهش مییابد و لبه ها غیر شفاف می شوند.
+۲۱- احتمال پیش آزمون براساس شیوع بیماری قلبی در مردان دارای علایم بیماری قلبی و سابقه خانوادگی ۰/۹۵ برآورد شده است. با فرض مقدار TPR و FPR به ترتیب ۰/۶۵ و ۰/۳۰ براساس فرمول بیز برای آزمایش مثبت
+احتمال بیماری قلبی با وجود نتیجه مثبت ازمایش چه مقدار خواهد بود؟
+الف) 1
+ب ۰/۹۸
+۲۲ نمودار ROC چه اطلاعاتی را ارائه میدهد؟
+الف) رابطه بین ترخ مثبتهای کاذب و ترخ مثبتهای واقعی ب) نسبت داده های نادرست به داده های درست (ج) نسبت پیش بینیهای درست به پیش بینی های غلط دقت پیش بینی شده برای دادههای آموزش
+ج) ۰/۹۵
+@phdpezeshki
+02188801465-02188802153- Id teleg & insta
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۲۳ در مراحل اولیه تحلیل Confusion Matrix چه اطلاعاتی را نشان میدهد؟
+(الف) میانگین خطاهای رخ داده در مدل
+ب) تعداد طبقه بندیهای صحیح و نادرست برای هر دسته
+۲۴ کدام یک از موارد زیر از جمله قالبهای اصلی Clinical Decision Support نمی باشد؟
+معین
+د تسهیل حل مساله
+-۲۵ در روش ADABOOST، مرحله boosting به چه صورت است؟
+(ب) یادگیری بر اساس پاسخهای مربوط به داده های قبلی
+ج یادگیری بر اساس فرضیه های نادرست قبلی
+د یادگیری بر اساس انتخاب تصادفی نمونه های جدید
+-۲۶ با فرض وجود دو مجموعه A و B کدامیک از موارد زیر در مورد اجتماع این دو مجموعه در محاسبات فازی صحیح است؟
+الف) (۲)-1 =(x)
+www.phdpezesiki.com
+H(x) Max, (x). (x)] (~ AUB=xxEA or xEB) (
+H:X→ [0,1] (
+-۲۷ تابع سودمندی در جستجو خصمانه نظریه بازیها
+(الف) به نتیجه بازی با حالات پایانی عدد اختصاص میدهد مثلا) به برد یک و به باخت منفی یک
+ب شروع رقابت بین طرفین را مشخص میکند
+(ج) حرکات مجازی بازی را مشخص میک؟
+نتیجه بازی را مشخص میکند.
+-۲۸ کدام گزینه درباره توابع کرنل در طبقه بند SVM صحیح نیست؟
+(الف) SVM با استفاده از توابع کرنل میتواند دادههای جداناپذیر خطی را طبقه بندی کند
+ب توابع کرنل از روی داده ها ساخته میشوند.
+(ج) پس از پایان مرحله ،آموزش پارامترهای توابع کرنل تغییر نمی کنند.
+د تابع کرنل باید حتما متقارن باشد.
+-۲۹ کدام یک از روشهای زیر universal approximators نیست؟
+(الف) Deep Learning
+SVM (- Decision tree (
+Artificial neural network
+02188801465-02188802153- Id teleg &
+insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+الف)
+رشته انفورماتیک پزشکی
+۳۰ کدام گزینه در پردازش ویژگیها صحیح میباشد؟ Feature selection ابعاد مجموعه داده کاهش مییابد اما بخشی از اطلاعات از دست می رود. Feature reduction ابعاد مجموعه داده کاهش مییابد اما اطلاعات حفظ میشود مجموعه ویژگیهایی انتخاب میشود که بیشترین اطلاعات را دارند.
+ج) در
+Feature extraction
+.میباشند feature selection از روشهای Feed forward وPCA 
+۱ چه تصاویری را نمی توان با image registration تحلیل کرد؟ (الف) تصاویر یک فرد در زمانهای مختلف
+معین
+www.phopezeshiki
+classification based on association rule mining rule-based classification ( classification based on association rule mining. Case base reasoning (> 02188801465-02188802153- Id teleg & insta : @phdpezeshki
+الف) 120<BP
+ب) 40 Age
+ج) 130<BP
+۳۴ در کدام گزینه روشهای یادگیری تنبل ( Lazy learner) ذکر شده است؟
+الف) KNN . Case base reasoning
+ب rule-based classification، KNN
+الف) دایره مثلث
+ب) دایره، دایره
+د) مثلث مثلث
+۳۳- مجموعه داده زیر را در نظر بگیرید که دارای دو ویژگی فشارخون و سن میباشد. داده ها در دو کلاس بیمار و سالم
+هستند. بیشترین بهره اطلاعاتی با انتخاب کدام گزینه به عنوان
+BP Age Disease
+d(x,y) = max x, y,
+d2 (x,y) = √(x, y)2
+۳۲- در مساله دسته بندی شکل زیر به روش (KNN (K1 با معیارهای فاصله d و de نتیجه دسته بندی نقطه [50] به
+ترتیب از چپ به راست کدام است؟
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۳۵- اگر یک مجموعه داده nd داشته باشیم کدام گزینه درباره نمونه گیری bootstrap صحیح است؟
+(الف) نمونه بدون جایگزینی
+ب) ( نمونه با جایگزینی ج p نمونه بدون جایگزینی نمونه با جایگزینی
+اصطلاح Interoperability در انفورماتیک پزشکی به چه معناست؟
+الف) توانایی سیستمها برای کار باهم و تبادل داده به صورت یکپارچه ب توسعه سخت افزارها و نرم افزارهای پزشکی
+(ج) استفاده از تکنولوژیهای جدید در تصویربرداری پزشکی
+د) طراحی نرم افزارهای تعاملی در علوم پزشکی
+معین
+۳۷- سه نوع درمان برای یک بیماری سخت وجود دارد، طول عمر بیمار بعد از هر درمان قطعیت ندارد توزیع احتمال برای ۳ نوع درمان بر اساس جدول زیر میباشد کدام یک از درمانها ارجحیت دارد؟
+درمان درمان درمان طول عمر بعد از درمان (سال)
+۰/۲۵
+٠/٠٥
+(الف) درمان A ارجحیت دارد. ب درمان B ارجحیت دارد.
+(ج) درمان C ارجحیت دارد.
+د تفاوت خاصی بین درمان A و C از لحاظ طول عمر بعد از درمان وجود ندارد.
+۳۸ آنتروپی (Entropy) چیست؟
+(الف) اندازه گیری دقت یک متغیر تصادفی ب) محاسبه میانگین نتایج ممکن احتمالی ج اندازه گیری عدم قطعیت یک متغیر تصادفی
+د) شمارش تعداد نتایج ممکن احتمالی
+www.phdpea
+۳۹- هدف اصلی استفاده از Personal Health Informatics چیست؟
+(الف) بهبود مدیریت داده های بیمارستانی
+ب بهبود مشارکت بیماران در فرآیند مراقبت ج کاهش هزینه های درمانی
+د) کاهش ذخیره سازی داده های بالینی
+-۴۰ چرا مدل naive Bayes به عنوان "naive" شناخته میشود؟
+(الف) به دلیل استفاده از دادههای اولیه
+ب به دلیل سادگی در طراحی مدل (ج) به دلیل سهولت در محاسبات آموزش د به دلیل فرض استقلال بین ویژگیها
+02188801465-02188802153- Id teleg &
+insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۴۱- کدام یک از موارد زیر جزء چالشهای اصلی مراقبتهای شخص محور است؟
+الف) دسترسی به داده های بیمارستانی
+فناوریهای پردازش داده
+حفظ حریم خصوصی و امنیت
+د) ارائه مراقبت پزشکی
+معین
+-۴۲- کدام یک از روشهای یادگیری عمیق تصاویر را پردازش میکنند تا ویژگیهایی مانند لبه ها شکلها و بافتها را شناسایی کنند؟
+الف) LSTM
+ب) VSM
+(ج) RNN
+د) CNN
+۴۳- کدام یک از گزینههای زیر از روشهای Global Processing در مراحل تحلیل تصویر نمیباشد؟
+الف) Histogram equalization
+CBIR (~-
+Convolution (z
+Filtering
+۴۴ در شبکه عصبی کانولوشنی (CNN) منظور از کانولوشن چیست؟
+(الف) مراحل تبدیل وزنهای هر لایه بر اساس لایه قبلی
+ب تبدیل داده های ورودی با حجم زیاد به دسته های محدودتر
+(ج) فرآیند بکارگیری کرنلها برای پیکسل
+محاسبه وزن های تصادفی در هر لایه
+۴۵- کدام یک از موارد زیر به ویژگی روشهای Ensemble model اشاره می ک
+(الف) در این روش مجموعه ای از خطاهاها در نظر قرار میگیرد
+ب در این روش مجموعه ای از فرضیات در نظر قرار میگیرد.
+(ج) در این روش مجموعه ای از قوانین در نظر قرار میگیرد
+کند؟
+د در این روش مجموعه ای از دادههای دسته بندی شده در نظر قرار می گیرد.
+www.phapezeshk
+-۴۶ در عامل جارو برقی فرض میکنیم پنج مکان یا اتاق موجود است بین اتاقها میتواند جابجا شود هر اتاق فقط دو
+حالت دارد تمیز کثیف تعداد کل حالتهای موجود برای فعالیت جارو برقی کدام است؟
+الف) ۶۴
+ب) ۱۲۸
+۴۷ در مورد جستجوی عرضی BFS کدام گزینه صحیح است؟
+(الف) کامل است - در صورت یکسان بودن هزینه همه اعمال بهینه نیست.
+ب کامل نیست - در صورت یکسان بودن هزینه همه اعمال بهینه نیست.
+ج کامل نیست - در صورت یکسان بودن هزینه همه اعمال بهینه است. د کامل است. در صورت یکسان بودن هزینه همه اعمال بهینه
+است.
+د) ۲۰
+۴۸ در تحلیل تصاویر پزشکی کدام یک از روشهای زیر برای افزایش دقت مدلهای یادگیری عمیق در شرایطی که
+داده های آموزشی محدود هستند. استفاده می شود؟
+(الف) انتقال یادگیری (Transfer Learning) (ب) یادگیری تقویتی (Reinforcement Leaming)
+ج) خوشه بندی (Clustering) د طبقه بندی (Classification)
+02188801465-02188802153- Id teleg &
+insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+معین
+۴۹ در سیستمهای تصمیم یار از نوع Consulting
+الف) رفتار کاربر با دستور العمل مقایسه و متناسب با آن راهنمایی ارائه میشود.
+(ب) محتوای مشاوره بر اساس دادههای اختصاصی بیمار ارائه میشود.
+ج بدون توجه به مطابقت یا عدم مطابقت عملکرد کاربر با دستور العمل راهنمایی با مشاوره ارائه می گردد.
+د با توجه به active یا passive بودن سیستم تصمیم یار محتوای مشاوره در زمان خاصی بر اساس اطلاعات بیمار ارائه می گردد.
+۵۰ کدام یک از مفاهیم زیر برای ارزیابی تعادل بین حساسیت و ویژگی در مدلهای تشخیص هوش مصنوعی در تحلیل
+تصاویر پزشکی استفاده میشود؟
+الف) منحنی ROC
+ب ماتریس در هم ریختگی (Confusion Matrix)
+ج) فاکتور Fl
+منحنی
+مدیریت و فناوری اطلاعات سلامت
+۵۱ پزشک خانواده برای گرفتن مشاوره از راه دور از متخصص قلب ECG بیمار خود را اسکن کرده و از طریق ایمیل
+آن را به متخصص ارسال میکند در این سناریو پزشک خانواده در حال استفاده از چه نوع سیستم اطلاعاتی است؟
+الف) communicating information system
+informal information system (~
+formal information system (
+www.phdpezeshk
+د) consulting information system
+۵۲ هدف ممیزی سیستم در انفورماتیک پزشکی چیست
+الف) ارزیابی مطابقت سیستم با الزامات مقرراتی
+ب ارزیابی عملکرد سیستم
+ج شناسایی مشکلات مربوط به کاربردپذیری سیمـ
+د) تعیین هزینه اثربخشی سیستم
+۵۳ کدام روش ارزیابی کاربرد پذیری مبتنی بر وظیفه میباشد؟
+الف) Heuristic Evaluation
+Cognitive Walkthrough (→
+Focus Groups (z
+A/B Testing (3
+۵۴ یک اشتباه رایج در مطالعات ارزیابی چیست؟
+(الف) عدم مشورت با ذینفعان کلیدی
+(ب) استفاده از روشهای اندازه گیری قدیمی
+ج) گردآوری بازخورد کاربران در مراحل اولیه
+اتکا صرف به داده های کمی
+insta
+: @phdpezeshki
+02188801465-02188802153- Id teleg &
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۵۵ کدام نوع مطالعه نیاز به وجود حداقل یک نمونه اولیه عملی functioning prototype) دارد؟
+معين
+الف) Need assessment
+Design validation (
+Structure validation (
+۵۶- یک عامل کلیدی که باید در انتخاب شرکت کنندگان برای مطالعات عینی (Objectivist study) در نظر گرفته شود چیست؟ الف) شرکت کنندگان باید لزوما داوطلب باشند.
+ب شرکت کنندگان باید به جمعیت هدف شباهت داشته باشند. (ج) شرکت کنندگان باید دارای تجربه قبلی با محصول باشند.
+د شرکت کنندگان باید از همان افراد مؤسسه باشند.
+۵۷ تمرکز مطالعات تاثیر مشکل (Problem impact) بر چیست؟ الف) تاثیرات کاربردپذیری منبع اطلاعاتی
+ب تاثیرات رفتارهای کاربران (ج) تأثیرات منبع بر کاربران و سازمانها د) تاثیرات فرایند طراحی و توسعه منبع
+-۵۸ باج افزارها در درجه اول چه نوع تهدیدی برای داده های سلامت ایجاد می کنند؟
+ezest
+الف) Lack of confidentiality
+Lack of security (~
+Lack of privacy (z
+Lack of usability (
+۵۹ در یک سازمان بهداشتی درمانی افراد غیر مجاز به سوابق محرمانه بیماران دسترسی یافته اند با توجه به نقص رخ
+داده هیئت مدیره از شما درخواست میکند که رویکردهایی را برای شناسایی دسترسیهای غیر مجاز به سیستم سازمان در اولویت قرار دهید کدام گزینه به طور مؤثری پاسخگوی این درخواست میباشد؟
+(الف) تقویت الگوریتمهای رمزگذاری برای جلوگیری از خواندن دادهها توسط افراد غیر مجاز
+ب) Multifactor authentication برای بهبود فرآیند تأیید هویت کاربران هنگام ورود به سیستم ج) تقویت ابزارهای تحلیل audit log برای شناسایی و علامت گذاری خودکار الگوهای دسترسی مشکوک
+د اجرای کنترلهای دسترسی سخت گیرانه برای کاهش تعداد کارکنانی توانند اطلاعات حساس را مشاهده کنند
+۶۰ کدام یک از گزینه های زیر بیانگر خطای سیستماتیک نیست؟ (الف) عدم بررسی کافی داده ها
+ب خطاهای تایپی ج) خطاهای برنامه نویسی
+د طراحی ضعیف واسط کاربری
+www.p
+۶۱- مکانیزمهای بررسی خطای انسانی در سیستمهای اطلاعات سلامت موجب بهبود چه ابعادی از کیفیت داده های
+جمع آوری شده میشوند؟
+الف) accuracy and timeliness
+comprehensiveness and precision (~ timeliness and precision (
+د) accuracy and precision
+: @phdpezeshki
+02188801465-02188802153- Id teleg &
+insta
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+معين
+۶۲ در یک کلینیک اطلاعات حساس بیماران به صورت رمزگذاری شده به یک بیمارستان ارسال میشود کدام یک از موارد زیر نحوه رمزگذاری را به درستی توصیف میکند؟
+کنند.
+کلینیک و هم بیمارستان از یک کلید خصوصی برای رمزگذاری و رمزگشایی داده ها استفاده کلینیک داده ها را با استفاده از کلید خصوصی خود رمزگذاری میکند و بیمارستان با استفاده از کلید خود آن را رمزگشایی میکند. عمومی کلینیک داده ها را با استفاده از کلید عمومی بیمارستان رمزگذاری میکند و بیمارستان آن را با استفاده از کلید خصوصی خود رمزگشایی میکند.
+کلینیک داده ها را با استفاده از کلید عمومی خود رمزگذاری میکند و بیمارستان آن را با استفاده از کلید خصوصی
+کلینیک رمزگشایی
+۶۳ کدام نوع ،بدافزار بدون نیاز به تعاملات انسانی از یک سیستم به سیستم دیگر منتقل میشود؟ الف) Trojan horse
+Worm
+ج) Macro virus د) File infector virus
+۶۴ چرا شناسایی یک polymorphic virus در مقایسه با انواع دیگر ویروسها دشوارتر است؟ الف) زیرا در بخش بوت سیستم قرار میگیرد و حذف آن را سخت می کند.
+ب کدهای مخرب را در فایلهای به ظاهر قانونی پنهان میکند.
+ج) کنترل سیستمهای متعدد را به دست میگیرد و آنها را از راه دور اداره میکند.
+د ساختار کد خود را در هر آلودگی تغییر میدهد و از تشخیص مبتنی بر امضا اجتناب می کند.
+-۶۵ تکنولوژی های mHealth با فراهم کردن دسترسی ubiquities به داده های افراد بیشتر کدام جنبه از امنیت
+اطلاعات سلامت افراد را تحت تأثیر قرار میده الف) Confidentiality ب) Integrity
+Privacy (
+د) Authenticity
+۶۶ شما مدیر بخش فناوری اطلاعات یک مرکز مشاوره و بهداشت روان منطقه ای هستید در مرکز شما بیماران پس از غربالگری به روان کاو یا روانپزشک ارجاع داده میشوند. اخیراً درخواستی از وزارت بهداشت جهت گزارش تعداد ویزیت های نوجوانان در طول سال در مرکز خود دریافت کرده اید برای ارائه این گزارش شما با چه مشکلی از نظر
+کیفیت داده ها مواجه هستید؟
+Data Accuracy (~
+(الف) Data Granularity
+۶۷ هدف استاندارد HL7 CDS Hooks در EHRها کدام گزینه است؟
+الف) ایجاد API برای تبادل داده
+(ب) ایجاد API برای یکپارچگی برنامه
+(ج) ایجاد API برای یکپارچگی خدمات پشتیبان تصمیم گیری
+د ایجاد API برای یکپارچگی خدمات بالینی
+۶۸ استاندارد FHIR بر مبنای کدام یک از گزینه های زیر ایجاد شده است؟
+Clinical Document Architecture (ll
+Reference Information Model (~
+Conceptual Information Model
+Continuity of Care Document ( (3
+د) Data Definition
+ayd.mmin
+۹ کدام یک از استانداردهای زیر برای تبادل داده های آزمایشگاهی بالینی توسعه یافته است؟
+(الف) Medix
+ب) ASTM E31.11
+ج) ANSI X12
+02188801465-02188802153- Id.teleg & insta
+: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۷۰ کدام مفهوم زیر جهت اطمینان از یکپارچگی و استفاده مؤثر از انواع دادههای مراقبت بهداشتی برای ارتقاء قابلیت
+همکاری بین ذینفعان متعدد حیاتی است؟
+Translational Informatics Framework (
+Universal Ontology Development Multi-Device Interoperability Protocols (
+Real-Time Data Exchange Standards
+۷۱- کدام یک از پلتفرمهای زیر به طور خاص برای استخراج اصطلاحات پزشکی از متون بالینی غیر ساختار یافته و پشتیبانی از تحلیل معنایی طراحی شده است؟
+الف) MetaMap
+اب) Apache Solr ج) ElasticSearch د) Tableau
+تمرکز اصلی کمیته فنى 215 ISO/TC
+ج) توسعه داروها و تجهیزات پزشکی
+د سیستم های مدیریت بیمارستان
+چیست؟
+۷۳ استاندارد اصلی برای تبادل دادههای بالینی بین ارائه دهندگان خدمات بهداشتی کدام است؟ د) CPT
+الف) HL7
+۷۴ کدام یک از اصطلاحات زیر به طور گسترده ای برای طبقه بندی بیماریها در سیستمهای بهداشتی جهانی استفاده میشود؟
+(الف) CPT
+۷۵ یک اشتباه رایج در مطالعات ارزیابی چیست؟
+(الف) عدم مشورت با ذینفعان کلیدی
+ب استفاده از روشهای اندازه گیری قدیمی
+ج) گردآوری بازخورد کاربران در مراحل اولیه
+د اتکا صرف به داده های کمی
+ج) ICD
+SNOMED (3
+www.phidpezeshi
+۷۶ کدام نوع مطالعه نیاز به وجود حداقل یک نمونه اولیه عملی functioning prototype) دارد؟
+(الف) Need assessment
+ب) Design validation
+Structure validation (
+(د) Usability testing
+۷۷ عامل کلیدی که باید در انتخاب شرکت کنندگان برای مطالعات عینی (Objectivist study) در نظر گرفته شود چیست؟
+(الف) شرکت کنندگان باید داوطلب باشند.
+ب شرکت کنندگان باید به جمعیت هدف شباهت داشته باشند.
+(ج) شرکت کنندگان باید تجربه قبلی با منبع داشته باشند.
+د شرکت کنندگان باید از همان مؤسسه باشند.
+۷۸ کدام یک از موارد زیر ویژگی کلیدی ارزیابی تکوینی سیستمهای اطلاعات سلامت میباشد؟
+الف هدف از آن ارزیابی پیامدهای دراز مدت است.
+ب هدف از آن تعیین میزان برآورده شدن اهداف مد نظر سیستم میباشد.
+ج سریع است و بر بهبود طراحی فناوری تمرکز دارد. د شامل کارآزماییهای بالینی گسترده میباشد.
+02188801465-02188802153- Id teleg & insta
+: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۷۹ کدام یک جزو بخشهای اصلی قانون حریم خصوصی HIPAA نیست؟
+(الف) مرزها و حدود استفاده از داده
+ب امنیت و حفاظت از دادههای در اختیار دیگران
+مسوولیت مدنی و جزایی افرادی که از دادهها و اطلاعات دیگران استفاده امنیت دادهها و اطلاعات در زمان انتقال بین دستگاهها و سیستم ها
+کنند
+معین
+مشخص بودن هویت و دلیل جمع آوری و استفاده از دادهها و اطلاعات بیماران از الزامات کدام واژه زیر است؟
+الف) Privacy ب) Openness
+www.phdpezeshk ki
+شامل کدام یک از موارد زیر است؟1- Computer security 
+(الف) رعایت حریم خصوصی با مسوولیت اجتماعی، (ج) رعایت قانون HIPAA
+د امنیت فیزیکی و تکنیکی برای اطمینان از رعایت محرمانگی
+۸۲ مهمترین عامل تاثیر گذار بر انتخاب روش ارزیابی کدام یک از موارد زیر است؟
+(الف) کاربران نهایی
+ج) منابع مالی
+د) منابع انسانی
+۸۳- کدام یک از موارد زیر نمونه ای از استانداردهای اصطلاحات کد گذاری شده در انفورماتیک پزشکی است؟
+(الف) SNOMED CT
+ب) X12
+۸۴- کدام یک از ابزارهای زیر در مدیریت سلامت شخصی استفاده ،
+(الف) حسگرها برای نظارت خانگی
+(ب) نرم افزارهای تجزیه و تحلیل آماری
+ج پایگاه های داده بیمارستانی
+د دستگاههای MRI برای تصویربرداری مدرن
+۸۵ کدام یک از مفاهیم زیر به سواد سلامت اشاره دارد؟ (الف) توانایی پزشکان در مدیریت داده های بیمارستانی (ب) توانایی بیماران در درک و استفاده از اطلاعات سلامت
+(ج) توانایی بیماران در تجزیه و تحلیل داده های بالینی
+د توانایی پزشکان در ارائه مراقبتهای بهتر
+۸۶ کدام یک از ویژگیهای زیر در تمام ارزیابیهای انفورماتیک پزشکی مشترک هستند؟ (الف) گردآوری دادهها در آنها با استفاده از پرسشنامه و مصاحبه انجام میشود.
+ب) همه روی شناسایی خطرات احتمالی مرتبط با منابع اطلاعاتی تمرکز میکنند.
+ج) هدف آنها فراهم کردن اطلاعات مبتنی بر شواهد برای تصمیم گیری است.
+FHIR (3)
+همه توسط متخصصین آموزش دیده که دارای تخصص انفورماتیک هستند انجام میشوند.
+02188801465-02188802153- Id teleg & insta : @phdpezeshki
+ki, som,
+Identity (
+HIPAA
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+-۸۷ چرا ارتباط بین ارزیابان و مشتریان در موفقیت یک ارزیابی موثر است؟ الف) برای اطمینان از اینکه مطالعه به شیوه اخلاقی انجام شده است. برای اطمینان از اینکه یافتههای تحقیقات برای همه ذینفعان مرتبط و مفید است.
+برای جذب بودجه و منابع برای پروژه تحقیقاتی
+حفظ مالکیت معنوی نتایج تحقیقات
+معین
+ستمهای اطلاعاتی بر رفتار و عملکرد کاربران
+د) شناخت مشکلات اطلاعاتی که سیستم ها برای حل آنها طراحی شده اند -۸۹ چگونه میتوان از Artificial Wisdom در توسعه هوش مصنوعی پزشکی حمایت کرد؟
+(الف) با افزایش سرعت پردازش دادهها ب با ادغام اصول اخلاقی در طرا
+ج با کاهش تعامل انسانی در تصمیم گیریها
+د با تمرکز بر الگوریتم های پیچیده
+۹۰ نقش اصلی پزشکان در مراحل اولیه استفاده از سیستمهای EMR و AI چیست؟
+(الف) ارائه درمان مستقیم به بیماران
+ب نظارت بر کارکرد سیستم های EMR
+wwwi, phdpezeshkdit
+(ج) جمع آوری و وارد کردن دادههای بیمار به سیستم های EMR وAl د) آموزش بیماران در مورد استفاده از EMR
+۹۱ کدام گزینه به معنی note bloat اشاره می کند؟
+الف در سیستمهای پشتیبان تصمیم به خطاهای سیستم اشاره میکند.
+ب در پرونده سلامت الکترونیک به خطاهای مربوط به کپی پیست اطلاعات اشاره می کند.
+ج) در سیستمهای مراقبت از راه دور به یادداشتهای پزشکان اشاره میک؟
+در سیستم های ثبت به موارد بیماری با فراوانی بیشتر اشاره می
+۹۲ در فرآیند درخواست پرونده بیمار توسط پزشک از پرونده الکترونیک سلامت با معماری institution-centric کدام
+گزینه صحیح است؟
+(الف) Patient ID برای انجام فرآیند درخواست و دسترسی مورد نیاز است.
+(ب) ASSEMBLY برای انجام فرآیند درخواست و ایجاد دسترسی مورد نیاز هستند.
+ج) INDEX
+و Patient-ID برای انجام فرایند درخواست و ایجاد دسترسی مورد نیاز هستند. INDEX و ASSEMBLY برای انجام فرایند درخواست و دسترسی مورد نیاز هستند.
+۹۳ کدام یک از ویژگیهای کاربردپذیری نیلسن نمیباشد؟ الف) Memorability ب) Effectiveness
+insta
+: @phdpezeshki
+Satisfaction (
+02188801465-02188802153- Id, teleg &
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+۹۴ مبحث تعامل انسان و کامپیوتر کدام یک از موارد زیر را مورد توجه قرار میدهد؟
+(الف) ارزیابی و کاربردپذیری
+ب) طراحی و پیاده سازی
+ج) طراحی و کاربردپذیری
+پیاده سازی و ارزیابی
+۹۵ کدام یک از روشهای زیر در طراحی و ارزیابی سیستمهای تعاملی بیشترین کاربرد را دارد؟
+الف) Hierarchical task-analysis
+ب) iser task analysis
+Cognitive walkthrough (
+معین
+الزامات کاربردی برای پیاده سازی موفق سیستمهای سلامت از راه دور کدام هستند؟
+ج) استانداردسازی قوانین سلامت در سطح ملی د همکاری خوب بین متخصصین مراقبت سلامت
+۹۷ کدام یک از موارد زیر وجه تمایز سلامت از راه دور و پزشکی از راه دور را بیان میکند؟
+(الف) سلامت از راه دور فقط شامل دریافت خدمات بالینی بدون هر گونه ارتباط تعاملی است.
+ب سلامت از راه دور طیف وسیع تری از خدمات مانند تعامل با سیستمهای خودکار را شامل میشود.
+(ج) پزشکی از راه دور به تعامل بیمار و پزشک از طریق مشاوره های ویدیویی محدود میشود.
+د پزشکی از راه دور یک اصطلاح وسیع تر است که شامل تمام جنبه های ارائه خدمات بهداشتی میشود.
+۹۸ بخشی از یک سیستم خبره است که حقایق مسئله را که در طی اجرا بدست آمده است در خود نگهداری میکند:
+الف) Long term memory
+www.phdpezesh
+Working memory (→ Short term memory (
+Knowledge base
+-۹۹ کدام گزینه ویژگی سیستم خبره محسوب :
+(الف) Precise information
+Knowledge separate from control (-
+Explanation Facility (
+Acceptable solution
+۱۰۰- کدام گزینه از دسته استانداردهایی است که تصمیم بارها را مورد ارزیابی قرار میدهند؟
+(الف) Effectiveness Criteria
+Design Criteria (~
+ج) Evaluation Criteria
+02188801465-02188802153- Id, teleg &
+Implementation Criteria
+insta: @phdpezeshki
+معين
+Part one: Reading comprehension
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+زبان تخصصی و عمومی
+زبان تخصی
+Read the following passages carefully and then answer the questions that follow. Base your answers on the information in the passage only.
+Passage1:
+What is the difference between data and information? The simple answer is that information is processed data. Data are raw facts, generally stored as characters, words, symbols, measurements, or statistics. One thing that is apparent about data is that they are generally not very useful for decision making. Data may describe a particular event, but alone and unprocessed they are not particularly helpful. Take for example this figure: 79 percent. By itself, what does it mean? If we process this datum further by indicating that it represents the average bed occupancy for a hospital for the month of January, it takes on more meaning. With the additional facts attached, is this figure now information? That depends. If all a health care executive wants or needs to know is the bed occupancy rate for January, this could be considered information. However, for the hospital executive who is interested in knowing the trend of the bed occupancy rate over time or how the facility's bed occupancy rate compares to that of other, similar facilities, this is not yet information.
+Health care data are items of knowledge about an individual patient or a group of patients. In health care, data are captured about a patient in paper or electronic format during his or her attendance at an outpatient clinic, health care centre, health care provider's office, or his or her admission to a hospital. The data collected should include all relevant findings relating to the patient's condition, diagnoses, treatment, if any, and other events as they occur. Whether the data are collected manually or in a computer, it is important to ensure that it is correct at the point of entry.
+1-1- According to the information that you have learned from the passage the average score of students in a course is................................
+a) a raw fact.
+an unprocessed data.
+c) an organized data.
+d) a collection of data.
+1- In the first paragraph in "it takes on more meaning.","it" refers to:
+a hospital
+b) 79 percent
+phape
+c) average bed occupancy d) month of January
+-- "that" in the first paragraph, last sentence refers to: a) hospital executive
+b) the trend c) facility
+d) bed occupancy rate
+1-F- Health care data are collected
+a) during patient encounter in a health care facility. b) when a patient leaves the health care center. c) only if the patient is hospitalized.
+d) during the patient period of recovery.
+1. According to the passage, for the provision of high-quality clinical care the .............. of information is crucial.
+a) conformity
+b) inaccuracy correctness
+corrolation
+02188801465-02188802153- Id, teleg & insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+معين
+Passage2:
+A more important consideration in biomedical informatics has been the strategy of whether to develop and how to develop. As Biomedical Informatics has expanded, software has matured to the point that it is developed by and available from commercial companies, so that software development has become less of a concern for most of the field. Software vendors can spread development costs over multiple organizations, rather than one organization having to fund the full development, which can make purchasing software economically advantageous. On the other hand, the core requirements for software continue to change, and sometimes organizations need to make decision about specific capabilities that are not met by existing vendor software options. In addition to software development, informaticians often participate in software acquisition, as well as in subsequent enhancements to acquired software.
+1. What is the main topic of the below paragraph?
+a) Strategic decision making
+b) Software cost
+c) Saving costs
+d) Collaborative decision making
+1-Y- What is the most important concern in medical informatics?
+a) Software development b) Software implementation
+c) Software maintenance
+d) Software cost
+1-A- What is the main challenge of purchasing software from vendors?
+a) Ignoring user requirements
+b) Increasing software cost
+c) No user involvement
+d) Expensive software maintenance
+1-4- What is the economic advantage of software purchasing?
+a) Developing an organization dependent software
+b) Possibility of developing software for multiple organizations
+d) Minimizing vendor software options
+11. Which sentence is not correct?
+a) Commercial companies are not concerned about system development.
+b) Software products need to be developed by commercial companies.
+c) Software vendors can manage development costs among multiple organizations. d) The organizational requirements may different from vendor options.
+02188801465-02188802153- Id, teleg & insta: @phdpezeshki
+معيه
+رشته انفورماتیک پزشکی
+دکتری تخصصی (Ph.D)
+Part two: Vocabulary
+Complete the following sentences, choosing the most appropriate answer (a, b, c, or d).
+111- Cognitive artifacts are human made materials, devices, and systems that extend people's
+abilities in
+a) memorizing
+b) problem-solving c) changing lifestyle
+d) different ways
+11T- A process of reaching specific conclusions (e.g., a diagnosis) from a hypothesis or a set of
+hypotheses is called
+a) deductive reasoning
+b) inductive reasoning
+c) abductive reasoning
+d) logical reasoning
+www.phdpèzeshki.com
+11- Unequal access of patients to infrastructure and tools necessary for telehealth is called
+a) geographical distance
+b) digital divide
+c) point of care
+d) electronic equity
+11f The likelihood that a given symptom will be observed in a patient with a given disease or
+condition is
+a) specificity
+b) precision
+c) accuracy
+d) sensitivity
+114- A collection of individual observations without any summarizing analysis is a
+d) uniform data set
+02188801465-02188802153- Id teleg & insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+زبان عمومی
+رشته انفورماتیک پزشکی
+معين
+Part one: Reading comprehension
+Read the following passages carefully and then answer the questions that follow. Base your answers on the information in the passage only.
+Passage1:
+In coordination with Member States, the World Health Organization (WHO) and partners have established an access and allocation mechanism for mpox medical countermeasures including vaccines, treatments and diagnostic tests. The Access and Allocation Mechanism (AAM) will increase access to these tools for people at highest risk and ensure that the limited supplies are used effectively and equitably. This is part of the response to the public health emergency of international concern declared by WHO Director-General Dr Tedros on 14 August 2024, following an upsurge of mpox in Congo and neighboring countries. Fifteen countries in Africa have reported mpox this year. Dr Tedros said, "The COVID-19 pandemic illustrated the need for international coordination to promote equitable access to these tools so they can be used most effectively where they are most needed. We urge countries with supplies of vaccines and other products to come forward with donations, to prevent infections, stop transmission and save lives."
+Over 3.6 million doses of vaccines have been pledged for the mpox response. This includes 620 000 doses of the MVA-BN vaccine pledged to affected countries by the European Commission, Austria, Belgium, Croatia, Cyprus, France, Germany, Luxembourg, Malta, Poland, Spain, and the United States of America, as well as vaccine manufacturer Bavarian Nordic. Japan has pledged 3 million doses of the LC16 vaccine, the largest number of doses pledged so far. The recent surge in mpox cases, coupled with the limited availability of vaccines and other medical countermeasures, underscores the need for a collaborative and transparent process to distribute these critical resources fairly. The AAM is working to allocate the currently scarce supplies of vaccines and diagnostics for those at the highest risk of infection, including for vaccinating contacts of confirmed cases, and providing access to point of care diagnostics to countries with ongoing mpox outbreaks so that people who might be suspected cases can systematically be tested and cared for.
+11- The AAM aims to ensure that mpox medical countermeasures
+a) afflict people at high risk
+wapaze
+b) reach all impacted communities
+c) promote Bavarian Nordic vaccine
+d) restrict response to public health emergencies
+11- Dr Tedros mentions "the COVID-19 pandemic" to.............
+a) compare its severity with the mpox
+b) show the international vaccines promoted to fight it
+c) exemplify the required collaboration to counter mpox d) illustrate the effective use of Covid-19 vaccines to stop mpox
+11A- Which of the following is true?
+114-
+a) Japan is taking a great measure to fight mpox.
+b) LC16 vaccine has proved most effective to fight mpox.
+c) MVA-BN vaccine will be used in the European Commission.
+d) Different vaccines will be used in Asia and Europe against mpox.
+The author highlights.
+a) immediate and restricted
+b) just and systematic
+fair and haphazard
+d) organized and partial
+handling of mpox cases in countries with the disease.
+1. What does "those" in the last paragraph refer to?
+a Scarce supplies of vaccines and diagnostics b) Vaccines and other medical countermeasures Critical medical resources of mpox
+d) People in the affected countries
+02188801465-02188802153- Id, teleg & insta: @phdpezeshki
+دکتری تخصصی (Ph.D)
+رشته انفورماتیک پزشکی
+معين
+Passage2:
+Alternative medicine is, by definition, an alternative to something else: modern, Western medicine. But the term "alternative' can be misleading, even off-putting for some people. Few practitioners of homeopathy, acupuncture, herbalism and the like regard their therapies as complete substitutes for modern medicine. Rather, they consider their disciplines as supplementary to orthodox medicine. The problem is that many doctors refuse even to recognize 'natural' or alternative medicine, to do so calls for a radically different view of health, illness and cure. But whatever doctors may think, the demand for alternative forms of medical therapy is stronger than ever before, as the limitations of modern medical science become more widely understood. Alternative therapies are often dismissed by orthodox medicine because they are sometimes administered by people with no formal medical training. But, in comparison with many traditional therapies, western medicine as we know it today is a very recent phenomenon. Until only 150 years ago, herbal medicine and simple inorganic compounds were the most effective treatments available. Despite the medical establishment's intolerant attitude, alternative therapies are being accepted by more and more doctors, and the World Health Organization (WHO) has agreed to promote the integration of proven, valuable, "alternative" knowledge and skills in western medicine.
+11- Alternative medicine is
+a misleading practice by WHO
+b) a substitute for conventional medicine
+an adjunct to modern and Western medicine
+d) an explicitly approved practice by modern medicine
+Apexesh
+ITT- Conventional doctors reject alternative medicine because it a) is a newly developed practice b) encourages intolerant attitudes
+c) will soon replace modern medicine d) is often practiced by untrained individuals
+ITT Few practitioners of alternative medicine think their therapies should a) substitute modern medicine
+b) complement modern medicine
+c) be followed by orthodox medicine d) be acknowledged by medical establishments
+If The World Health Organization tends to
+a) disseminate all forms of alternative medicine b) reject any attitudes towards alternative therapies c) discourage approved practices of alternative medicine
+d) combine established alternative practices with orthodox medicine
+17- According to the passage,...................................
+a) for more than a century, orthodox medicine has been the most effective practice
+b) modern medicine has been acknowledged to have its own limitations
+C many practitioners advocate an independent practice of alternative medicine
+the idea supporting the need for alternative medicine is vanishing
+02188801465-02188802153- Id teleg & insta: @phdpezeshki
+معين
+رشته انفورماتیک پزشکی
+Part two: Vocabulary
+Complete the following sentences, choosing the most appropriate answer (a, b, c, or d)
+ITP It is
+to learn that a new health study has revealed a significant increase
+among young adults.
+a) agonizing
+b) reassuring
+c) soothing d) inspiring
+دکتری تخصصی (Ph.D)
+ITV The researchers faced public scandal after it was discovered that they had systematically
+their research data.
+a) aggregated
+b) accredited
+c) fabricated
+d) authenticated.
+ITA The nutritionist took the time to
+seminar; she had detailed presentation.
+the benefits of a balanced diet during the health
+www.pdpexeshki.com
+a) truncate
+b) squeeze
+c) occlude
+d) elaborate
+14- The present study .............. the findings of many earlier similar studies; in fact, it echoes the same findings in some Asian countries.
+a) contradicts
+b) corroborates
+c) castigates
+d) commemorates
+17. The recent .............. in medical technology has greatly contributed to the success rates of complex
+surgeries.
+02188801465-02188802153- Id teleg & insta: @phdpezeshki
+بسمه تعالی
+معين
+دبیرخانه شورای آموزش علوم پایه پزشکی بهداشت و تخصصی و مرکز سنجش آموزش پزشکی با هدف ارتقای کیفیت سوالات و بهبود روند اجرای آزمونها پذیرای درخواستهای بررسی سوالاتی است که و قالب مشخص شده زیر از طریق اینترنت ارسال می گردد تا کار رسیدگی با سرعت و دقت بیشتری انجام گیرد.
+ضمن تشکر از همکاری داوطلبان محترم موارد ذیل را به اطلاع می رساند:
+۱- کلید اولیه سوالات ساعت ۱۴ مورخ ۱۴۰۳/۰۸/۱۳ از طریق سایت اینترنتی www.sanjeshp.ir اعلام خواهد شد. - اعتراضات خود را از ساعت ۱۴ مورخ ۱۴۰۳/۰۸/۱۳ لغایت ساعت ۲۴ مورخ ۱۴۰۳/۰۸/۱۸ به آدرس اینترنتی بالا ارسال نمایید. ۳- اعتراضاتی که به هر شکل خارج از فرم ارائه شده بعد از زمان تعیین شده و یا به صورت غیر اینترنتی (حضوری)
+تذکر مهم:
+فقط اعتراضات ارسالی در فرصت زمانی تعیی شده مورد بررسی قرار گرفته و پس از تاریخ مذکور به هیچ عنوان ترتیب
+اثر داده نخواهد شد.
+از تکرار اعتراضات خود به یک سوال پرهیز نمایید تعداد اعتراض ارسالی برای یک سوال ملاک بررسی نمیباشد و به کلیه اعتراضات ارسالی اعم از یک مورد و یا بیشتر رسیدگی خواهد شد.
+www.ondpezesi iki.com
+دبیرخانه شورای آموزش علوم پایه پزشکی،
+بهداشت و تخصصی
+مرکز سنجش آموزش علوم پزشکی
+مورد بررسی
+نام درس:
+نام خانوادگی
+شماره سوال
+سال انتشار
+صفحه
+بیش از یک جواب صحیح دارد با ذکر جوابهای (صحیح)
+اب صحیح ندارد
+سوال صحيح
+:توضیحات
+insta : Ephapezeshki
+02188801465-02188802153- Id teleg &
+
